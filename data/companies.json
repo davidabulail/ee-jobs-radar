@@ -1,0 +1,20 @@
+[
+  {"name": "Lockheed Martin", "sector": "defense", "ats": "playwright-lockheed"},
+  {"name": "Northrop Grumman", "sector": "defense", "ats": "playwright-northrop"},
+  {"name": "Boeing", "sector": "aero", "ats": "workday", "host": "boeing.wd1.myworkdayjobs.com", "tenant": "boeing", "site": "EXTERNAL_CAREERS"},
+  {"name": "SpaceX", "sector": "aero", "ats": "greenhouse", "slug": "spacex"},
+  {"name": "Blue Origin", "sector": "aero", "ats": "lever", "slug": "blueorigin"},
+  {"name": "Palantir", "sector": "defense", "ats": "lever", "slug": "palantir"},
+  {"name": "Saronic", "sector": "marine", "ats": "ashby", "slug": "saronic"},
+  {"name": "Epirus", "sector": "defense", "ats": "greenhouse", "slug": "epirus"},
+  {"name": "NVIDIA", "sector": "chips", "ats": "workday", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite"},
+  {"name": "Intel", "sector": "chips", "ats": "workday", "host": "intel.wd1.myworkdayjobs.com", "tenant": "intel", "site": "External"},
+  {"name": "Broadcom", "sector": "chips", "ats": "workday", "host": "broadcom.wd1.myworkdayjobs.com", "tenant": "broadcom", "site": "External_Career"},
+  {"name": "Marvell", "sector": "chips", "ats": "workday", "host": "marvell.wd1.myworkdayjobs.com", "tenant": "marvell", "site": "MarvellCareers"},
+  {"name": "Analog Devices", "sector": "chips", "ats": "workday", "host": "analogdevices.wd1.myworkdayjobs.com", "tenant": "analogdevices", "site": "External"},
+  {"name": "Micron", "sector": "chips", "ats": "workday", "host": "micron.wd1.myworkdayjobs.com", "tenant": "micron", "site": "External"},
+  {"name": "Applied Materials", "sector": "chips", "ats": "workday", "host": "amat.wd1.myworkdayjobs.com", "tenant": "amat", "site": "External"},
+  {"name": "KLA", "sector": "chips", "ats": "workday", "host": "kla.wd1.myworkdayjobs.com", "tenant": "kla", "site": "Search"},
+  {"name": "Aurora", "sector": "auto", "ats": "greenhouse", "slug": "aurorainnovation"},
+  {"name": "Zoox", "sector": "auto", "ats": "lever", "slug": "zoox"}
+]

@@ -1,0 +1,74 @@
+# Hourly cron that scrapes every company, classifies postings, emails new
+# matches, and commits the updated postings.json back to main. The commit
+# triggers a Vercel deploy with the latest data baked into the dashboard.
+#
+# Required GitHub repo secrets (Settings → Secrets and variables → Actions):
+#   RESEND_API_KEY    — from resend.com (free tier, 3k/mo)
+#   ALERT_EMAIL_TO    — your email
+#   ALERT_EMAIL_FROM  — optional; defaults to "EE Jobs Radar <onboarding@resend.dev>"
+
+name: poll
+
+on:
+  schedule:
+    # Every hour at :15 (avoiding the top of the hour, which is when
+    # GitHub's cron is most loaded — runs more reliably).
+    - cron: "15 * * * *"
+  # Also let us trigger it manually from the Actions tab while testing.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Chromium is needed by the Playwright-based scrapers (Lockheed,
+      # Northrop). --with-deps installs Linux system libraries Chromium
+      # needs on the GitHub runner. We cache the Chromium binary itself
+      # via the actions/cache step below to keep cron runs fast.
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Install Playwright browsers
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install --with-deps chromium
+
+      - name: Install Playwright system deps (cache hit path)
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: npx playwright install-deps chromium
+
+      - name: Run poll
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+        run: npx tsx scripts/poll.ts
+
+      - name: Commit updated postings
+        run: |
+          git config user.name "ee-jobs-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          # Only commit if the file actually changed (avoid empty commits).
+          if git diff --quiet data/postings.json; then
+            echo "No changes to postings."
+          else
+            git add data/postings.json
+            git commit -m "poll: $(date -u +"%Y-%m-%d %H:%M UTC")"
+            git push
+          fi
