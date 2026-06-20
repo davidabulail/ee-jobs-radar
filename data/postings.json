@@ -1,5 +1,65 @@
 [
   {
+    "id": "workday:boeing:/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "General Repair Technician (General Repair)",
+    "location": "NLD - Hoogerheide, Netherlands",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
+    "postedAt": "Posted 5 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-20T22:37:01.590Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Customer-Quality-Engineer--f-m-d-_JR2026511485-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Customer Quality Engineer (f/m/d)",
+    "location": "DEU - Henstedt-Ulzburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Henstedt-Ulzburg-Germany/Customer-Quality-Engineer--f-m-d-_JR2026511485-1",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-20T22:37:01.590Z"
+  },
+  {
+    "id": "workday:boeing:/job/ETH---Addis-Ababa-Ethiopia/Customer-Support-Specialist--Customer-Support-Management-_JR2026512387-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Customer Support Specialist (Customer Support Management)",
+    "location": "ETH - Addis Ababa, Ethiopia",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/ETH---Addis-Ababa-Ethiopia/Customer-Support-Specialist--Customer-Support-Management-_JR2026512387-1",
+    "postedAt": "Posted 10 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-20T22:37:01.590Z"
+  },
+  {
+    "id": "workday:marvell:/job/Santa-Clara-CA/Staff-Firmware-Software-Engineer--Embedded-SoC-Microcontroller-DSP-SERDES-AEC-Microled-ODSP-PHY-AI-Connectivity_2601811",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI Connectivity",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Staff-Firmware-Software-Engineer--Embedded-SoC-Microcontroller-DSP-SERDES-AEC-Microled-ODSP-PHY-AI-Connectivity_2601811",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-20T22:36:59.923Z"
+  },
+  {
+    "id": "workday:marvell:/job/Santa-Clara-CA/Principal-Embedded-Firmware-Software-Engineer---Networking-PAM4-DSP-data-center-AI-connectivity_2503967",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/AI connectivity/memory-constrained",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Principal-Embedded-Firmware-Software-Engineer---Networking-PAM4-DSP-data-center-AI-connectivity_2503967",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-20T22:36:59.923Z"
+  },
+  {
     "id": "workday:micron:/job/Boise-ID---Main-Site/Senior-Industrial-Engineer---AI-Enablement_JR104334",
     "company": "Micron",
     "sector": "chips",
@@ -1308,18 +1368,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Seat Structures Engineer (Mid-Level) (m/f/d) ",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/GBR---London-UK/Strategy-Analyst_JR2026503468-2",
     "company": "Boeing",
     "sector": "aero",
@@ -1392,18 +1440,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Seat Structures Engineer / CVE (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1423,18 +1459,6 @@
     "location": "QAT - Al Udeid AB, Qatar",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/QAT---Al-Udeid-AB-Qatar/Quality-Production-Specialist_JR2026495962",
     "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026504605-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "CVE / Senior Part 21J Structures Engineer (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026504605-2",
-    "postedAt": "Posted 10 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -10771,30 +10795,6 @@
     "location": "Pune",
     "url": "https://marvell.wd1.myworkdayjobs.com/job/Pune/Sr-Staff-Manager--Fibre-Channel-Architecture---Development-_2601166",
     "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.829Z"
-  },
-  {
-    "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Staff-Engineer--Digital-IC-Design_2602604",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Senior Staff Engineer, Digital IC Design",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Senior-Staff-Engineer--Digital-IC-Design_2602604",
-    "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.829Z"
-  },
-  {
-    "id": "workday:marvell:/job/Santa-Clara-CA/Staff-Validation-Engineer--Photonic-Fabric_2602490-1",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Staff Validation Engineer, Photonic Fabric",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Staff-Validation-Engineer--Photonic-Fabric_2602490-1",
-    "postedAt": "Posted 11 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:09.829Z"
