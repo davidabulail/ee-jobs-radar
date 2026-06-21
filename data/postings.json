@@ -1,5 +1,53 @@
 [
   {
+    "id": "workday:boeing:/job/POL---Warsaw-Poland/Entry-Level-Structural-Analysis-Engineer_JR2026514338-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Entry-Level Structural Analysis Engineer",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Warsaw-Poland/Entry-Level-Structural-Analysis-Engineer_JR2026514338-1",
+    "postedAt": "Posted 11 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T23:46:39.491Z"
+  },
+  {
+    "id": "lockheed:92616605568",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Mult Fnc Info Sys Admin (Level 3):System Admin, JRB Forth Worth",
+    "location": "Fort Worth, Texas",
+    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/mult-fnc-info-sys-admin-level-3-system-admin-jrb-forth-worth/694/92616605568",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T23:46:36.176Z"
+  },
+  {
+    "id": "lockheed:95679123168",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Senior Dev Sec Ops Engineer  - (TS/SCI)",
+    "location": "King of Prussia, Pennsylvania",
+    "url": "https://www.lockheedmartinjobs.com/job/king-of-prussia/senior-dev-sec-ops-engineer-ts-sci/694/95679123168",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T23:46:36.176Z"
+  },
+  {
+    "id": "lockheed:95601288480",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Cloud Platform Engineer - Level 2 (Top Secret)",
+    "location": "King of Prussia, Pennsylvania",
+    "url": "https://www.lockheedmartinjobs.com/job/king-of-prussia/cloud-platform-engineer-level-2-top-secret/694/95601288480",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T23:46:36.176Z"
+  },
+  {
     "id": "workday:micron:/job/Seattle-WA/Director-of-Hyperscale-Sales_JR103709",
     "company": "Micron",
     "sector": "chips",
@@ -322,18 +370,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-21T01:41:20.666Z"
-  },
-  {
-    "id": "workday:boeing:/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "General Repair Technician (General Repair)",
-    "location": "NLD - Hoogerheide, Netherlands",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
-    "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T22:37:01.590Z"
   },
   {
     "id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Customer-Quality-Engineer--f-m-d-_JR2026511485-1",
@@ -1152,18 +1188,6 @@
     "firstSeenAt": "2026-06-19T20:49:22.331Z"
   },
   {
-    "id": "workday:boeing:/job/NLD---Amsterdam-Netherlands/Marketing---Sales-Representative_JR2026513635-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "International Business Development Lead – Northern Europe",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/NLD---Amsterdam-Netherlands/Marketing---Sales-Representative_JR2026513635-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026509807-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1183,6 +1207,18 @@
     "location": "DEU - Neu-Isenburg, Germany",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Neu-Isenburg-Germany/Mandatory-Bachelor-Master-Thesis---Future-Flight-Operations-Research-m-f-d_JR2026509805-1",
     "postedAt": "Posted 24 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/NLD---Amsterdam-Netherlands/Marketing---Sales-Representative_JR2026513635-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "International Business Development Lead – Northern Europe",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/NLD---Amsterdam-Netherlands/Marketing---Sales-Representative_JR2026513635-1",
+    "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -1500,18 +1536,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/E-7-Obsolescence-Engineer_JR2026500075-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "E-7 Obsolescence Engineer",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/E-7-Obsolescence-Engineer_JR2026500075-3",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Tukwila-WA/Contract-Management-Specialist--Experienced-or-Senior-_JR2026513803-2",
     "company": "Boeing",
     "sector": "aero",
@@ -1519,6 +1543,18 @@
     "location": "2 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tukwila-WA/Contract-Management-Specialist--Experienced-or-Senior-_JR2026513803-2",
     "postedAt": "Posted 13 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/E-7-Obsolescence-Engineer_JR2026500075-3",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "E-7 Obsolescence Engineer",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/E-7-Obsolescence-Engineer_JR2026500075-3",
+    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -1704,18 +1740,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Global Trade Controls Specialist - Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/Associate-Real-Time-Software-Engineer-Vehicle-Management-Systems_JR2026493942-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1788,13 +1812,13 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Senior Quality Systems Specialist",
-    "location": "SGP - Singapore, Singapore",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
-    "postedAt": "Posted 6 Days Ago",
+    "title": "Global Trade Controls Specialist - Millennium Space Systems",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
+    "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -2023,6 +2047,18 @@
     "location": "USA - Everett, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Procurement-Analyst--Process-Supply-Base-Mgmt-_JR2026513559-1",
     "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Quality Systems Specialist",
+    "location": "SGP - Singapore, Singapore",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "postedAt": "Posted 6 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -2286,42 +2322,6 @@
     "title": "Systems Engineer - Skunk Works - Principal",
     "location": "Palmdale, California",
     "url": "https://www.lockheedmartinjobs.com/job/palmdale/systems-engineer-skunk-works-principal/694/93171377824",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T19:11:47.937Z"
-  },
-  {
-    "id": "lockheed:93171377728",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Systems Engineer - Skunk Works - Senior Staff",
-    "location": "Palmdale, California",
-    "url": "https://www.lockheedmartinjobs.com/job/palmdale/systems-engineer-skunk-works-senior-staff/694/93171377728",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T19:11:47.937Z"
-  },
-  {
-    "id": "lockheed:86643018640",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Circuit Design Engineer",
-    "location": "Littleton, Colorado",
-    "url": "https://www.lockheedmartinjobs.com/job/littleton/circuit-design-engineer/694/86643018640",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-19T19:11:47.937Z"
-  },
-  {
-    "id": "lockheed:93171377648",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Systems Engineer Skunk Works - Staff",
-    "location": "Palmdale, California",
-    "url": "https://www.lockheedmartinjobs.com/job/palmdale/systems-engineer-skunk-works-staff/694/93171377648",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -8100,6 +8100,18 @@
     "firstSeenAt": "2026-06-17T23:04:10.775Z"
   },
   {
+    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Manager, IT SOX Compliance",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:10.775Z"
+  },
+  {
     "id": "workday:nvidia:/job/Israel-Raanana/Senior-Software-Engineer---Python-and-Spectrum-X_JR2013961",
     "company": "NVIDIA",
     "sector": "chips",
@@ -8136,13 +8148,13 @@
     "firstSeenAt": "2026-06-17T23:04:10.775Z"
   },
   {
-    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "company": "NVIDIA",
     "sector": "chips",
-    "title": "Senior Manager, IT SOX Compliance",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
-    "postedAt": "Posted 30+ Days Ago",
+    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
+    "location": "Japan, Tokyo",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "postedAt": "Posted 24 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:10.775Z"
@@ -8203,18 +8215,6 @@
     "location": "Israel, Raanana",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Raanana/SONiC-Software-Engineer---Python_JR2017236",
     "postedAt": "Posted 25 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:10.775Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
-    "location": "Japan, Tokyo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "postedAt": "Posted 24 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:10.775Z"
