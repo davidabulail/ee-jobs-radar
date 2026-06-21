@@ -1,5 +1,137 @@
 [
   {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/PRINCIPAL-ENGINEER---PROCT-ADT-PEE-REG-E_JR103837-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "PRINCIPAL ENGINEER - PROCT ADT PEE REG E",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/PRINCIPAL-ENGINEER---PROCT-ADT-PEE-REG-E_JR103837-1",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:32.916Z"
+  },
+  {
+    "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Staff-Engineer--Digital-IC-Design_2602604",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Senior Staff Engineer, Digital IC Design",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Senior-Staff-Engineer--Digital-IC-Design_2602604",
+    "postedAt": "Posted 12 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:32.539Z"
+  },
+  {
+    "id": "northrop:1340071521502",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr. Principal Motor Drive Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071521502?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340071903055",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr. Principal PWB Design Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071903055?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340072316593",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Computer Operations Analyst - Level 2",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072316593?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340071318946",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr. Principal Embedded Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071318946?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340069952660",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Systems Engineering Manager 2",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340069952660?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340070772149",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Principal/Sr. Principal Digital Design Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340070772149?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340072318668",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Manufacturing Analyst",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072318668?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340068430742",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr. Principal Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340068430742?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
+    "id": "northrop:1340071305219",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Principal/Sr. Principal Digital Design Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071305219?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-21T13:19:31.258Z"
+  },
+  {
     "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/IE-Layout-Senior-engineer_JR100627",
     "company": "Micron",
     "sector": "chips",
@@ -94,18 +226,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-21T01:41:20.666Z"
-  },
-  {
-    "id": "northrop:1340072317345",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2026 Associate Manufacturing Analyst - San Diego CA",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072317345?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-21T01:41:18.287Z"
   },
   {
     "id": "workday:boeing:/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
@@ -274,102 +394,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-20T14:33:41.997Z"
-  },
-  {
-    "id": "northrop:1340070708191",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal/Sr. Principal DevOps Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340070708191?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340072271937",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Staff Integration Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072271937?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340072314695",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072314695?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340071318656",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Embedded Software Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071318656?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340071570218",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Software/Principal Software Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071570218?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340072001416",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Digital Design Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072001416?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340072319730",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal / Sr Principal AI Software Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072319730?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
-  },
-  {
-    "id": "northrop:1340072118960",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Reliability Engineer / Principal Reliability Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072118960?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-20T14:33:41.773Z"
   },
   {
     "id": "lockheed:96174465456",
@@ -1140,18 +1164,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Renton-WA/Manufacturing-Change-Management-Specialist_JR2026506422-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Manufacturing Change Management Specialist",
-    "location": "USA - Renton, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Renton-WA/Manufacturing-Change-Management-Specialist_JR2026506422-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Saint-Charles-MO/Precision-Strike-Chief-of-Staff_JR2026515308-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1159,6 +1171,18 @@
     "location": "USA - Saint Charles, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Saint-Charles-MO/Precision-Strike-Chief-of-Staff_JR2026515308-1",
     "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Renton-WA/Manufacturing-Change-Management-Specialist_JR2026506422-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Manufacturing Change Management Specialist",
+    "location": "USA - Renton, WA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Renton-WA/Manufacturing-Change-Management-Specialist_JR2026506422-1",
+    "postedAt": "Posted 5 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -1560,18 +1584,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Global Trade Controls Specialist - Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Seattle-WA/Lead-Artificial-Intelligence--Machine-Learning-Data-Scientist--Data-Science-_JR2026511183-2",
     "company": "Boeing",
     "sector": "aero",
@@ -1596,13 +1608,13 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Senior Quality Systems Specialist",
-    "location": "SGP - Singapore, Singapore",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
-    "postedAt": "Posted 6 Days Ago",
+    "title": "Global Trade Controls Specialist - Millennium Space Systems",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026507643-1",
+    "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -1675,6 +1687,18 @@
     "location": "USA - Seal Beach, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/Mid-Level-Industrial-Security-Specialist_JR2026513747-2",
     "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Quality Systems Specialist",
+    "location": "SGP - Singapore, Singapore",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "postedAt": "Posted 6 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -1908,18 +1932,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "777/777X Systems Service Engineering Manager",
-    "location": "USA - Seal Beach, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Berkeley-MO/Project-Engineer---Support-Equipment-Integrator--Lead-and-Senior-_JR2026496598-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1927,6 +1939,18 @@
     "location": "2 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Project-Engineer---Support-Equipment-Integrator--Lead-and-Senior-_JR2026496598-1",
     "postedAt": "Posted 5 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "777/777X Systems Service Engineering Manager",
+    "location": "USA - Seal Beach, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
+    "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -4881,18 +4905,6 @@
     "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-06-18T05:04:57.206Z"
-  },
-  {
-    "id": "workday:micron:/job/MSB-Singapore/Intern---Operations-Improvement-Engineer_JR102540",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Intern - Operations Improvement Engineer",
-    "location": "MSB, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern---Operations-Improvement-Engineer_JR102540",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-06-18T05:04:57.206Z"
   },
   {
@@ -10365,18 +10377,6 @@
     "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.829Z"
-  },
-  {
-    "id": "workday:marvell:/job/Petah-Tikva/ASIC-Architecture-Intern_2602286",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "ASIC Architecture Intern",
-    "location": "Petah-Tikva",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Petah-Tikva/ASIC-Architecture-Intern_2602286",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:09.829Z"
   },
   {
