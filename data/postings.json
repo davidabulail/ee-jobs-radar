@@ -1,5 +1,136 @@
 [
   {
+    "id": "workday:boeing:undefined",
+    "company": "Boeing",
+    "sector": "aero",
+    "location": "",
+    "url": "https://boeing.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:44.135Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "IT Service Desk Analyst-5",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
+    "postedAt": "Posted 12 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:44.135Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/Philippines-Cavite-jp/Senior-Engineer--DSP-Algorithm-Development_R263571",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Senior Engineer, DSP Algorithm Development",
+    "location": "Philippines, Cavite (jp)",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-jp/Senior-Engineer--DSP-Algorithm-Development_R263571",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-24T12:02:43.112Z"
+  },
+  {
+    "id": "workday:marvell:/job/Pavia-Italy/Staff-Application-Engineer_2600619-1",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Application Engineer",
+    "location": "Pavia, Italy",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Pavia-Italy/Staff-Application-Engineer_2600619-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:43.076Z"
+  },
+  {
+    "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/ENGINEER--F16N-ME-TPM_JR104287",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "ENGINEER, F16N ME TPM",
+    "location": "Miaoli - Tongluo, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Miaoli---Tongluo-Taiwan/ENGINEER--F16N-ME-TPM_JR104287",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
+    "id": "workday:micron:/job/Tainan-Taiwan/MGR--MTTN-DIFF-Procee-and-Equipment_JR104822",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, MTTN DIFF Procee and Equipment",
+    "location": "Tainan, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Tainan-Taiwan/MGR--MTTN-DIFF-Procee-and-Equipment_JR104822",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
+    "id": "workday:micron:/job/Tainan-Taiwan/MGR--MTTN-Wet-Process-and-Equipment_JR104821",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, MTTN Wet Process and Equipment",
+    "location": "Tainan, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Tainan-Taiwan/MGR--MTTN-Wet-Process-and-Equipment_JR104821",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
+    "id": "workday:micron:/job/Tainan-Taiwan/MGR--MTTN-CMP-Process-and-Equipment_JR104819",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, MTTN CMP Process and Equipment",
+    "location": "Tainan, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Tainan-Taiwan/MGR--MTTN-CMP-Process-and-Equipment_JR104819",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
+    "id": "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Facilities-Operation-Manager_JR99896",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Facilities Operation Manager",
+    "location": "Sanand - 303C - Facilities/Construction, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303C---FacilitiesConstruction-India/Facilities-Operation-Manager_JR99896",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
+    "id": "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Facilities-Maintenance-Manager_JR99899-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Facilities Maintenance Manager",
+    "location": "Sanand - 303C - Facilities/Construction, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303C---FacilitiesConstruction-India/Facilities-Maintenance-Manager_JR99899-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Senior-Technician---Package-Dev_JR100807",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Senior Technician - Package Dev",
+    "location": "2 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Senior-Technician---Package-Dev_JR100807",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-24T12:02:42.117Z"
+  },
+  {
     "id": "workday:nvidia:/job/Korea-Seoul/Senior-System-Software-Engineer---Automotive_JR2015971-1",
     "company": "NVIDIA",
     "sector": "chips",
@@ -837,18 +968,6 @@
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-06-24T00:13:09.046Z"
-  },
-  {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Mechanical & Structural Engineering Manager",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
-    "postedAt": "Posted 21 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-06-24T00:13:09.046Z"
   },
   {
@@ -2280,18 +2399,6 @@
     "firstSeenAt": "2026-06-23T16:07:38.069Z"
   },
   {
-    "id": "workday:analogdevices:/job/Ireland-Dublin-Glasnevin/Senior-Engineer--Firmware-Engineering_R261392",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Senior Engineer, Firmware Engineering",
-    "location": "Ireland, Dublin, Glasnevin",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Dublin-Glasnevin/Senior-Engineer--Firmware-Engineering_R261392",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-23T16:07:37.819Z"
-  },
-  {
     "id": "workday:micron:/job/Boise-ID---Main-Site/Sr-Computer-Engineer--AI-Enablement---Memory-CAD_JR103191",
     "company": "Micron",
     "sector": "chips",
@@ -3552,54 +3659,6 @@
     "firstSeenAt": "2026-06-22T21:15:52.662Z"
   },
   {
-    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Manager--ASIC-DV_JR103523-1",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Manager, ASIC DV",
-    "location": "Hyderabad - Phoenix Aquila, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Manager--ASIC-DV_JR103523-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-22T21:15:52.662Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/Staff-Design-Verification-Engineer--DRAM_JR88173",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff Design Verification Engineer, DRAM",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Staff-Design-Verification-Engineer--DRAM_JR88173",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-22T21:15:52.662Z"
-  },
-  {
-    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Data_JR100578",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "MANAGER, DATA ENGINEERING",
-    "location": "Hyderabad - Phoenix Aquila, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Data_JR100578",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-22T21:15:52.662Z"
-  },
-  {
-    "id": "workday:micron:/job/Richardson-TX/Custom-HBM-Architecture-and-Design-Engineer_JR103995-1",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Custom HBM Architecture and Design Engineer",
-    "location": "2 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Custom-HBM-Architecture-and-Design-Engineer_JR103995-1",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-22T21:15:52.662Z"
-  },
-  {
     "id": "ashby:saronic:e4bd92ac-303f-4a39-b655-cffc72aa227b",
     "company": "Saronic",
     "sector": "marine",
@@ -3754,30 +3813,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-22T17:53:35.158Z"
-  },
-  {
-    "id": "workday:micron:/job/Longmont-CO/Principal-AI-ML-Engineer--Validation-Intelligence_JR97396",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal AI/ML Engineer, Validation Strategy & Test Architecture",
-    "location": "2 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Longmont-CO/Principal-AI-ML-Engineer--Validation-Intelligence_JR97396",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-22T17:53:34.209Z"
-  },
-  {
-    "id": "workday:micron:/job/San-Jose-CA/ASIC-Product-Development-Team-Lead_JR102637",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "ASIC Product Development Team Lead",
-    "location": "San Jose, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/ASIC-Product-Development-Team-Lead_JR102637",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-22T17:53:34.209Z"
   },
   {
     "id": "ashby:saronic:eae1f47a-92cd-41cf-9e9d-51432d204524",
@@ -4138,18 +4173,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-22T05:33:28.073Z"
-  },
-  {
-    "id": "workday:micron:/job/San-Jose-CA/Layout-Designer_JR103904",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Layout Designer",
-    "location": "San Jose, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Layout-Designer_JR103904",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-21T17:56:52.773Z"
   },
   {
     "id": "greenhouse:spacex:8601802002",
@@ -4704,18 +4727,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Java-Software-Engineer_JR2026494130-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Java Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Java-Software-Engineer_JR2026494130-2",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Software-Systems-Engineer_JR2026507429-1",
     "company": "Boeing",
     "sector": "aero",
@@ -4944,18 +4955,6 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Quality Systems Specialist",
-    "location": "SGP - Singapore, Singapore",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Seattle-WA/Lead-Artificial-Intelligence--Machine-Learning-Data-Scientist--Data-Science-_JR2026511183-2",
     "company": "Boeing",
     "sector": "aero",
@@ -4980,13 +4979,13 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
+    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
     "company": "Boeing",
     "sector": "aero",
-    "title": "777/777X Systems Service Engineering Manager",
-    "location": "USA - Seal Beach, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
-    "postedAt": "Posted 7 Days Ago",
+    "title": "Senior Quality Systems Specialist",
+    "location": "SGP - Singapore, Singapore",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Senior-Quality-Systems-Specialist_JR2026512096-1",
+    "postedAt": "Posted 9 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
@@ -5046,6 +5045,18 @@
     "title": "Operations EHS Focal France",
     "location": "FRA - Senlis, France",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/FRA---Senlis-France/Operations-EHS-Focal-France_JR2026514490-1",
+    "postedAt": "Posted 7 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "777/777X Systems Service Engineering Manager",
+    "location": "USA - Seal Beach, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/XMLNAME-777-777X-Systems-Service-Engineering-Manager_JR2026515365-1",
     "postedAt": "Posted 7 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -8202,7 +8213,7 @@
     "title": "Customer support technician Migdal Haemek",
     "location": "Mig Ha'emek,ISR",
     "url": "https://amat.wd1.myworkdayjobs.com/job/Mig-HaemekISR/Customer-support-technician_R2519332",
-    "postedAt": "Posted 3 Days Ago",
+    "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:11.393Z"
@@ -9456,18 +9467,6 @@
     "firstSeenAt": "2026-06-17T23:04:10.775Z"
   },
   {
-    "id": "workday:nvidia:/job/China-Shenzhen/Operation-Account-Manager_JR2018279",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Operation Account Manager",
-    "location": "China, Shenzhen",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shenzhen/Operation-Account-Manager_JR2018279",
-    "postedAt": "Posted 29 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:10.775Z"
-  },
-  {
     "id": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
     "company": "NVIDIA",
     "sector": "chips",
@@ -9475,6 +9474,18 @@
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
     "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:10.775Z"
+  },
+  {
+    "id": "workday:nvidia:/job/China-Shenzhen/Operation-Account-Manager_JR2018279",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Operation Account Manager",
+    "location": "China, Shenzhen",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shenzhen/Operation-Account-Manager_JR2018279",
+    "postedAt": "Posted 29 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:10.775Z"
@@ -11983,18 +11994,6 @@
     "location": "Burlington, VT",
     "url": "https://marvell.wd1.myworkdayjobs.com/job/Burlington-VT/Site-HR-Manager_2602188",
     "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.829Z"
-  },
-  {
-    "id": "workday:marvell:/job/Santa-Clara-CA/Demand-Planner_2601369",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Demand Planner",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Demand-Planner_2601369",
-    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:09.829Z"
