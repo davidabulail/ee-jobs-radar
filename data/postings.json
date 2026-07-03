@@ -1,5 +1,89 @@
 [
   {
+    "id": "workday:kla:/job/Shanghai-China/Customer-Support-Engineer_2635035",
+    "company": "KLA",
+    "sector": "chips",
+    "title": "Customer Support Engineer",
+    "location": "Shanghai, China",
+    "url": "https://kla.wd1.myworkdayjobs.com/job/Shanghai-China/Customer-Support-Engineer_2635035",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-03T19:52:17.187Z"
+  },
+  {
+    "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Staff-Analog-Mixed-Signal-Design-Engineer_2601871",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Senior Staff Analog Mixed-Signal Design Engineer",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Senior-Staff-Analog-Mixed-Signal-Design-Engineer_2601871",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-03T19:52:15.558Z"
+  },
+  {
+    "id": "workday:marvell:/job/Santa-Clara-CA/Principal--Design-Verification-Engineer--Secure-Root-of-Trust_2602147",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Principal, Design Verification Engineer, Secure Root of Trust",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Principal--Design-Verification-Engineer--Secure-Root-of-Trust_2602147",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-03T19:52:15.558Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/Ireland-Limerick/Equipment-Maintenance-Technician-Graduate_R260066",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Equipment Maintenance Technician Graduate",
+    "location": "Ireland, Limerick",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Limerick/Equipment-Maintenance-Technician-Graduate_R260066",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-03T19:52:15.528Z"
+  },
+  {
+    "id": "lockheed:97256252016",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Project Engineer Sr Stf",
+    "location": "Fort Worth, Texas",
+    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/project-engineer-sr-stf/694/97256252016",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-03T19:52:14.008Z"
+  },
+  {
+    "id": "lockheed:97256251984",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "RF Engineering Associate Manager",
+    "location": "Fort Worth, Texas",
+    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/rf-engineering-associate-manager/694/97256251984",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-03T19:52:14.008Z"
+  },
+  {
+    "id": "northrop:1340072655288",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr Principal Cyber Intelligence Analyst",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072655288?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-03T19:52:14.007Z"
+  },
+  {
     "id": "workday:intel:/job/Japan-Tokyo/Account-Sales_JR0281245",
     "company": "Intel",
     "sector": "chips",
@@ -75,7 +159,7 @@
     "id": "northrop:1340072303647",
     "company": "Northrop Grumman",
     "sector": "defense",
-    "title": "Embedded Firmware Architect 5 (AHT)",
+    "title": "Embedded Software Architect 5 (AHT)",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340072303647?keywords=intern&num=50",
     "postedAt": "",
@@ -162,18 +246,6 @@
     "title": "Sentinel - Systems / Principal Systems Engineer - 19034*",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340072573606?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-03T17:50:13.171Z"
-  },
-  {
-    "id": "northrop:1340072622172",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Deployable Sr Principal Configuration Analyst",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072622172?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -358,18 +430,6 @@
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-07-03T15:29:34.895Z"
-  },
-  {
-    "id": "workday:kla:/job/San-Diego-CA/Traffic-Administrator_2637985",
-    "company": "KLA",
-    "sector": "chips",
-    "title": "Traffic Administrator",
-    "location": "San Diego, CA",
-    "url": "https://kla.wd1.myworkdayjobs.com/job/San-Diego-CA/Traffic-Administrator_2637985",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-03T13:13:50.293Z"
   },
   {
     "id": "workday:intel:/job/Israel-Petah-Tikva/Intel-Wi-Fi-Driver-Software-Developer-Student_JR0284349",
@@ -682,18 +742,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-03T11:01:25.026Z"
-  },
-  {
-    "id": "workday:analogdevices:/job/United-Kingdom-Newbury/Staff-System-Applications-Engineer_R261718",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Staff System Applications Engineer",
-    "location": "United Kingdom, Newbury",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Newbury/Staff-System-Applications-Engineer_R261718",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-03T11:01:24.821Z"
   },
   {
     "id": "workday:amat:/job/ShanghaiCHN/Revenue-Operations-Intern_R2615097",
@@ -1290,30 +1338,6 @@
     "title": "Systems Engineer",
     "location": "King of Prussia, Pennsylvania",
     "url": "https://www.lockheedmartinjobs.com/job/king-of-prussia/systems-engineer/694/97250527504",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-03T04:11:20.283Z"
-  },
-  {
-    "id": "lockheed:97250527328",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Software Engineer",
-    "location": "King of Prussia, Pennsylvania",
-    "url": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer/694/97250527328",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-03T04:11:20.283Z"
-  },
-  {
-    "id": "lockheed:97250526704",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Proposal Management Staff",
-    "location": "Highlands Ranch, Colorado",
-    "url": "https://www.lockheedmartinjobs.com/job/highlands-ranch/proposal-management-staff/694/97250526704",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -2100,24 +2124,24 @@
     "firstSeenAt": "2026-07-02T09:35:15.850Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Shipping-Receiving-Spec--Data-Shipping-_JR2026517198-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Shipping Clerk (m/f/d)",
-    "location": "DEU - Henstedt-Ulzburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Henstedt-Ulzburg-Germany/Shipping-Receiving-Spec--Data-Shipping-_JR2026517198-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-02T09:35:15.850Z"
-  },
-  {
     "id": "workday:boeing:/job/GBR---Bristol-UK/Programme-Manager-Aircraft-Design-Organisation-Services--E-7-_JR2026513397",
     "company": "Boeing",
     "sector": "aero",
     "title": "Programme Manager-Aircraft Design Organisation Services (E-7)",
     "location": "2 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Programme-Manager-Aircraft-Design-Organisation-Services--E-7-_JR2026513397",
+    "postedAt": "Posted Yesterday",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-02T09:35:15.850Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Shipping-Receiving-Spec--Data-Shipping-_JR2026517198-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Shipping Clerk (m/f/d)",
+    "location": "DEU - Henstedt-Ulzburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Henstedt-Ulzburg-Germany/Shipping-Receiving-Spec--Data-Shipping-_JR2026517198-1",
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
@@ -8088,30 +8112,6 @@
     "firstSeenAt": "2026-06-23T22:40:09.965Z"
   },
   {
-    "id": "workday:marvell:/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2602613-1",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Senior Staff Engineer, Design Verification",
-    "location": "Westborough, MA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2602613-1",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-23T22:40:09.965Z"
-  },
-  {
-    "id": "workday:marvell:/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2602612",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Senior Staff Engineer, Design Verification",
-    "location": "Westborough, MA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2602612",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-23T22:40:09.965Z"
-  },
-  {
     "id": "greenhouse:spacex:8603628002",
     "company": "SpaceX",
     "sector": "aero",
@@ -8820,18 +8820,6 @@
     "firstSeenAt": "2026-06-22T23:45:02.623Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Software Systems Engineer",
-    "location": "USA - Tinker AFB, OK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1",
-    "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-22T21:15:54.713Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Chicago-IL/Executive-Assistant---Elected-Officer_JR2026501460-1",
     "company": "Boeing",
     "sector": "aero",
@@ -8862,6 +8850,18 @@
     "title": "Experienced Systems Operator (Test Systems Operator)",
     "location": "USA - Seattle, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Experienced-Systems-Operator--Test-Systems-Operator-_JR2026512887-2",
+    "postedAt": "Posted 11 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-22T21:15:54.713Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Associate Software Systems Engineer",
+    "location": "USA - Tinker AFB, OK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1",
     "postedAt": "Posted 11 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -9588,6 +9588,18 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
+    "id": "workday:boeing:/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Electrical Design and Certification Engineer (Part 21J)",
+    "location": "IRL - Dublin, Ireland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "postedAt": "Posted 9 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-19T20:49:16.280Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/Associate-Real-Time-Software-Engineer-Vehicle-Management-Systems_JR2026493942-1",
     "company": "Boeing",
     "sector": "aero",
@@ -9600,15 +9612,15 @@
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
-    "id": "workday:boeing:/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "id": "workday:boeing:/job/GBR---London-UK/Strategy-Analyst_JR2026503468-2",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Electrical Design and Certification Engineer (Part 21J)",
-    "location": "IRL - Dublin, Ireland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
-    "postedAt": "Posted 9 Days Ago",
+    "title": "Strategy Analyst",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---London-UK/Strategy-Analyst_JR2026503468-2",
+    "postedAt": "Posted 22 Days Ago",
     "isSummer2027": false,
-    "isEE": true,
+    "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
   },
   {
@@ -9631,18 +9643,6 @@
     "location": "3 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Software-Engineer---Commercial-Modification--Associate-or-Experienced-level-_JR2026514887-2",
     "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T20:49:16.280Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---London-UK/Strategy-Analyst_JR2026503468-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Strategy Analyst",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---London-UK/Strategy-Analyst_JR2026503468-2",
-    "postedAt": "Posted 22 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-19T20:49:16.280Z"
