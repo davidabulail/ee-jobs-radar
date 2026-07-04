@@ -1,5 +1,137 @@
 [
   {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Lead-Project-Engineer--A-MH-_JR2026514532",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Lead Project Engineer (A-MH)",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Lead-Project-Engineer--A-MH-_JR2026514532",
+    "postedAt": "Posted 8 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T12:36:17.053Z"
+  },
+  {
+    "id": "northrop:1340071635295",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Embedded Software Engineer (Secret) - Level 5 (Chandler)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071635295?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340071635206",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Embedded Software Engineer (Secret) - Level 4 (Chandler)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071635206?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340072087243",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Principal / Senior Principal Embedded Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072087243?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340071318656",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Embedded Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071318656?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340072256732",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr Staff Engineer Embedded Software-T6 (AHT)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072256732?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340071319440",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Software Engineer: Embedded/Test Equipment (Secret) - Level 3 - Chandler",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071319440?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340071747479",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Embedded Software Engineer (San Diego)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340071747479?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340069704468",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Senior Principal Engineer Software (Embedded)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340069704468?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340072543643",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Principal or Senior Principal Embedded Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072543643?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
+    "id": "northrop:1340072087094",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Embedded Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072087094?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-04T12:36:14.560Z"
+  },
+  {
     "id": "workday:kla:/job/Singapore-Singapore/Mechanical-Engineering-Intern_2635340",
     "company": "KLA",
     "sector": "chips",
@@ -3660,18 +3792,6 @@
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/International-Contracts-and-Pricing-Representative--Associate-or-Experienced-_JR2026515865-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "International Contracts and Pricing Representative (Associate or Experienced)",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/International-Contracts-and-Pricing-Representative--Associate-or-Experienced-_JR2026515865-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:05.101Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Seattle-WA/Auditor--Team-Lead-or-Senior-Team-Lead---Leadership-Development-Program_JR2026514773-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3684,6 +3804,18 @@
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
   },
   {
+    "id": "workday:boeing:/job/USA---Hazelwood-MO/International-Contracts-and-Pricing-Representative--Associate-or-Experienced-_JR2026515865-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "International Contracts and Pricing Representative (Associate or Experienced)",
+    "location": "USA - Hazelwood, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/International-Contracts-and-Pricing-Representative--Associate-or-Experienced-_JR2026515865-1",
+    "postedAt": "Posted 5 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T10:27:05.101Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Heath-OH/Office-Administrator_JR2026515714-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3691,6 +3823,18 @@
     "location": "USA - Heath, OH",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Heath-OH/Office-Administrator_JR2026515714-1",
     "postedAt": "Posted 9 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T10:27:05.101Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/F-15-Korea-Project-Management-Specialist--General-Project-Mgmt--IC4_JR2026515835-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "F-15 Korea Project Management Specialist (General Project Mgmt) IC4",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/F-15-Korea-Project-Management-Specialist--General-Project-Mgmt--IC4_JR2026515835-1",
+    "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
@@ -3729,18 +3873,6 @@
     "postedAt": "Posted 15 Days Ago",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-07-04T10:27:05.101Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/F-15-Korea-Project-Management-Specialist--General-Project-Mgmt--IC4_JR2026515835-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "F-15 Korea Project Management Specialist (General Project Mgmt) IC4",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/F-15-Korea-Project-Management-Specialist--General-Project-Mgmt--IC4_JR2026515835-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
   },
   {
@@ -4260,30 +4392,6 @@
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Heston-UK/Supply-Chain-Specialist--Supply-Chain-Management-_JR2026517201-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Supply Chain Specialist (Supply Chain Management)",
-    "location": "GBR - Heston, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Heston-UK/Supply-Chain-Specialist--Supply-Chain-Management-_JR2026517201-1",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:05.101Z"
-  },
-  {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Mechanical & Structural Engineering Manager",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:05.101Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Embedded-Software-Engineer--Experienced-Senior-_JR2025457743-1",
     "company": "Boeing",
     "sector": "aero",
@@ -4362,6 +4470,18 @@
     "title": "Industrial Security Specialist – Millennium Space Systems",
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026517543",
+    "postedAt": "Posted 2 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T10:27:05.101Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Heston-UK/Supply-Chain-Specialist--Supply-Chain-Management-_JR2026517201-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Supply Chain Specialist (Supply Chain Management)",
+    "location": "GBR - Heston, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Heston-UK/Supply-Chain-Specialist--Supply-Chain-Management-_JR2026517201-1",
     "postedAt": "Posted 2 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -4632,13 +4752,13 @@
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
   },
   {
-    "id": "workday:boeing:/job/SAU---Dhahran-Saudi-Arabia/Product-Repair---Modification-Technician---Structures_JR2026514652",
+    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Product Repair & Modification Technician - Structures",
-    "location": "SAU - Dhahran, Saudi Arabia",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/SAU---Dhahran-Saudi-Arabia/Product-Repair---Modification-Technician---Structures_JR2026514652",
-    "postedAt": "Posted 3 Days Ago",
+    "title": "Senior Mechanical & Structural Engineering Manager",
+    "location": "UKR - Kyiv, Ukraine",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
+    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
@@ -5472,18 +5592,6 @@
     "firstSeenAt": "2026-07-04T10:27:04.701Z"
   },
   {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/End-to-End-GPU-AI-Software-Architect_JR0281455",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "End to End GPU AI Software Architect",
-    "location": "4 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/End-to-End-GPU-AI-Software-Architect_JR0281455",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:04.701Z"
-  },
-  {
     "id": "workday:intel:/job/Ireland-Leixlip/Employment-Counsel_JR0285105",
     "company": "Intel",
     "sector": "chips",
@@ -5491,6 +5599,18 @@
     "location": "Ireland, Leixlip",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Employment-Counsel_JR0285105",
     "postedAt": "Posted 9 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T10:27:04.701Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/End-to-End-GPU-AI-Software-Architect_JR0281455",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "End to End GPU AI Software Architect",
+    "location": "4 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/End-to-End-GPU-AI-Software-Architect_JR0281455",
+    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:04.701Z"
@@ -10798,126 +10918,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:02.457Z"
-  },
-  {
-    "id": "northrop:1340072303649",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal/Sr Principal Cyber Information Assurance Analyst",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072303649?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340071657579",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr. Principal Cyber Systems Engineer – Cyber A&A Engineer (26-238)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071657579?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340071873106",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal/Sr Principal Cyber Protection Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071873106?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340069419616",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Cybersecurity Analyst",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340069419616?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340070692158",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr Principal Cyber Systems Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340070692158?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340071256580",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal / Sr. Principal Cyber Systems Engineer",
-    "location": "",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071256580?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340071559686",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Senior Principal Engineer Software - Cyber Security (San Diego CA)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071559686?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340072640940",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr Principal Cyber Systems Engineer (S)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072640940?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340072624872",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "18957 - Sr Principal Cybersecurity Analyst",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072624872?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
-  },
-  {
-    "id": "northrop:1340060503509",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal /Sr. Principal Cyber Systems Engineer",
-    "location": "",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340060503509?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:01.186Z"
   },
   {
     "id": "lockheed:97256252016",
