@@ -1,14 +1,181 @@
 [
   {
-    "id": "workday:amat:undefined",
+    "id": "workday:kla:/job/Hsinchu-Taiwan/R-D-Chemist_2638255",
+    "company": "KLA",
+    "sector": "chips",
+    "title": "R&D Chemist",
+    "location": "Hsinchu, Taiwan",
+    "url": "https://kla.wd1.myworkdayjobs.com/job/Hsinchu-Taiwan/R-D-Chemist_2638255",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:11:00.590Z"
+  },
+  {
+    "id": "workday:amat:/job/KalispellMT/AGS-Training-Services-PPC-New-Product--NPI--Instructor-III----E3-_R2618368",
     "company": "Applied Materials",
     "sector": "chips",
+    "title": "AGS Training Services PPC New Product (NPI) Instructor III - (E3)",
+    "location": "Kalispell,MT",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/AGS-Training-Services-PPC-New-Product--NPI--Instructor-III----E3-_R2618368",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:58.305Z"
+  },
+  {
+    "id": "workday:nvidia:undefined",
+    "company": "NVIDIA",
+    "sector": "chips",
     "location": "",
-    "url": "https://amat.wd1.myworkdayjobs.comundefined",
+    "url": "https://nvidia.wd5.myworkdayjobs.comundefined",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-07-07T08:45:10.998Z"
+    "firstSeenAt": "2026-07-07T12:10:57.823Z"
+  },
+  {
+    "id": "workday:nvidia:undefined",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "location": "",
+    "url": "https://nvidia.wd5.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:57.823Z"
+  },
+  {
+    "id": "workday:intel:/job/Israel-Haifa/Program-Manager-Analyst-Student_JR0285294",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Program Manager Analyst Student",
+    "location": "Israel, Haifa",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Haifa/Program-Manager-Analyst-Student_JR0285294",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:56.522Z"
+  },
+  {
+    "id": "workday:intel:/job/Taiwan-Taipei/Edge---Physical-AI-Business-Development-Manager_JR0285376",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Edge / Physical AI Business Development Manager",
+    "location": "Taiwan, Taipei",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Taiwan-Taipei/Edge---Physical-AI-Business-Development-Manager_JR0285376",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:56.522Z"
+  },
+  {
+    "id": "workday:micron:/job/San-Jose-CA/Staff-Regional-Sales-Manager_JR91864",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Staff Regional Sales Manager",
+    "location": "San Jose, CA",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Staff-Regional-Sales-Manager_JR91864",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:55.791Z"
+  },
+  {
+    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/QE-Chemical-Lab-Technician------_JR102952",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "QE Chemical Lab Technician / 受け入れ材料確認スタッフ （シフト勤務）",
+    "location": "Hiroshima - Fab 15, Japan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/QE-Chemical-Lab-Technician------_JR102952",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:55.791Z"
+  },
+  {
+    "id": "workday:micron:/job/Bengaluru-India/Staff-Engineer---Analog-Design_JR102833",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Staff Engineer , Analog Design",
+    "location": "Bengaluru, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Bengaluru-India/Staff-Engineer---Analog-Design_JR102833",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-07T12:10:55.791Z"
+  },
+  {
+    "id": "workday:micron:/job/Bengaluru-India/Staff-Engineer---SSD-Firmware--DevOps-_JR102273",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Senior Engineer , SSD Firmware",
+    "location": "Bengaluru, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Bengaluru-India/Staff-Engineer---SSD-Firmware--DevOps-_JR102273",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-07T12:10:55.791Z"
+  },
+  {
+    "id": "workday:broadcom:/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-SW-Quality_R025107-6",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "R&D Engineer SW Quality",
+    "location": "IND-Bangalore Electronic City - S1",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-SW-Quality_R025107-6",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:54.145Z"
+  },
+  {
+    "id": "northrop:1340072624872",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "18957 - Sr Principal Cybersecurity Analyst",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072624872?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:53.020Z"
+  },
+  {
+    "id": "northrop:1340072659397",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr Staff Mission Assurance Engineer - Program Quality",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072659397?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:53.020Z"
+  },
+  {
+    "id": "northrop:1340072770950",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Staff Mission Assurance Engineer - Design Quality",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072770950?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:53.020Z"
+  },
+  {
+    "id": "northrop:1340072624548",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Supply Chain Procurement Specialist",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072624548?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-07T12:10:53.020Z"
   },
   {
     "id": "workday:kla:/job/CHN-Shanghai-Shanghai-KLA/Customer-Support-Engineer_2635146-1",
@@ -141,30 +308,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-07T08:45:10.414Z"
-  },
-  {
-    "id": "workday:kla:/job/Shanghai-China/Customer-Support-Engineer_2635040-1",
-    "company": "KLA",
-    "sector": "chips",
-    "title": "Customer Support Engineer",
-    "location": "Shanghai, China",
-    "url": "https://kla.wd1.myworkdayjobs.com/job/Shanghai-China/Customer-Support-Engineer_2635040-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T08:45:10.414Z"
-  },
-  {
-    "id": "workday:intel:/job/India-Bangalore/Process-Integration-and-Yield-Engineering--Intern-_JR0284964",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Process Integration and Yield Engineering (Intern)",
-    "location": "India, Bangalore",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/India-Bangalore/Process-Integration-and-Yield-Engineering--Intern-_JR0284964",
-    "postedAt": "Posted Today",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-07T08:45:09.832Z"
   },
   {
     "id": "workday:boeing:/job/USA---Berkeley-MO/Lead-Project-Engineer--A-MH-_JR2026514532",
@@ -587,18 +730,6 @@
     "firstSeenAt": "2026-07-07T05:09:28.532Z"
   },
   {
-    "id": "northrop:1340072651524",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Supply Chain Procurement Specialist / Principal Supply Chain Procurement Specialist  - 18465",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072651524?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T05:09:28.532Z"
-  },
-  {
     "id": "workday:kla:/job/Suzhou-China/Service-Sales-Account-Manager_2634163",
     "company": "KLA",
     "sector": "chips",
@@ -983,18 +1114,6 @@
     "firstSeenAt": "2026-07-06T22:39:53.566Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Senior-or-Lead-_JR2026517296-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Engineering Data Scientist (Senior or Lead)",
-    "location": "USA - Seal Beach, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Senior-or-Lead-_JR2026517296-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-06T22:39:53.566Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Tukwila-WA/Senior-Mission-Systems--MS--Engineering-Manager---P-8A_JR2026516735-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1002,6 +1121,18 @@
     "location": "USA - Tukwila, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tukwila-WA/Senior-Mission-Systems--MS--Engineering-Manager---P-8A_JR2026516735-1",
     "postedAt": "Posted 11 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-06T22:39:53.566Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Senior-or-Lead-_JR2026517296-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Engineering Data Scientist (Senior or Lead)",
+    "location": "USA - Seal Beach, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Senior-or-Lead-_JR2026517296-1",
+    "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-06T22:39:53.566Z"
@@ -1065,30 +1196,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-06T22:39:52.444Z"
-  },
-  {
-    "id": "northrop:1340071887213",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "PC Network Support Technician 3 - Secret",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071887213?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-06T22:39:49.959Z"
-  },
-  {
-    "id": "northrop:1340072711786",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Maintenance Millwright 2/3",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072711786?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-06T22:39:49.959Z"
   },
   {
     "id": "lockheed:97443137408",
@@ -1301,18 +1408,6 @@
     "title": "PC Network Support Tech 2/3 - Secret",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340072654019?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-06T21:02:44.136Z"
-  },
-  {
-    "id": "northrop:1340070951385",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Staff Cyber Intelligence Analyst (Level 5)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340070951385?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -5195,18 +5290,6 @@
     "firstSeenAt": "2026-07-04T10:27:05.614Z"
   },
   {
-    "id": "workday:nvidia:/job/China-Shanghai/Applied-Research-Intern--Robotics---2026_JR2020124",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Applied Research Intern, Robotics - 2026",
-    "location": "China, Shanghai",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Applied-Research-Intern--Robotics---2026_JR2020124",
-    "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-04T10:27:05.614Z"
-  },
-  {
     "id": "workday:nvidia:/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
     "company": "NVIDIA",
     "sector": "chips",
@@ -5423,6 +5506,18 @@
     "firstSeenAt": "2026-07-04T10:27:05.614Z"
   },
   {
+    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Manager, IT SOX Compliance",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T10:27:05.614Z"
+  },
+  {
     "id": "workday:nvidia:/job/Israel-Raanana/Senior-SONiC-Software-Engineer---Python_JR2014087",
     "company": "NVIDIA",
     "sector": "chips",
@@ -5459,12 +5554,12 @@
     "firstSeenAt": "2026-07-04T10:27:05.614Z"
   },
   {
-    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "company": "NVIDIA",
     "sector": "chips",
-    "title": "Senior Manager, IT SOX Compliance",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Manager--Internal-Audit-and-SOX_JR1995907",
+    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
+    "location": "Japan, Tokyo",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -5550,18 +5645,6 @@
     "location": "5 Locations",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Tel-Aviv/Senior-Technical-Project-Manager--Datacenter_JR2018501",
     "postedAt": "Posted 28 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:05.614Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
-    "location": "Japan, Tokyo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.614Z"
@@ -6102,18 +6185,6 @@
     "location": "Vietnam, Ho Chi Minh City",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Vietnam-Ho-Chi-Minh-City/Senior-Software-Development-Engineer-in-Test---SDET_JR2020685",
     "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:05.614Z"
-  },
-  {
-    "id": "workday:nvidia:/job/China-Shanghai/Senior-Deep-Learning-Test-Development-Engineer--SDET_JR2020498",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Deep Learning Test Development Engineer, SDET",
-    "location": "China, Shanghai",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Senior-Deep-Learning-Test-Development-Engineer--SDET_JR2020498",
-    "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.614Z"
@@ -7097,18 +7168,6 @@
     "title": "Module Engineering Undergraduate Intern",
     "location": "Malaysia, Kulim",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Kulim/Module-Engineering-Undergraduate-Intern_JR0283938",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-04T10:27:04.701Z"
-  },
-  {
-    "id": "workday:intel:/job/PRC-Shenzhen/AI-Software-Engineering-Intern_JR0283384",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "AI Software Engineering Intern",
-    "location": "2 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/PRC-Shenzhen/AI-Software-Engineering-Intern_JR0283384",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": true,
@@ -8663,24 +8722,24 @@
     "firstSeenAt": "2026-07-04T10:27:03.801Z"
   },
   {
-    "id": "workday:analogdevices:/job/US-MA-Wilmington/Counsel--Corporate-Attorney_R262337",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Aerospace & Defense Counsel",
-    "location": "US, MA, Wilmington",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Counsel--Corporate-Attorney_R262337",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:03.801Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Ireland-Limerick/Staff-Design-Evaluation-Engineer_R262072",
     "company": "Analog Devices",
     "sector": "chips",
     "title": "Staff Design Evaluation Engineer",
     "location": "Ireland, Limerick",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Limerick/Staff-Design-Evaluation-Engineer_R262072",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-04T10:27:03.801Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/US-MA-Wilmington/Counsel--Corporate-Attorney_R262337",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Aerospace & Defense Counsel",
+    "location": "US, MA, Wilmington",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Counsel--Corporate-Attorney_R262337",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -10247,54 +10306,6 @@
     "firstSeenAt": "2026-07-04T10:27:02.677Z"
   },
   {
-    "id": "workday:micron:/job/Hyderabad---Skyview-India/Engineer--DPG-LPDDR-Verification_JR95648",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Engineer, DPG LPDDR Verification",
-    "location": "Hyderabad - Skyview, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Skyview-India/Engineer--DPG-LPDDR-Verification_JR95648",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-04T10:27:02.677Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Senior-Engineer---Global-Facilities-Central-Engineering---CSA_JR93213",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff Engineer GFac South Asia CSA",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Senior-Engineer---Global-Facilities-Central-Engineering---CSA_JR93213",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:02.677Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Global-Facilities-Engineer---Senior-Engineer---Electrical-FAC_JR87848",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "STAFF ENGINEER GFAC SASIA - ELECTRICAL",
-    "location": "3 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Global-Facilities-Engineer---Senior-Engineer---Electrical-FAC_JR87848",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-04T10:27:02.677Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/RDA-Application-Engineer_JR102312",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "RDA Application Engineer",
-    "location": "Taichung - Fab 16, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/RDA-Application-Engineer_JR102312",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:02.677Z"
-  },
-  {
     "id": "workday:broadcom:/job/USA-CA---Promontory-B/Staff-Software-Engineer_R025105",
     "company": "Broadcom",
     "sector": "chips",
@@ -11069,18 +11080,6 @@
     "title": "Senior Software Engineer - Cloud Native Storage",
     "location": "USA-CA - Promontory C",
     "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-CA---Promontory-C/Senior-Software-Engineer---Cloud-Native-Storage_R026068",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:02.457Z"
-  },
-  {
-    "id": "workday:broadcom:/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-IC-Design_R026017",
-    "company": "Broadcom",
-    "sector": "chips",
-    "title": "R&D Engineer IC Design",
-    "location": "IND-Bangalore Electronic City - S1",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-IC-Design_R026017",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
