@@ -1,5 +1,400 @@
 [
   {
+    "id": "greenhouse:aurorainnovation:8624296002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Supply Chain Program Manager",
+    "location": "Dallas, Texas",
+    "url": "https://aurora.tech/jobs/8624296002?gh_jid=8624296002",
+    "postedAt": "2026-07-08T10:33:20-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:48.188Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8624111002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Truck Operations Specialist",
+    "location": "El Paso, Texas",
+    "url": "https://aurora.tech/jobs/8624111002?gh_jid=8624111002",
+    "postedAt": "2026-07-08T10:06:59-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:48.188Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8624116002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Truck Operations Specialist",
+    "location": "Phoenix, Arizona",
+    "url": "https://aurora.tech/jobs/8624116002?gh_jid=8624116002",
+    "postedAt": "2026-07-08T10:07:00-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:48.188Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8624108002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Truck Operations Specialist",
+    "location": "Aledo, Texas",
+    "url": "https://aurora.tech/jobs/8624108002?gh_jid=8624108002",
+    "postedAt": "2026-07-08T10:06:58-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:48.188Z"
+  },
+  {
+    "id": "workday:amat:/job/TrevisoITA/Safety-Engineer-EHS---RSPP_R2623394",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Safety Engineer EHS / RSPP",
+    "location": "Treviso,ITA",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/TrevisoITA/Safety-Engineer-EHS---RSPP_R2623394",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:45.856Z"
+  },
+  {
+    "id": "workday:boeing:/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Electrical Design and Certification Engineer (Part 21J)",
+    "location": "IRL - Dublin, Ireland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-08T14:42:43.042Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/Expert-Software-Certification-Engineer_JR2026514315-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "E-7 Mission Systems and Commercial Mods Certification Engineer",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Expert-Software-Certification-Engineer_JR2026514315-2",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:43.042Z"
+  },
+  {
+    "id": "workday:nvidia:/job/UK-Cambridge/Senior-Software-Engineer---Networking_JR2016674",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Software Engineer - Networking",
+    "location": "UK, Cambridge",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Software-Engineer---Networking_JR2016674",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:42.705Z"
+  },
+  {
+    "id": "workday:intel:/job/Post-silicon-Validation-and-Debug-Engineer_JR0284153",
+    "company": "Intel",
+    "sector": "chips",
+    "location": "",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Post-silicon-Validation-and-Debug-Engineer_JR0284153",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:42.421Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Arizona-Phoenix/ADCE-Packaging-Design-Architect_JR0284396",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "ADCE Packaging Design Architect",
+    "location": "9 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/ADCE-Packaging-Design-Architect_JR0284396",
+    "postedAt": "Posted 29 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:42.421Z"
+  },
+  {
+    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/ENGINEER--HVM-EQUIP-CV-EQ_JR87832-7",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "ENGINEER, HVM EQUIP CV EQ",
+    "location": "Hiroshima - Fab 15, Japan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/ENGINEER--HVM-EQUIP-CV-EQ_JR87832-7",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:40.988Z"
+  },
+  {
+    "id": "workday:micron:/job/Taichung---AATT-Taiwan/TEST-ES-TECH_JR100318",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "TEST ES TECHNICIAN",
+    "location": "Taichung - AATT, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---AATT-Taiwan/TEST-ES-TECH_JR100318",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:40.988Z"
+  },
+  {
+    "id": "lockheed:96846877504",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Manufacturing Project Manager - Mid-Career - Level 3",
+    "location": "Riviera Beach, Florida",
+    "url": "https://www.lockheedmartinjobs.com/job/riviera-beach/manufacturing-project-manager-mid-career-level-3/694/96846877504",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:96878509056",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Systems Engineer Staff, Degrader Action Cell (DAC) Lead - Level 4",
+    "location": "Palmdale, California",
+    "url": "https://www.lockheedmartinjobs.com/job/palmdale/systems-engineer-staff-degrader-action-cell-dac-lead-level-4/694/96878509056",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:96919225040",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Supply Field Logistics Support Rep Stf (Beale, CA), U-2 PDM - Level 4",
+    "location": "Beale Air Force Base, California",
+    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/supply-field-logistics-support-rep-stf-beale-ca-u-2-pdm-level-4/694/96919225040",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:96919224960",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Inventory/Material Supply Tech (Beale AFB, CA), U-2 PDM  - Level 4",
+    "location": "Beale Air Force Base, California",
+    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/inventory-material-supply-tech-beale-afb-ca-u-2-pdm-level-4/694/96919224960",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:96919224928",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Inventory/Material Supply Tech (Beale AFB, CA), U-2 PDM  - Level 3",
+    "location": "Beale Air Force Base, California",
+    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/inventory-material-supply-tech-beale-afb-ca-u-2-pdm-level-3/694/96919224928",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:96919225088",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Aircraft Maintenance Field Team Supervisor,  U-2 PDM - Level 3",
+    "location": "Beale Air Force Base, California",
+    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/aircraft-maintenance-field-team-supervisor-u-2-pdm-level-3/694/96919225088",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:96923653536",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Sr. U2 Manufacturing Support Team Member - Level 3",
+    "location": "Palmdale, California",
+    "url": "https://www.lockheedmartinjobs.com/job/palmdale/sr-u2-manufacturing-support-team-member-level-3/694/96923653536",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:97146080928",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Quality Engineer Supervisor",
+    "location": "Littleton, Colorado",
+    "url": "https://www.lockheedmartinjobs.com/job/littleton/quality-engineer-supervisor/694/97146080928",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:97492353968",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Software Engineer Senior",
+    "location": "Colorado Springs, Colorado",
+    "url": "https://www.lockheedmartinjobs.com/job/colorado-springs/software-engineer-senior/694/97492353968",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:97492353760",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Data Lake Software Engineer",
+    "location": "Littleton, Colorado",
+    "url": "https://www.lockheedmartinjobs.com/job/littleton/data-lake-software-engineer/694/97492353760",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:97487172896",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Senior Program Manager, Total Assurance Program",
+    "location": "Trumbull, Connecticut",
+    "url": "https://www.lockheedmartinjobs.com/job/trumbull/senior-program-manager-total-assurance-program/694/97487172896",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:97492352304",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Integrated Program Planner - Level 2",
+    "location": "Fort Worth, Texas",
+    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/integrated-program-planner-level-2/694/97492352304",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "lockheed:97492351792",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Project Integration Engineer",
+    "location": "Edwards Air Force Base, California",
+    "url": "https://www.lockheedmartinjobs.com/job/edwards-air-force-base/project-integration-engineer/694/97492351792",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.402Z"
+  },
+  {
+    "id": "ashby:saronic:d74f65da-c7de-4c36-adeb-dc2354e63951",
+    "company": "Saronic",
+    "sector": "marine",
+    "title": "Senior Emergency Preparedness & Management (EPM) Specialist",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/saronic/d74f65da-c7de-4c36-adeb-dc2354e63951",
+    "postedAt": "2026-07-08T13:28:22.428+00:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.385Z"
+  },
+  {
+    "id": "greenhouse:spacex:8623616002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Construction Project Manager (Facilities Infrastructure)",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8623616002?gh_jid=8623616002",
+    "postedAt": "2026-07-08T09:44:57-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
+    "id": "greenhouse:spacex:8623608002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Facilities Technician",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8623608002?gh_jid=8623608002",
+    "postedAt": "2026-07-08T09:45:19-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
+    "id": "greenhouse:spacex:8623621002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Internal Fleet Driver",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8623621002?gh_jid=8623621002",
+    "postedAt": "2026-07-08T09:44:31-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
+    "id": "greenhouse:spacex:8623133002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Inventory Control Clerk ",
+    "location": "McGregor, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8623133002?gh_jid=8623133002",
+    "postedAt": "2026-07-08T10:06:32-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
+    "id": "greenhouse:spacex:8615844002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Maintenance Technician ",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8615844002?gh_jid=8615844002",
+    "postedAt": "2026-07-08T10:31:12-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
+    "id": "greenhouse:spacex:8616015002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Test Equipment Technician (Fabrication & Support)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8616015002?gh_jid=8616015002",
+    "postedAt": "2026-07-08T10:32:34-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
+    "id": "greenhouse:spacex:8623625002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Welder, Starship Launch Pad",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8623625002?gh_jid=8623625002",
+    "postedAt": "2026-07-08T09:44:14-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-08T14:42:38.304Z"
+  },
+  {
     "id": "workday:kla:/job/San-Diego-CA/Traffic-Administrator_2637985",
     "company": "KLA",
     "sector": "chips",
@@ -46,30 +441,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-08T11:58:50.160Z"
-  },
-  {
-    "id": "northrop:1340071479105",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Systems Engineer",
-    "location": "United Kingdom-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071479105?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T11:58:49.164Z"
-  },
-  {
-    "id": "northrop:1340071556708",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Manager Programs 2",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071556708?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T11:58:49.164Z"
   },
   {
     "id": "workday:amat:/job/RehovotISR/Mechanical-Engineering---Student_R2621433-1",
@@ -132,18 +503,6 @@
     "firstSeenAt": "2026-07-08T09:39:26.196Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Renton-WA/Fire-Inspector_JR2026517880-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Fire Inspector",
-    "location": "USA - Renton, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Renton-WA/Fire-Inspector_JR2026517880-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T09:39:26.196Z"
-  },
-  {
     "id": "workday:intel:/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471",
     "company": "Intel",
     "sector": "chips",
@@ -183,7 +542,7 @@
     "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Sr-GCP-Data-Engineer--SMAI_JR103744",
     "company": "Micron",
     "sector": "chips",
-    "title": "Sr GCP Data Engineer, SMAI",
+    "title": "Sr Cloud Data Engineer, SMAI",
     "location": "Hyderabad - Phoenix Aquila, India",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Sr-GCP-Data-Engineer--SMAI_JR103744",
     "postedAt": "Posted Today",
@@ -912,42 +1271,6 @@
     "firstSeenAt": "2026-07-08T03:50:01.964Z"
   },
   {
-    "id": "northrop:1340070442344",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Aircraft Maintenance Engineer",
-    "location": "Australia-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340070442344?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.016Z"
-  },
-  {
-    "id": "northrop:1340072610497",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Subcontracts Specialist",
-    "location": "Australia-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072610497?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.016Z"
-  },
-  {
-    "id": "northrop:1340072786844",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2026 Associate Manufacturing Engineer - Rocket Center WV",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072786844?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.016Z"
-  },
-  {
     "id": "lockheed:97492351440",
     "company": "Lockheed Martin",
     "sector": "defense",
@@ -1152,102 +1475,6 @@
     "firstSeenAt": "2026-07-08T03:50:00.012Z"
   },
   {
-    "id": "lockheed:95868709152",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Signal & Power Integrity Electrical Engineer, Sr - Orlando, FL",
-    "location": "Orlando, Florida",
-    "url": "https://www.lockheedmartinjobs.com/job/orlando/signal-and-power-integrity-electrical-engineer-sr-orlando-fl/694/95868709152",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:96215164976",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Electrical & Environmental Technician (Beale AFB CA), U-2 - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/electrical-and-environmental-technician-beale-afb-ca-u-2-level-4/694/96215164976",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:96249371648",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Quality Assurance Inspector (Beale AFB, CA), U-2 - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/quality-assurance-inspector-beale-afb-ca-u-2-level-4/694/96249371648",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:96572684224",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Aircraft Modification Technical Lead, U-2  - Level 3",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/aircraft-modification-technical-lead-u-2-level-3/694/96572684224",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:96561645152",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Staff Software Engineer (Frontend Developer)",
-    "location": "Multiple Locations",
-    "url": "https://www.lockheedmartinjobs.com/job/colorado-springs/staff-software-engineer-frontend-developer/694/96561645152",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:96841522384",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Aircraft Mechanic (Beale AFB, CA), U-2  - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/aircraft-mechanic-beale-afb-ca-u-2-level-4/694/96841522384",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:94820987776",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Software Developer Cyber SWE -",
-    "location": "Hanover, Maryland",
-    "url": "https://www.lockheedmartinjobs.com/job/hanover/software-developer-cyber-swe/694/94820987776",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
-    "id": "lockheed:96919225056",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Aircraft Modification Technical Lead (Beale, CA), U-2 PDM - Level 3",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/aircraft-modification-technical-lead-beale-ca-u-2-pdm-level-3/694/96919225056",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T03:50:00.012Z"
-  },
-  {
     "id": "greenhouse:spacex:8623357002",
     "company": "SpaceX",
     "sector": "aero",
@@ -1404,18 +1631,6 @@
     "firstSeenAt": "2026-07-08T00:14:02.797Z"
   },
   {
-    "id": "northrop:1340072785232",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Engineer Aeronautical - Level 5",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072785232?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-08T00:14:01.086Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Arlington-VA/Senior-Industrial-Security-Specialist_JR2026514363-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1482,18 +1697,6 @@
     "title": "SWQA Development Engineer",
     "location": "Vietnam, Ho Chi Minh City",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Vietnam-Ho-Chi-Minh-City/SWQA-Development-Engineer_JR2007364",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:46.465Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Vietnam-Ho-Chi-Minh-City/Software-Development-Engineer-in-Test---SDET_JR2010699",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Software Development Engineer in Test - SDET",
-    "location": "Vietnam, Ho Chi Minh City",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Vietnam-Ho-Chi-Minh-City/Software-Development-Engineer-in-Test---SDET_JR2010699",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -1666,114 +1869,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-07T22:32:42.688Z"
-  },
-  {
-    "id": "northrop:1340072607416",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Manager Computer Systems Analysis 2 - Top Secret",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072607416?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.553Z"
-  },
-  {
-    "id": "northrop:1340072781402",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2027 Intern Electronics Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072781402?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-07-07T22:32:41.553Z"
-  },
-  {
-    "id": "northrop:1340072552522",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2026 Associate Electronics Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072552522?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.553Z"
-  },
-  {
-    "id": "northrop:1340072375566",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Software Engineer: Automation/AI - Level 2 or 3 (Chandler)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072375566?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.553Z"
-  },
-  {
-    "id": "lockheed:96919224912",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Maintenance Controller (Beale AFB, CA), U-2 PDM  - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/maintenance-controller-beale-afb-ca-u-2-pdm-level-4/694/96919224912",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.552Z"
-  },
-  {
-    "id": "lockheed:96919224816",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Electrical/Avionics Technician (Beale AFB CA), U-2 PDM - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/electrical-avionics-technician-beale-afb-ca-u-2-pdm-level-4/694/96919224816",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-07T22:32:41.552Z"
-  },
-  {
-    "id": "lockheed:96919224784",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Aircraft Structural Technician  (Beale AFB, CA), U-2 PDM - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/aircraft-structural-technician-beale-afb-ca-u-2-pdm-level-4/694/96919224784",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.552Z"
-  },
-  {
-    "id": "lockheed:97112827248",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Quality Receiving Inspector",
-    "location": "Littleton, Colorado",
-    "url": "https://www.lockheedmartinjobs.com/job/littleton/quality-receiving-inspector/694/97112827248",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.552Z"
-  },
-  {
-    "id": "lockheed:97095263696",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Quality Assurance Inspector (Beale AFB, CA), U-2 - Level 4",
-    "location": "Beale Air Force Base, California",
-    "url": "https://www.lockheedmartinjobs.com/job/beale-air-force-base/quality-assurance-inspector-beale-afb-ca-u-2-level-4/694/97095263696",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T22:32:41.552Z"
   },
   {
     "id": "greenhouse:spacex:8623173002",
@@ -2856,18 +2951,6 @@
     "firstSeenAt": "2026-07-07T08:45:07.220Z"
   },
   {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Mechanical & Structural Engineering Manager",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Senior-Mechanical---Structural-Engineering-Manager_JR2026500087",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T05:09:32.067Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Huntsville-AL/Senior-Project-Engineer---Integrated-Design-Engineering_JR2026516025-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3090,30 +3173,6 @@
     "title": "Product PQA Engineer",
     "location": "Taichung - Fab 16, Taiwan",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/Product-PQA-Engineer_JR105239",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T01:09:27.538Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/Product-PQA-Engineer_JR105249",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Product PQA Engineer",
-    "location": "Taichung - Fab 16, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/Product-PQA-Engineer_JR105249",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-07T01:09:27.538Z"
-  },
-  {
-    "id": "workday:micron:/job/Taoyuan---Fab-11-Taiwan/QE-PQI-ENGINEER_JR104625",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "QE PQI ENGINEER",
-    "location": "Taoyuan - Fab 11, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taoyuan---Fab-11-Taiwan/QE-PQI-ENGINEER_JR104625",
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
@@ -5205,18 +5264,6 @@
     "postedAt": "Posted 15 Days Ago",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-07-04T10:27:05.909Z"
-  },
-  {
-    "id": "workday:amat:/job/RehovotISR/Deep-Learning-Research-Student_R2618845",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Deep Learning Research Student",
-    "location": "Rehovot,ISR",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/RehovotISR/Deep-Learning-Research-Student_R2618845",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.909Z"
   },
   {
@@ -7530,7 +7577,7 @@
     "title": "Trade Control Specialist (Import/Export Administration)",
     "location": "QAT - Doha, Qatar",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/QAT---Doha-Qatar/Trade-Control-Specialist--Import-Export-Administration-_JR2026511677",
-    "postedAt": "Posted 5 Days Ago",
+    "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:05.101Z"
@@ -8292,18 +8339,6 @@
     "firstSeenAt": "2026-07-04T10:27:04.701Z"
   },
   {
-    "id": "workday:intel:/job/Poland-Gdansk/System-and-Software-Optimization-Engineer---Fixed-Term-Contract_JR0284737",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "System and Software Optimization Engineer – Fixed Term Contract",
-    "location": "Poland, Gdansk",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Poland-Gdansk/System-and-Software-Optimization-Engineer---Fixed-Term-Contract_JR0284737",
-    "postedAt": "Posted 22 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:04.701Z"
-  },
-  {
     "id": "workday:intel:/job/US-Arizona-Phoenix/Software-Engineer---Compute-Infrastructure-and-Security_JR0285006",
     "company": "Intel",
     "sector": "chips",
@@ -8779,18 +8814,6 @@
     "location": "2 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284426",
     "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-04T10:27:04.701Z"
-  },
-  {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0284153",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Post-silicon Validation and Debug Engineer",
-    "location": "2 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0284153",
-    "postedAt": "Posted 23 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-04T10:27:04.701Z"
@@ -12444,25 +12467,13 @@
     "firstSeenAt": "2026-07-02T01:26:27.207Z"
   },
   {
-    "id": "greenhouse:spacex:8617157002",
+    "id": "greenhouse:spacex:8617163002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Starlink Enterprise Account Director, Aviation",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8617157002?gh_jid=8617157002",
-    "postedAt": "2026-07-01T20:38:27-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-02T01:26:27.207Z"
-  },
-  {
-    "id": "greenhouse:spacex:8617165002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Starlink Enterprise Account Director, Aviation",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8617165002?gh_jid=8617165002",
-    "postedAt": "2026-07-01T19:08:58-04:00",
+    "location": "Woodinville, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8617163002?gh_jid=8617163002",
+    "postedAt": "2026-07-01T19:08:57-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-02T01:26:27.207Z"
@@ -12480,13 +12491,25 @@
     "firstSeenAt": "2026-07-02T01:26:27.207Z"
   },
   {
-    "id": "greenhouse:spacex:8617163002",
+    "id": "greenhouse:spacex:8617165002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Starlink Enterprise Account Director, Aviation",
-    "location": "Woodinville, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8617163002?gh_jid=8617163002",
-    "postedAt": "2026-07-01T19:08:57-04:00",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8617165002?gh_jid=8617165002",
+    "postedAt": "2026-07-01T19:08:58-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-02T01:26:27.207Z"
+  },
+  {
+    "id": "greenhouse:spacex:8617157002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Starlink Enterprise Account Director, Aviation",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8617157002?gh_jid=8617157002",
+    "postedAt": "2026-07-01T20:38:27-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-02T01:26:27.207Z"
@@ -14052,18 +14075,6 @@
     "firstSeenAt": "2026-06-28T11:59:23.851Z"
   },
   {
-    "id": "greenhouse:spacex:8611191002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Application Software Engineer",
-    "location": "Memphis, TN",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002",
-    "postedAt": "2026-06-29T17:55:24-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-27T01:24:33.035Z"
-  },
-  {
     "id": "greenhouse:spacex:8611118002",
     "company": "SpaceX",
     "sector": "aero",
@@ -14088,24 +14099,24 @@
     "firstSeenAt": "2026-06-27T01:24:33.035Z"
   },
   {
-    "id": "greenhouse:spacex:8610872002",
+    "id": "greenhouse:spacex:8611191002",
     "company": "SpaceX",
     "sector": "aero",
-    "title": "Full Stack Software Engineer (Starshield)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002",
+    "title": "Application Software Engineer",
+    "location": "Memphis, TN",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002",
     "postedAt": "2026-06-29T17:55:24-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-27T01:24:33.035Z"
   },
   {
-    "id": "greenhouse:spacex:8611223002",
+    "id": "greenhouse:spacex:8610872002",
     "company": "SpaceX",
     "sector": "aero",
-    "title": "Security Engineer (Blue Team)",
+    "title": "Full Stack Software Engineer (Starshield)",
     "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8611223002?gh_jid=8611223002",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002",
     "postedAt": "2026-06-29T17:55:24-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -14119,6 +14130,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8611050002?gh_jid=8611050002",
     "postedAt": "2026-06-29T17:55:23-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-27T01:24:33.035Z"
+  },
+  {
+    "id": "greenhouse:spacex:8611223002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Security Engineer (Blue Team)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8611223002?gh_jid=8611223002",
+    "postedAt": "2026-06-29T17:55:24-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-27T01:24:33.035Z"
@@ -14208,24 +14231,24 @@
     "firstSeenAt": "2026-06-26T20:56:52.890Z"
   },
   {
-    "id": "greenhouse:spacex:8610836002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Partnerships Manager (Starlink Mobile)",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8610836002?gh_jid=8610836002",
-    "postedAt": "2026-06-29T17:55:18-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-26T20:56:49.738Z"
-  },
-  {
     "id": "greenhouse:spacex:8584183002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Partnerships Manager (Starlink Mobile)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8584183002?gh_jid=8584183002",
+    "postedAt": "2026-06-29T17:55:18-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-26T20:56:49.738Z"
+  },
+  {
+    "id": "greenhouse:spacex:8610836002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Partnerships Manager (Starlink Mobile)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8610836002?gh_jid=8610836002",
     "postedAt": "2026-06-29T17:55:18-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -14268,6 +14291,18 @@
     "firstSeenAt": "2026-06-26T19:05:39.691Z"
   },
   {
+    "id": "greenhouse:spacex:8610398002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Technical Project Lead (Silicon Engineering)",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8610398002?gh_jid=8610398002",
+    "postedAt": "2026-06-29T17:55:23-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-26T19:05:39.691Z"
+  },
+  {
     "id": "greenhouse:spacex:8610397002",
     "company": "SpaceX",
     "sector": "aero",
@@ -14298,18 +14333,6 @@
     "title": "Sr. Technical Project Lead (Silicon Engineering)",
     "location": "Irvine, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8610399002?gh_jid=8610399002",
-    "postedAt": "2026-06-29T17:55:23-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-26T19:05:39.691Z"
-  },
-  {
-    "id": "greenhouse:spacex:8610398002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Technical Project Lead (Silicon Engineering)",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8610398002?gh_jid=8610398002",
     "postedAt": "2026-06-29T17:55:23-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -14412,24 +14435,24 @@
     "firstSeenAt": "2026-06-26T01:31:45.298Z"
   },
   {
-    "id": "greenhouse:spacex:8609670002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Network Engineer (Starshield)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8609670002?gh_jid=8609670002",
-    "postedAt": "2026-06-29T17:55:23-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-26T01:31:45.298Z"
-  },
-  {
     "id": "greenhouse:spacex:8609666002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Network Engineer (Starshield)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8609666002?gh_jid=8609666002",
+    "postedAt": "2026-06-29T17:55:23-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-26T01:31:45.298Z"
+  },
+  {
+    "id": "greenhouse:spacex:8609670002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Network Engineer (Starshield)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8609670002?gh_jid=8609670002",
     "postedAt": "2026-06-29T17:55:23-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -14688,6 +14711,18 @@
     "firstSeenAt": "2026-06-25T08:32:31.029Z"
   },
   {
+    "id": "greenhouse:aurorainnovation:8607154002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Staff Security Engineer, Enterprise Security Architecture",
+    "location": "Detroit, Michigan",
+    "url": "https://aurora.tech/jobs/8607154002?gh_jid=8607154002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-25T04:35:59.140Z"
+  },
+  {
     "id": "greenhouse:aurorainnovation:8607152002",
     "company": "Aurora",
     "sector": "auto",
@@ -14712,12 +14747,12 @@
     "firstSeenAt": "2026-06-25T04:35:59.140Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8607154002",
+    "id": "greenhouse:aurorainnovation:8607135002",
     "company": "Aurora",
     "sector": "auto",
-    "title": "Staff Security Engineer, Enterprise Security Architecture",
+    "title": "Staff Security Engineer, Enterprise Security Engineering",
     "location": "Detroit, Michigan",
-    "url": "https://aurora.tech/jobs/8607154002?gh_jid=8607154002",
+    "url": "https://aurora.tech/jobs/8607135002?gh_jid=8607135002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -14730,18 +14765,6 @@
     "title": "Staff Security Engineer, Enterprise Security Engineering",
     "location": "Dallas, Texas",
     "url": "https://aurora.tech/jobs/8607134002?gh_jid=8607134002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-25T04:35:59.140Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8607135002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Staff Security Engineer, Enterprise Security Engineering",
-    "location": "Detroit, Michigan",
-    "url": "https://aurora.tech/jobs/8607135002?gh_jid=8607135002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -14806,30 +14829,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-24T23:35:58.121Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8598103002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Supply Chain Program Manager",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8598103002?gh_jid=8598103002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-24T21:49:20.888Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8606256002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Supply Chain Program Manager",
-    "location": "San Francisco, California",
-    "url": "https://aurora.tech/jobs/8606256002?gh_jid=8606256002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-24T21:49:20.888Z"
   },
   {
     "id": "greenhouse:aurorainnovation:8606257002",
@@ -15444,24 +15443,24 @@
     "firstSeenAt": "2026-06-23T18:16:25.382Z"
   },
   {
-    "id": "greenhouse:spacex:8601804002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Cyber Assurance Analyst, Starlink",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8601804002?gh_jid=8601804002",
-    "postedAt": "2026-06-29T17:55:22-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-23T18:16:25.382Z"
-  },
-  {
     "id": "greenhouse:spacex:8603677002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Cyber Assurance Analyst, Starlink",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8603677002?gh_jid=8603677002",
+    "postedAt": "2026-06-29T17:55:22-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-23T18:16:25.382Z"
+  },
+  {
+    "id": "greenhouse:spacex:8601804002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Cyber Assurance Analyst, Starlink",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8601804002?gh_jid=8601804002",
     "postedAt": "2026-06-29T17:55:22-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -15738,7 +15737,7 @@
     "title": "Process Engineer, PCB Reliability (Starlink)",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8487667002?gh_jid=8487667002",
-    "postedAt": "2026-06-29T17:54:54-04:00",
+    "postedAt": "2026-07-08T10:36:39-04:00",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-06-20T16:53:10.223Z"
@@ -15960,24 +15959,24 @@
     "firstSeenAt": "2026-06-19T16:16:20.196Z"
   },
   {
-    "id": "greenhouse:spacex:8601012002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "University Recruiter",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8601012002?gh_jid=8601012002",
-    "postedAt": "2026-06-29T17:55:21-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T16:16:20.196Z"
-  },
-  {
     "id": "greenhouse:spacex:8601014002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "University Recruiter",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8601014002?gh_jid=8601014002",
+    "postedAt": "2026-06-29T17:55:21-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T16:16:20.196Z"
+  },
+  {
+    "id": "greenhouse:spacex:8601012002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "University Recruiter",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8601012002?gh_jid=8601012002",
     "postedAt": "2026-06-29T17:55:21-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -16008,6 +16007,18 @@
     "firstSeenAt": "2026-06-19T02:08:11.161Z"
   },
   {
+    "id": "greenhouse:spacex:8600112002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Security Officer 3",
+    "location": "Vandenberg, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8600112002?gh_jid=8600112002",
+    "postedAt": "2026-06-29T17:55:21-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-19T02:08:11.161Z"
+  },
+  {
     "id": "greenhouse:spacex:8600048002",
     "company": "SpaceX",
     "sector": "aero",
@@ -16032,18 +16043,6 @@
     "firstSeenAt": "2026-06-19T02:08:11.161Z"
   },
   {
-    "id": "greenhouse:spacex:8600089002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Security Officer 3",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8600089002?gh_jid=8600089002",
-    "postedAt": "2026-06-29T17:55:21-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-19T02:08:11.161Z"
-  },
-  {
     "id": "greenhouse:spacex:8600093002",
     "company": "SpaceX",
     "sector": "aero",
@@ -16056,12 +16055,12 @@
     "firstSeenAt": "2026-06-19T02:08:11.161Z"
   },
   {
-    "id": "greenhouse:spacex:8600112002",
+    "id": "greenhouse:spacex:8600089002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Security Officer 3",
-    "location": "Vandenberg, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8600112002?gh_jid=8600112002",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8600089002?gh_jid=8600089002",
     "postedAt": "2026-06-29T17:55:21-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -16464,18 +16463,6 @@
     "firstSeenAt": "2026-06-18T05:04:54.443Z"
   },
   {
-    "id": "greenhouse:spacex:8597947002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Starlink Growth Manager, US South",
-    "location": "Remote - TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8597947002?gh_jid=8597947002",
-    "postedAt": "2026-06-29T17:55:21-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-18T05:04:54.443Z"
-  },
-  {
     "id": "greenhouse:spacex:8598055002",
     "company": "SpaceX",
     "sector": "aero",
@@ -16494,6 +16481,18 @@
     "title": "Starlink Growth Manager, US South",
     "location": "Remote - FL",
     "url": "https://boards.greenhouse.io/spacex/jobs/8597998002?gh_jid=8597998002",
+    "postedAt": "2026-06-29T17:55:21-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-18T05:04:54.443Z"
+  },
+  {
+    "id": "greenhouse:spacex:8597947002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Starlink Growth Manager, US South",
+    "location": "Remote - TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8597947002?gh_jid=8597947002",
     "postedAt": "2026-06-29T17:55:21-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -18600,18 +18599,6 @@
     "firstSeenAt": "2026-06-17T23:04:09.290Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8571286002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Applied Researcher",
-    "location": "Seattle, Washington",
-    "url": "https://aurora.tech/jobs/8571286002?gh_jid=8571286002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8499758002",
     "company": "Aurora",
     "sector": "auto",
@@ -18624,12 +18611,12 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8571282002",
+    "id": "greenhouse:aurorainnovation:8571286002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Applied Researcher",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8571282002?gh_jid=8571282002",
+    "location": "Seattle, Washington",
+    "url": "https://aurora.tech/jobs/8571286002?gh_jid=8571286002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -18648,6 +18635,18 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
+    "id": "greenhouse:aurorainnovation:8571282002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Applied Researcher",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8571282002?gh_jid=8571282002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
     "id": "greenhouse:aurorainnovation:8391240002",
     "company": "Aurora",
     "sector": "auto",
@@ -18657,18 +18656,6 @@
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8432112002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Cadence PCB Librarian",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8432112002?gh_jid=8432112002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
@@ -18690,6 +18677,18 @@
     "title": "Cadence PCB Librarian",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8390269002?gh_jid=8390269002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8432112002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Cadence PCB Librarian",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8432112002?gh_jid=8432112002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -18840,24 +18839,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8551274002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior Applications Engineer ",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8551274002?gh_jid=8551274002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8142839002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Senior Applications Engineer ",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8142839002?gh_jid=8142839002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8551274002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior Applications Engineer ",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8551274002?gh_jid=8551274002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -18876,18 +18875,6 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8343038002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior Cloud Security Engineer",
-    "location": "Seattle, Washington",
-    "url": "https://aurora.tech/jobs/8343038002?gh_jid=8343038002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8526669002",
     "company": "Aurora",
     "sector": "auto",
@@ -18900,24 +18887,36 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8342835002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior Cloud Security Engineer",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8342835002?gh_jid=8342835002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8329868002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Senior Cloud Security Engineer",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8329868002?gh_jid=8329868002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8343038002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior Cloud Security Engineer",
+    "location": "Seattle, Washington",
+    "url": "https://aurora.tech/jobs/8343038002?gh_jid=8343038002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8342835002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior Cloud Security Engineer",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8342835002?gh_jid=8342835002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -18948,18 +18947,6 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8430477002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior Identity Management Engineer",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8430477002?gh_jid=8430477002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8430074002",
     "company": "Aurora",
     "sector": "auto",
@@ -18984,6 +18971,18 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
+    "id": "greenhouse:aurorainnovation:8430477002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior Identity Management Engineer",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8430477002?gh_jid=8430477002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
     "id": "greenhouse:aurorainnovation:8430470002",
     "company": "Aurora",
     "sector": "auto",
@@ -18996,24 +18995,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8590102002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior IT Applications Engineer",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8590102002?gh_jid=8590102002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8581223002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Senior IT Applications Engineer",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8581223002?gh_jid=8581223002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8590102002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior IT Applications Engineer",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8590102002?gh_jid=8590102002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19104,18 +19103,6 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8556485002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior Staff Internal Communications",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8556485002?gh_jid=8556485002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8559063002",
     "company": "Aurora",
     "sector": "auto",
@@ -19128,12 +19115,12 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8571467002",
+    "id": "greenhouse:aurorainnovation:8556485002",
     "company": "Aurora",
     "sector": "auto",
-    "title": "Senior Staff Lidar Systems Architect",
+    "title": "Senior Staff Internal Communications",
     "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8571467002?gh_jid=8571467002",
+    "url": "https://aurora.tech/jobs/8556485002?gh_jid=8556485002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19152,12 +19139,12 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8540732002",
+    "id": "greenhouse:aurorainnovation:8571467002",
     "company": "Aurora",
     "sector": "auto",
-    "title": "Senior Staff Product Designer - Customer Experience",
-    "location": "San Francisco, California",
-    "url": "https://aurora.tech/jobs/8540732002?gh_jid=8540732002",
+    "title": "Senior Staff Lidar Systems Architect",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8571467002?gh_jid=8571467002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19170,6 +19157,18 @@
     "title": "Senior Staff Product Designer - Customer Experience",
     "location": "Pittsburgh, Pennsylvania",
     "url": "https://aurora.tech/jobs/8541464002?gh_jid=8541464002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8540732002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior Staff Product Designer - Customer Experience",
+    "location": "San Francisco, California",
+    "url": "https://aurora.tech/jobs/8540732002?gh_jid=8540732002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19200,24 +19199,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8555472002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Senior Staff Software Engineer (Security)",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8555472002?gh_jid=8555472002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8557492002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Senior Staff Software Engineer (Security)",
     "location": "Seattle, Washington",
     "url": "https://aurora.tech/jobs/8557492002?gh_jid=8557492002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8555472002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Senior Staff Software Engineer (Security)",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8555472002?gh_jid=8555472002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19284,24 +19283,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8252330002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Software Engineer, Autonomy Controls",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8252330002?gh_jid=8252330002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8400711002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Software Engineer, Autonomy Controls",
     "location": "Pittsburgh, Pennsylvania",
     "url": "https://aurora.tech/jobs/8400711002?gh_jid=8400711002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8252330002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Software Engineer, Autonomy Controls",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8252330002?gh_jid=8252330002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19332,6 +19331,18 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
+    "id": "greenhouse:aurorainnovation:8557484002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Software Engineer II (Security)",
+    "location": "Seattle, Washington",
+    "url": "https://aurora.tech/jobs/8557484002?gh_jid=8557484002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
     "id": "greenhouse:aurorainnovation:8557485002",
     "company": "Aurora",
     "sector": "auto",
@@ -19350,18 +19361,6 @@
     "title": "Software Engineer II (Security)",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8555225002?gh_jid=8555225002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8557484002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Software Engineer II (Security)",
-    "location": "Seattle, Washington",
-    "url": "https://aurora.tech/jobs/8557484002?gh_jid=8557484002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19392,24 +19391,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8204392002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Software Engineer, Maps Infra",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8204392002?gh_jid=8204392002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8588486002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Software Engineer, Maps Infra",
     "location": "San Francisco, California",
     "url": "https://aurora.tech/jobs/8588486002?gh_jid=8588486002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8204392002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Software Engineer, Maps Infra",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8204392002?gh_jid=8204392002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19512,30 +19511,6 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8516337002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Staff Product Program Manager",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8516337002?gh_jid=8516337002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8529806002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Staff Product Program Manager",
-    "location": "San Francisco, California",
-    "url": "https://aurora.tech/jobs/8529806002?gh_jid=8529806002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8529822002",
     "company": "Aurora",
     "sector": "auto",
@@ -19554,6 +19529,30 @@
     "title": "Staff Product Program Manager",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8499754002?gh_jid=8499754002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8516337002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Staff Product Program Manager",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8516337002?gh_jid=8516337002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8529806002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Staff Product Program Manager",
+    "location": "San Francisco, California",
+    "url": "https://aurora.tech/jobs/8529806002?gh_jid=8529806002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19596,24 +19595,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8579945002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Staff Security Engineer, Enterprise Security Architecture",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8579945002?gh_jid=8579945002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8587000002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Security Engineer, Enterprise Security Architecture",
     "location": "Seattle, Washington",
     "url": "https://aurora.tech/jobs/8587000002?gh_jid=8587000002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8579945002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Staff Security Engineer, Enterprise Security Architecture",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8579945002?gh_jid=8579945002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19644,12 +19643,12 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8537217002",
+    "id": "greenhouse:aurorainnovation:8539470002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Security Engineer, Enterprise Security Engineering",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8537217002?gh_jid=8537217002",
+    "location": "San Francisco, California",
+    "url": "https://aurora.tech/jobs/8539470002?gh_jid=8539470002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19668,24 +19667,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8539470002",
+    "id": "greenhouse:aurorainnovation:8537217002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Security Engineer, Enterprise Security Engineering",
-    "location": "San Francisco, California",
-    "url": "https://aurora.tech/jobs/8539470002?gh_jid=8539470002",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8537217002?gh_jid=8537217002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8539500002",
+    "id": "greenhouse:aurorainnovation:8539501002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Security Engineer, Enterprise Security Operations",
-    "location": "Seattle, Washington",
-    "url": "https://aurora.tech/jobs/8539500002?gh_jid=8539500002",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8539501002?gh_jid=8539501002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19704,12 +19703,12 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8539501002",
+    "id": "greenhouse:aurorainnovation:8539500002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Security Engineer, Enterprise Security Operations",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8539501002?gh_jid=8539501002",
+    "location": "Seattle, Washington",
+    "url": "https://aurora.tech/jobs/8539500002?gh_jid=8539500002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19824,24 +19823,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8557100002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Staff Software Engineer, Logging (C++)",
-    "location": "Mountain View, California",
-    "url": "https://aurora.tech/jobs/8557100002?gh_jid=8557100002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8573775002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Software Engineer, Logging (C++)",
     "location": "Pittsburgh, Pennsylvania",
     "url": "https://aurora.tech/jobs/8573775002?gh_jid=8573775002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8557100002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Staff Software Engineer, Logging (C++)",
+    "location": "Mountain View, California",
+    "url": "https://aurora.tech/jobs/8557100002?gh_jid=8557100002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19860,24 +19859,24 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8469542002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Staff Technical Product Operations Manager",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8469542002?gh_jid=8469542002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8467289002",
     "company": "Aurora",
     "sector": "auto",
     "title": "Staff Technical Product Operations Manager",
     "location": "Mountain View, California",
     "url": "https://aurora.tech/jobs/8467289002?gh_jid=8467289002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8469542002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Staff Technical Product Operations Manager",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8469542002?gh_jid=8469542002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -19932,18 +19931,6 @@
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
   },
   {
-    "id": "greenhouse:aurorainnovation:8369657002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Strategic Workforce Planning Lead",
-    "location": "Pittsburgh, Pennsylvania",
-    "url": "https://aurora.tech/jobs/8369657002?gh_jid=8369657002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
     "id": "greenhouse:aurorainnovation:8359479002",
     "company": "Aurora",
     "sector": "auto",
@@ -19962,6 +19949,18 @@
     "title": "Strategic Workforce Planning Lead",
     "location": "San Francisco, California",
     "url": "https://aurora.tech/jobs/8369655002?gh_jid=8369655002",
+    "postedAt": "2026-07-02T20:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:09.076Z"
+  },
+  {
+    "id": "greenhouse:aurorainnovation:8369657002",
+    "company": "Aurora",
+    "sector": "auto",
+    "title": "Strategic Workforce Planning Lead",
+    "location": "Pittsburgh, Pennsylvania",
+    "url": "https://aurora.tech/jobs/8369657002?gh_jid=8369657002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -20010,7 +20009,7 @@
     "title": "Truck Operations Specialist",
     "location": "Dallas, Texas",
     "url": "https://aurora.tech/jobs/8578020002?gh_jid=8578020002",
-    "postedAt": "2026-07-06T12:48:37-04:00",
+    "postedAt": "2026-07-08T09:53:49-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:09.076Z"
@@ -20022,18 +20021,6 @@
     "title": "Vehicle Operations Lead",
     "location": "Midland, Texas",
     "url": "https://aurora.tech/jobs/8544856002?gh_jid=8544856002",
-    "postedAt": "2026-07-02T20:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:09.076Z"
-  },
-  {
-    "id": "greenhouse:aurorainnovation:8508606002",
-    "company": "Aurora",
-    "sector": "auto",
-    "title": "Vehicle Platform Systems Engineer",
-    "location": "Dallas, Texas",
-    "url": "https://aurora.tech/jobs/8508606002?gh_jid=8508606002",
     "postedAt": "2026-07-02T20:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -25992,24 +25979,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8585061002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Account Lead, Starlink Strategic Connectivity",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8585061002?gh_jid=8585061002",
-    "postedAt": "2026-06-29T17:55:19-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8594962002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Account Lead, Starlink Strategic Connectivity",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8594962002?gh_jid=8594962002",
+    "postedAt": "2026-06-29T17:55:19-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8585061002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Account Lead, Starlink Strategic Connectivity",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8585061002?gh_jid=8585061002",
     "postedAt": "2026-06-29T17:55:19-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -26100,24 +26087,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8557110002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "AI Engineer, Platform Infrastructure, Special Programs",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8557110002?gh_jid=8557110002",
-    "postedAt": "2026-06-29T17:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8557252002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "AI Engineer, Platform Infrastructure, Special Programs",
     "location": "Washington, DC",
     "url": "https://boards.greenhouse.io/spacex/jobs/8557252002?gh_jid=8557252002",
+    "postedAt": "2026-06-29T17:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8557110002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "AI Engineer, Platform Infrastructure, Special Programs",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8557110002?gh_jid=8557110002",
     "postedAt": "2026-06-29T17:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -26184,24 +26171,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8441008002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "AI Security Software Engineer (Starshield)",
-    "location": "Washington, DC",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8441008002?gh_jid=8441008002",
-    "postedAt": "2026-06-29T17:54:47-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8440980002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "AI Security Software Engineer (Starshield)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8440980002?gh_jid=8440980002",
+    "postedAt": "2026-06-29T17:54:47-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8441008002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "AI Security Software Engineer (Starshield)",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8441008002?gh_jid=8441008002",
     "postedAt": "2026-06-29T17:54:47-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -26304,18 +26291,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8494238002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Application Software Engineer",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8494238002?gh_jid=8494238002",
-    "postedAt": "2026-06-29T17:54:55-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8402778002",
     "company": "SpaceX",
     "sector": "aero",
@@ -26323,6 +26298,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8402778002?gh_jid=8402778002",
     "postedAt": "2026-06-29T17:54:42-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8494238002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Application Software Engineer",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8494238002?gh_jid=8494238002",
+    "postedAt": "2026-06-29T17:54:55-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -26496,18 +26483,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8350391002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Automation & Controls Engineer (Starship)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8350391002?gh_jid=8350391002",
-    "postedAt": "2026-06-29T17:54:33-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8558761002",
     "company": "SpaceX",
     "sector": "aero",
@@ -26515,6 +26490,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8558761002?gh_jid=8558761002",
     "postedAt": "2026-06-29T17:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8350391002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Automation & Controls Engineer (Starship)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8350391002?gh_jid=8350391002",
+    "postedAt": "2026-06-29T17:54:33-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -26592,18 +26579,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8493473002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Automation & Controls Specialist (Starship)",
-    "location": "Cape Canaveral, FL",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8493473002?gh_jid=8493473002",
-    "postedAt": "2026-06-29T17:54:55-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8560912002",
     "company": "SpaceX",
     "sector": "aero",
@@ -26611,6 +26586,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8560912002?gh_jid=8560912002",
     "postedAt": "2026-06-29T17:55:11-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8493473002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Automation & Controls Specialist (Starship)",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8493473002?gh_jid=8493473002",
+    "postedAt": "2026-06-29T17:54:55-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -26676,18 +26663,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8538120002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "AV Administrator, Events & Experiences",
-    "location": "Cape Canaveral, FL",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8538120002?gh_jid=8538120002",
-    "postedAt": "2026-06-29T17:55:05-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8550182002",
     "company": "SpaceX",
     "sector": "aero",
@@ -26695,6 +26670,18 @@
     "location": "Palo Alto, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8550182002?gh_jid=8550182002",
     "postedAt": "2026-06-29T17:55:04-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8538120002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "AV Administrator, Events & Experiences",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8538120002?gh_jid=8538120002",
+    "postedAt": "2026-06-29T17:55:05-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -27144,18 +27131,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8519655002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Business Operations Analyst (Starlink)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8519655002?gh_jid=8519655002",
-    "postedAt": "2026-06-29T17:55:00-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8511086002",
     "company": "SpaceX",
     "sector": "aero",
@@ -27163,6 +27138,18 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8511086002?gh_jid=8511086002",
     "postedAt": "2026-06-29T17:54:58-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8519655002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Business Operations Analyst (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8519655002?gh_jid=8519655002",
+    "postedAt": "2026-06-29T17:55:00-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -27792,18 +27779,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8565650002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Construction Project Manager (Starlink)",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8565650002?gh_jid=8565650002",
-    "postedAt": "2026-06-29T17:55:13-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8565644002",
     "company": "SpaceX",
     "sector": "aero",
@@ -27811,6 +27786,18 @@
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8565644002?gh_jid=8565644002",
     "postedAt": "2026-06-29T17:55:12-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8565650002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Construction Project Manager (Starlink)",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8565650002?gh_jid=8565650002",
+    "postedAt": "2026-06-29T17:55:13-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -28080,18 +28067,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8548098002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Customer Support Associate, Bilingual - Ukrainian (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8548098002?gh_jid=8548098002",
-    "postedAt": "2026-06-29T17:55:07-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8548093002",
     "company": "SpaceX",
     "sector": "aero",
@@ -28104,13 +28079,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8540938002",
+    "id": "greenhouse:spacex:8548098002",
     "company": "SpaceX",
     "sector": "aero",
-    "title": "Customer Support Associate, Bilingual - Vietnamese (Starlink)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8540938002?gh_jid=8540938002",
-    "postedAt": "2026-06-29T17:55:05-04:00",
+    "title": "Customer Support Associate, Bilingual - Ukrainian (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8548098002?gh_jid=8548098002",
+    "postedAt": "2026-06-29T17:55:07-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -28122,6 +28097,18 @@
     "title": "Customer Support Associate, Bilingual - Vietnamese (Starlink)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8540988002?gh_jid=8540988002",
+    "postedAt": "2026-06-29T17:55:05-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8540938002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Customer Support Associate, Bilingual - Vietnamese (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8540938002?gh_jid=8540938002",
     "postedAt": "2026-06-29T17:55:05-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -28308,30 +28295,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8559068002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Design Verification Engineer (Silicon Engineering)",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8559068002?gh_jid=8559068002",
-    "postedAt": "2026-06-29T17:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8559056002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Design Verification Engineer (Silicon Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8559056002?gh_jid=8559056002",
-    "postedAt": "2026-06-29T17:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8559066002",
     "company": "SpaceX",
     "sector": "aero",
@@ -28350,6 +28313,30 @@
     "title": "Design Verification Engineer (Silicon Engineering)",
     "location": "Austin, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8559067002?gh_jid=8559067002",
+    "postedAt": "2026-06-29T17:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8559056002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Design Verification Engineer (Silicon Engineering)",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8559056002?gh_jid=8559056002",
+    "postedAt": "2026-06-29T17:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8559068002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Design Verification Engineer (Silicon Engineering)",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8559068002?gh_jid=8559068002",
     "postedAt": "2026-06-29T17:55:10-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -28752,18 +28739,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8593382002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Electrical Engineer (Starship Avionics)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8593382002?gh_jid=8593382002",
-    "postedAt": "2026-06-29T17:55:19-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8559232002",
     "company": "SpaceX",
     "sector": "aero",
@@ -28771,6 +28746,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8559232002?gh_jid=8559232002",
     "postedAt": "2026-06-29T17:55:11-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8593382002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Electrical Engineer (Starship Avionics)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8593382002?gh_jid=8593382002",
+    "postedAt": "2026-06-29T17:55:19-04:00",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -29052,6 +29039,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8577410002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Embedded Security Engineer (Starlink)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8577410002?gh_jid=8577410002",
+    "postedAt": "2026-06-29T17:55:16-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8543670002",
     "company": "SpaceX",
     "sector": "aero",
@@ -29076,13 +29075,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8577410002",
+    "id": "greenhouse:spacex:8578936002",
     "company": "SpaceX",
     "sector": "aero",
-    "title": "Embedded Security Engineer (Starlink)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8577410002?gh_jid=8577410002",
-    "postedAt": "2026-06-29T17:55:16-04:00",
+    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)   ",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578936002?gh_jid=8578936002",
+    "postedAt": "2026-06-29T17:55:17-04:00",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -29094,18 +29093,6 @@
     "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)   ",
     "location": "Palo Alto, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8578934002?gh_jid=8578934002",
-    "postedAt": "2026-06-29T17:55:17-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8578936002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)   ",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8578936002?gh_jid=8578936002",
     "postedAt": "2026-06-29T17:55:17-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -29304,13 +29291,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8430442002",
+    "id": "greenhouse:spacex:8453769002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Environmental Engineer",
-    "location": "McGregor, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8430442002?gh_jid=8430442002",
-    "postedAt": "2026-06-29T17:54:45-04:00",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8453769002?gh_jid=8453769002",
+    "postedAt": "2026-06-29T17:54:48-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -29328,13 +29315,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8453769002",
+    "id": "greenhouse:spacex:8430442002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Environmental Engineer",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8453769002?gh_jid=8453769002",
-    "postedAt": "2026-06-29T17:54:48-04:00",
+    "location": "McGregor, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8430442002?gh_jid=8430442002",
+    "postedAt": "2026-06-29T17:54:45-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -29496,18 +29483,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8432323002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Environmental Health & Safety Technician",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8432323002?gh_jid=8432323002",
-    "postedAt": "2026-06-29T17:54:45-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8385207002",
     "company": "SpaceX",
     "sector": "aero",
@@ -29515,6 +29490,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8385207002?gh_jid=8385207002",
     "postedAt": "2026-06-29T17:54:38-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8432323002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Environmental Health & Safety Technician",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8432323002?gh_jid=8432323002",
+    "postedAt": "2026-06-29T17:54:45-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -30492,24 +30479,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8555722002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Global Supply Manager, Pipeline and Gas (Starlink)",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8555722002?gh_jid=8555722002",
-    "postedAt": "2026-06-29T17:55:09-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8581956002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Global Supply Manager, Pipeline and Gas (Starlink)",
     "location": "Memphis, TN",
     "url": "https://boards.greenhouse.io/spacex/jobs/8581956002?gh_jid=8581956002",
+    "postedAt": "2026-06-29T17:55:09-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8555722002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Global Supply Manager, Pipeline and Gas (Starlink)",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8555722002?gh_jid=8555722002",
     "postedAt": "2026-06-29T17:55:09-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -31044,18 +31031,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8565090002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Hardware Test Engineer (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8565090002?gh_jid=8565090002",
-    "postedAt": "2026-06-29T17:55:12-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8497592002",
     "company": "SpaceX",
     "sector": "aero",
@@ -31063,6 +31038,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8497592002?gh_jid=8497592002",
     "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8565090002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Hardware Test Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8565090002?gh_jid=8565090002",
+    "postedAt": "2026-06-29T17:55:12-04:00",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -31296,18 +31283,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8573472002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Industrial Hygienist",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8573472002?gh_jid=8573472002",
-    "postedAt": "2026-06-29T17:55:15-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8369532002",
     "company": "SpaceX",
     "sector": "aero",
@@ -31315,6 +31290,18 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8369532002?gh_jid=8369532002",
     "postedAt": "2026-06-29T17:54:36-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8573472002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Industrial Hygienist",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8573472002?gh_jid=8573472002",
+    "postedAt": "2026-06-29T17:55:15-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -31620,18 +31607,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8486094002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Inventory Specialist (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8486094002?gh_jid=8486094002",
-    "postedAt": "2026-06-29T17:54:54-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8470414002",
     "company": "SpaceX",
     "sector": "aero",
@@ -31651,6 +31626,18 @@
     "location": "Woodinville, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8552846002?gh_jid=8552846002",
     "postedAt": "2026-06-29T17:55:08-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8486094002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Inventory Specialist (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8486094002?gh_jid=8486094002",
+    "postedAt": "2026-06-29T17:54:54-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -31788,13 +31775,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8517131002",
+    "id": "greenhouse:spacex:8577847002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "IT Support Technician",
-    "location": "Vandenberg, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8517131002?gh_jid=8517131002",
-    "postedAt": "2026-06-29T17:55:00-04:00",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8577847002?gh_jid=8577847002",
+    "postedAt": "2026-06-29T17:55:16-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -31812,13 +31799,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8577847002",
+    "id": "greenhouse:spacex:8517131002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "IT Support Technician",
-    "location": "Washington, DC",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8577847002?gh_jid=8577847002",
-    "postedAt": "2026-06-29T17:55:16-04:00",
+    "location": "Vandenberg, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8517131002?gh_jid=8517131002",
+    "postedAt": "2026-06-29T17:55:00-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -32916,18 +32903,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8546036002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Manufacturing Engineer, Optical Fiber (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8546036002?gh_jid=8546036002",
-    "postedAt": "2026-06-29T17:55:06-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8561494002",
     "company": "SpaceX",
     "sector": "aero",
@@ -32935,6 +32910,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8561494002?gh_jid=8561494002",
     "postedAt": "2026-06-29T17:55:11-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8546036002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Manufacturing Engineer, Optical Fiber (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8546036002?gh_jid=8546036002",
+    "postedAt": "2026-06-29T17:55:06-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -33336,18 +33323,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8498815002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Materials R&D Technician - Level 4/5",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8498815002?gh_jid=8498815002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8521859002",
     "company": "SpaceX",
     "sector": "aero",
@@ -33355,6 +33330,18 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8521859002?gh_jid=8521859002",
     "postedAt": "2026-06-29T17:55:00-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8498815002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Materials R&D Technician - Level 4/5",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8498815002?gh_jid=8498815002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -33756,18 +33743,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8511462002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Mechanical Engineer (Starship)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
-    "postedAt": "2026-06-29T17:54:59-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8400602002",
     "company": "SpaceX",
     "sector": "aero",
@@ -33775,6 +33750,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8400602002?gh_jid=8400602002",
     "postedAt": "2026-06-29T17:54:41-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8511462002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Mechanical Engineer (Starship)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
+    "postedAt": "2026-06-29T17:54:59-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -34860,18 +34847,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8490693002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Porter",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8490693002?gh_jid=8490693002",
-    "postedAt": "2026-06-30T19:15:44-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8573577002",
     "company": "SpaceX",
     "sector": "aero",
@@ -34879,6 +34854,18 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8573577002?gh_jid=8573577002",
     "postedAt": "2026-06-29T17:55:15-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8490693002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Porter",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8490693002?gh_jid=8490693002",
+    "postedAt": "2026-06-30T19:15:44-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -34992,6 +34979,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8497441002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Principal ASIC Design Engineer (Starshield)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8497441002?gh_jid=8497441002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8493157002",
     "company": "SpaceX",
     "sector": "aero",
@@ -35016,18 +35015,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8497441002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Principal ASIC Design Engineer (Starshield)",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8497441002?gh_jid=8497441002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8559219002",
     "company": "SpaceX",
     "sector": "aero",
@@ -35035,6 +35022,18 @@
     "location": "Austin, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8559219002?gh_jid=8559219002",
     "postedAt": "2026-06-29T17:55:11-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8559218002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Principal Design Verification Engineer (Silicon Engineering)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8559218002?gh_jid=8559218002",
+    "postedAt": "2026-06-29T17:55:10-04:00",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -35064,30 +35063,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8559218002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Principal Design Verification Engineer (Silicon Engineering)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8559218002?gh_jid=8559218002",
-    "postedAt": "2026-06-29T17:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8561578002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Principal DFT Engineer (Silicon Engineering)",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8561578002?gh_jid=8561578002",
-    "postedAt": "2026-06-29T17:54:41-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8399732002",
     "company": "SpaceX",
     "sector": "aero",
@@ -35106,6 +35081,18 @@
     "title": "Principal DFT Engineer (Silicon Engineering)",
     "location": "Irvine, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8561577002?gh_jid=8561577002",
+    "postedAt": "2026-06-29T17:54:41-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8561578002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Principal DFT Engineer (Silicon Engineering)",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8561578002?gh_jid=8561578002",
     "postedAt": "2026-06-29T17:54:41-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -35244,12 +35231,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8560575002",
+    "id": "greenhouse:spacex:8494978002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Principal Software Engineer (Platform Team)",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8560575002?gh_jid=8560575002",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8494978002?gh_jid=8494978002",
     "postedAt": "2026-06-29T17:54:55-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -35268,12 +35255,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8494978002",
+    "id": "greenhouse:spacex:8558835002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Principal Software Engineer (Platform Team)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8494978002?gh_jid=8494978002",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8558835002?gh_jid=8558835002",
     "postedAt": "2026-06-29T17:54:55-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -35304,12 +35291,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8558835002",
+    "id": "greenhouse:spacex:8560575002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Principal Software Engineer (Platform Team)",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8558835002?gh_jid=8558835002",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8560575002?gh_jid=8560575002",
     "postedAt": "2026-06-29T17:54:55-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -35460,24 +35447,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8517671002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Product Growth Strategy & Analytics Lead (Starlink)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8517671002?gh_jid=8517671002",
-    "postedAt": "2026-06-29T17:55:00-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8517746002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Product Growth Strategy & Analytics Lead (Starlink)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8517746002?gh_jid=8517746002",
+    "postedAt": "2026-06-29T17:55:00-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8517671002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Product Growth Strategy & Analytics Lead (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8517671002?gh_jid=8517671002",
     "postedAt": "2026-06-29T17:55:00-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -35856,6 +35843,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8577411002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Product Security Engineer (Starlink)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8577411002?gh_jid=8577411002",
+    "postedAt": "2026-06-29T17:55:16-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8479261002",
     "company": "SpaceX",
     "sector": "aero",
@@ -35875,18 +35874,6 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002",
     "postedAt": "2026-06-29T17:55:05-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8577411002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Product Security Engineer (Starlink)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8577411002?gh_jid=8577411002",
-    "postedAt": "2026-06-29T17:55:16-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -36480,13 +36467,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8418689002",
+    "id": "greenhouse:spacex:8439685002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "RFIC Design Engineer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8418689002?gh_jid=8418689002",
-    "postedAt": "2026-06-29T17:54:44-04:00",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8439685002?gh_jid=8439685002",
+    "postedAt": "2026-06-29T17:54:47-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -36504,13 +36491,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8439685002",
+    "id": "greenhouse:spacex:8418689002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "RFIC Design Engineer (RFIC Engineering)",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8439685002?gh_jid=8439685002",
-    "postedAt": "2026-06-29T17:54:47-04:00",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8418689002?gh_jid=8418689002",
+    "postedAt": "2026-06-29T17:54:44-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -36540,24 +36527,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8418776002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8418776002?gh_jid=8418776002",
-    "postedAt": "2026-06-29T17:54:44-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8418679002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "RFIC Layout Designer (RFIC Engineering)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8418679002?gh_jid=8418679002",
+    "postedAt": "2026-06-29T17:54:44-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8418776002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "RFIC Layout Designer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8418776002?gh_jid=8418776002",
     "postedAt": "2026-06-29T17:54:44-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -36732,18 +36719,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8390061002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Satellite Policy Manager (Starlink Mobile)",
-    "location": "Washington, DC",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8390061002?gh_jid=8390061002",
-    "postedAt": "2026-06-30T15:54:49-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8557436002",
     "company": "SpaceX",
     "sector": "aero",
@@ -36751,6 +36726,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8557436002?gh_jid=8557436002",
     "postedAt": "2026-06-30T15:54:48-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8390061002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Satellite Policy Manager (Starlink Mobile)",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8390061002?gh_jid=8390061002",
+    "postedAt": "2026-06-30T15:54:49-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -36792,18 +36779,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8567522002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Security Engineer",
-    "location": "Cape Canaveral, FL",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002",
-    "postedAt": "2026-06-29T17:55:13-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8567571002",
     "company": "SpaceX",
     "sector": "aero",
@@ -36816,15 +36791,15 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8593385002",
+    "id": "greenhouse:spacex:8567522002",
     "company": "SpaceX",
     "sector": "aero",
-    "title": "Security Engineer (Embedded & Networking)",
+    "title": "Security Engineer",
     "location": "Cape Canaveral, FL",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8593385002?gh_jid=8593385002",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002",
     "postedAt": "2026-06-29T17:55:13-04:00",
     "isSummer2027": false,
-    "isEE": true,
+    "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
@@ -36834,6 +36809,18 @@
     "title": "Security Engineer (Embedded & Networking)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8593384002?gh_jid=8593384002",
+    "postedAt": "2026-06-29T17:55:13-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8593385002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Security Engineer (Embedded & Networking)",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8593385002?gh_jid=8593385002",
     "postedAt": "2026-06-29T17:55:13-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -36864,6 +36851,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8479234002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Security Software Engineer (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8479234002?gh_jid=8479234002",
+    "postedAt": "2026-06-29T17:54:52-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8543668002",
     "company": "SpaceX",
     "sector": "aero",
@@ -36883,18 +36882,6 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8577408002?gh_jid=8577408002",
     "postedAt": "2026-06-29T17:55:16-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8479234002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Security Software Engineer (Starlink)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8479234002?gh_jid=8479234002",
-    "postedAt": "2026-06-29T17:54:52-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -36936,24 +36923,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8483982002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Security Software Engineer (Starshield)",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8483982002?gh_jid=8483982002",
-    "postedAt": "2026-06-29T17:54:53-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8483980002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Security Software Engineer (Starshield)",
     "location": "Washington, DC",
     "url": "https://boards.greenhouse.io/spacex/jobs/8483980002?gh_jid=8483980002",
+    "postedAt": "2026-06-29T17:54:53-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8483982002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Security Software Engineer (Starshield)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8483982002?gh_jid=8483982002",
     "postedAt": "2026-06-29T17:54:53-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -37164,24 +37151,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8597472002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8597472002?gh_jid=8597472002",
-    "postedAt": "2026-06-29T17:55:20-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8597455002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8597455002?gh_jid=8597455002",
+    "postedAt": "2026-06-29T17:55:20-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8597472002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8597472002?gh_jid=8597472002",
     "postedAt": "2026-06-29T17:55:20-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -37272,24 +37259,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8578907002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer, Beam Planning (Starlink)   ",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002",
-    "postedAt": "2026-06-29T17:55:17-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8578929002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Software Engineer, Beam Planning (Starlink)   ",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8578929002?gh_jid=8578929002",
+    "postedAt": "2026-06-29T17:55:17-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8578907002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer, Beam Planning (Starlink)   ",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002",
     "postedAt": "2026-06-29T17:55:17-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -37572,18 +37559,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8562450002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer, Flight Software (Starship)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8562450002?gh_jid=8562450002",
-    "postedAt": "2026-06-29T17:55:12-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8562284002",
     "company": "SpaceX",
     "sector": "aero",
@@ -37591,6 +37566,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8562284002?gh_jid=8562284002",
     "postedAt": "2026-06-29T17:55:11-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8562450002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer, Flight Software (Starship)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8562450002?gh_jid=8562450002",
+    "postedAt": "2026-06-29T17:55:12-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -37644,24 +37631,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8578931002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer, High Performance Computing (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002",
-    "postedAt": "2026-06-29T17:55:17-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8578909002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Software Engineer, High Performance Computing (Starlink)",
     "location": "Palo Alto, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002",
+    "postedAt": "2026-06-29T17:55:17-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8578931002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer, High Performance Computing (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002",
     "postedAt": "2026-06-29T17:55:17-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -37716,36 +37703,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8560537002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer (Platform Team)",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8560537002?gh_jid=8560537002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8495882002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer (Platform Team)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8495882002?gh_jid=8495882002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8558857002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Software Engineer (Platform Team)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8558857002?gh_jid=8558857002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8560546002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer (Platform Team)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002",
     "postedAt": "2026-06-29T17:54:56-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -37764,6 +37739,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8495882002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer (Platform Team)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8495882002?gh_jid=8495882002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8558859002",
     "company": "SpaceX",
     "sector": "aero",
@@ -37776,12 +37763,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8560546002",
+    "id": "greenhouse:spacex:8560537002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Software Engineer (Platform Team)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8560537002?gh_jid=8560537002",
     "postedAt": "2026-06-29T17:54:56-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -37896,18 +37883,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8379301002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer (Starlink)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8379301002?gh_jid=8379301002",
-    "postedAt": "2026-06-29T17:54:37-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8525359002",
     "company": "SpaceX",
     "sector": "aero",
@@ -37915,6 +37890,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8525359002?gh_jid=8525359002",
     "postedAt": "2026-06-29T17:55:01-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8379301002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8379301002?gh_jid=8379301002",
+    "postedAt": "2026-06-29T17:54:37-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -37968,18 +37955,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8458001002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer, Starlink Network",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002",
-    "postedAt": "2026-06-29T17:54:49-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8477137002",
     "company": "SpaceX",
     "sector": "aero",
@@ -37987,6 +37962,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8477137002?gh_jid=8477137002",
     "postedAt": "2026-06-29T17:54:52-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8458001002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer, Starlink Network",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002",
+    "postedAt": "2026-06-29T17:54:49-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -38004,24 +37991,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8569125002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Engineer (Starship)",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002",
-    "postedAt": "2026-06-29T17:55:14-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8569160002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Software Engineer (Starship)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8569160002?gh_jid=8569160002",
+    "postedAt": "2026-06-29T17:55:14-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8569125002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Engineer (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002",
     "postedAt": "2026-06-29T17:55:14-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -38100,18 +38087,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8584920002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Software Infrastructure Engineer (Starlink)",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002",
-    "postedAt": "2026-07-06T10:01:37-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8573279002",
     "company": "SpaceX",
     "sector": "aero",
@@ -38119,6 +38094,18 @@
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8573279002?gh_jid=8573279002",
     "postedAt": "2026-07-06T10:01:36-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8584920002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Software Infrastructure Engineer (Starlink)",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002",
+    "postedAt": "2026-07-06T10:01:37-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -38544,24 +38531,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8557262002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
-    "location": "Washington, DC",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8557262002?gh_jid=8557262002",
-    "postedAt": "2026-06-29T17:55:10-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8557126002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
     "location": "Palo Alto, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8557126002?gh_jid=8557126002",
+    "postedAt": "2026-06-29T17:55:10-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8557262002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. AI Engineer, Platform Infrastructure, Special Programs",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8557262002?gh_jid=8557262002",
     "postedAt": "2026-06-29T17:55:10-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -38616,18 +38603,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8441130002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. AI Security Software Engineer (Starshield)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8441130002?gh_jid=8441130002",
-    "postedAt": "2026-06-29T17:54:47-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8483823002",
     "company": "SpaceX",
     "sector": "aero",
@@ -38646,6 +38621,18 @@
     "title": "Sr. AI Security Software Engineer (Starshield)",
     "location": "Washington, DC",
     "url": "https://boards.greenhouse.io/spacex/jobs/8441151002?gh_jid=8441151002",
+    "postedAt": "2026-06-29T17:54:47-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8441130002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. AI Security Software Engineer (Starshield)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8441130002?gh_jid=8441130002",
     "postedAt": "2026-06-29T17:54:47-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -38724,18 +38711,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8493097002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. ASIC Design Engineer (Starshield) ",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8493097002?gh_jid=8493097002",
-    "postedAt": "2026-06-29T17:54:55-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8492998002",
     "company": "SpaceX",
     "sector": "aero",
@@ -38748,12 +38723,36 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8493097002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. ASIC Design Engineer (Starshield) ",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8493097002?gh_jid=8493097002",
+    "postedAt": "2026-06-29T17:54:55-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8559229002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. ASIC Design Verification Engineer (Silicon Engineering)",
     "location": "Sunnyvale, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8559229002?gh_jid=8559229002",
+    "postedAt": "2026-06-29T17:55:11-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8559231002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. ASIC Design Verification Engineer (Silicon Engineering)",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8559231002?gh_jid=8559231002",
     "postedAt": "2026-06-29T17:55:11-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -38784,18 +38783,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8559231002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. ASIC Design Verification Engineer (Silicon Engineering)",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8559231002?gh_jid=8559231002",
-    "postedAt": "2026-06-29T17:55:11-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8571294002",
     "company": "SpaceX",
     "sector": "aero",
@@ -38808,24 +38795,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8571283002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. ASIC DFT Engineer (Silicon)",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8571283002?gh_jid=8571283002",
-    "postedAt": "2026-06-29T17:55:14-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8571293002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. ASIC DFT Engineer (Silicon)",
     "location": "Irvine, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8571293002?gh_jid=8571293002",
+    "postedAt": "2026-06-29T17:55:14-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8571283002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. ASIC DFT Engineer (Silicon)",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8571283002?gh_jid=8571283002",
     "postedAt": "2026-06-29T17:55:14-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -39012,24 +38999,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8444717002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Business Analyst, Workforce Planning (Starlink) ",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8444717002?gh_jid=8444717002",
-    "postedAt": "2026-06-29T17:54:47-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8444844002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Business Analyst, Workforce Planning (Starlink) ",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8444844002?gh_jid=8444844002",
+    "postedAt": "2026-06-29T17:54:47-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8444717002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Business Analyst, Workforce Planning (Starlink) ",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8444717002?gh_jid=8444717002",
     "postedAt": "2026-06-29T17:54:47-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -39096,18 +39083,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8563021002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Construction Superintendent",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8563021002?gh_jid=8563021002",
-    "postedAt": "2026-06-29T17:54:49-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8501150002",
     "company": "SpaceX",
     "sector": "aero",
@@ -39115,6 +39090,18 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8501150002?gh_jid=8501150002",
     "postedAt": "2026-06-29T17:54:57-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8563021002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Construction Superintendent",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8563021002?gh_jid=8563021002",
+    "postedAt": "2026-06-29T17:54:49-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -39384,12 +39371,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8584338002",
+    "id": "greenhouse:spacex:8584358002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Environmental Engineer",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8584338002?gh_jid=8584338002",
+    "location": "McGregor, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8584358002?gh_jid=8584358002",
     "postedAt": "2026-06-29T17:55:18-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -39408,49 +39395,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8584358002",
+    "id": "greenhouse:spacex:8584338002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Environmental Engineer",
-    "location": "McGregor, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8584358002?gh_jid=8584358002",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8584338002?gh_jid=8584338002",
     "postedAt": "2026-06-29T17:55:18-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8533465002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Environmental Health & Safety Engineer",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8533465002?gh_jid=8533465002",
-    "postedAt": "2026-06-29T17:55:02-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8527574002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Environmental Health & Safety Engineer",
-    "location": "McGregor, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8527574002?gh_jid=8527574002",
-    "postedAt": "2026-06-29T17:55:02-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8456209002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Environmental Health & Safety Engineer",
-    "location": "Canandaigua, NY ",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8456209002?gh_jid=8456209002",
-    "postedAt": "2026-06-29T17:54:49-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -39468,12 +39419,48 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8456209002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Environmental Health & Safety Engineer",
+    "location": "Canandaigua, NY ",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8456209002?gh_jid=8456209002",
+    "postedAt": "2026-06-29T17:54:49-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8527574002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Environmental Health & Safety Engineer",
+    "location": "McGregor, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8527574002?gh_jid=8527574002",
+    "postedAt": "2026-06-29T17:55:02-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8533463002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Environmental Health & Safety Engineer",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8533463002?gh_jid=8533463002",
+    "postedAt": "2026-06-29T17:55:02-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8533465002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Environmental Health & Safety Engineer",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8533465002?gh_jid=8533465002",
     "postedAt": "2026-06-29T17:55:02-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -39624,24 +39611,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8572143002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Full Chip Physical Verification Engineer (Silicon Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8572143002?gh_jid=8572143002",
-    "postedAt": "2026-06-29T17:55:01-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8524041002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Full Chip Physical Verification Engineer (Silicon Engineering)",
     "location": "Sunnyvale, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8524041002?gh_jid=8524041002",
+    "postedAt": "2026-06-29T17:55:01-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8572143002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Full Chip Physical Verification Engineer (Silicon Engineering)",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8572143002?gh_jid=8572143002",
     "postedAt": "2026-06-29T17:55:01-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -39864,18 +39851,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8460765002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. IC Package Design Engineer (Silicon Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8460765002?gh_jid=8460765002",
-    "postedAt": "2026-06-29T17:54:49-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8560118002",
     "company": "SpaceX",
     "sector": "aero",
@@ -39888,13 +39863,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8570048002",
+    "id": "greenhouse:spacex:8460765002",
     "company": "SpaceX",
     "sector": "aero",
-    "title": "Sr. Industrial Hygienist",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8570048002?gh_jid=8570048002",
-    "postedAt": "2026-06-29T17:55:14-04:00",
+    "title": "Sr. IC Package Design Engineer (Silicon Engineering)",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8460765002?gh_jid=8460765002",
+    "postedAt": "2026-06-29T17:54:49-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -39906,18 +39881,6 @@
     "title": "Sr. Industrial Hygienist",
     "location": "McGregor, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8570047002?gh_jid=8570047002",
-    "postedAt": "2026-06-29T17:55:14-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8570042002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Industrial Hygienist",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8570042002?gh_jid=8570042002",
     "postedAt": "2026-06-29T17:55:14-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -39936,6 +39899,30 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8570048002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Industrial Hygienist",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8570048002?gh_jid=8570048002",
+    "postedAt": "2026-06-29T17:55:14-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8570042002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Industrial Hygienist",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8570042002?gh_jid=8570042002",
+    "postedAt": "2026-06-29T17:55:14-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8493014002",
     "company": "SpaceX",
     "sector": "aero",
@@ -39943,18 +39930,6 @@
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8493014002?gh_jid=8493014002",
     "postedAt": "2026-06-29T17:54:52-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8372276002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. IT Linux Site Reliability Engineer",
-    "location": "Cape Canaveral, FL",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8372276002?gh_jid=8372276002",
-    "postedAt": "2026-06-29T17:54:36-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -39972,6 +39947,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8372276002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. IT Linux Site Reliability Engineer",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8372276002?gh_jid=8372276002",
+    "postedAt": "2026-06-29T17:54:36-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8414591002",
     "company": "SpaceX",
     "sector": "aero",
@@ -39979,30 +39966,6 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8414591002?gh_jid=8414591002",
     "postedAt": "2026-06-29T17:54:43-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8438598002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. IT Network Automation Engineer",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8438598002?gh_jid=8438598002",
-    "postedAt": "2026-06-29T17:54:46-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8536959002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. IT Network Automation Engineer",
-    "location": "Cape Canaveral, FL",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8536959002?gh_jid=8536959002",
-    "postedAt": "2026-06-29T17:54:47-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -40020,6 +39983,30 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8536959002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. IT Network Automation Engineer",
+    "location": "Cape Canaveral, FL",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8536959002?gh_jid=8536959002",
+    "postedAt": "2026-06-29T17:54:47-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8438598002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. IT Network Automation Engineer",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8438598002?gh_jid=8438598002",
+    "postedAt": "2026-06-29T17:54:46-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8436419002",
     "company": "SpaceX",
     "sector": "aero",
@@ -40032,24 +40019,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8510417002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Kubernetes Engineer",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8510417002?gh_jid=8510417002",
-    "postedAt": "2026-06-29T17:54:43-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8510414002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Kubernetes Engineer",
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8510414002?gh_jid=8510414002",
+    "postedAt": "2026-06-29T17:54:43-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8510417002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Kubernetes Engineer",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8510417002?gh_jid=8510417002",
     "postedAt": "2026-06-29T17:54:43-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -40344,24 +40331,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8550018002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Mechanical Engineer (Starship) ",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8550018002?gh_jid=8550018002",
-    "postedAt": "2026-06-29T17:54:55-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8493609002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Mechanical Engineer (Starship) ",
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8493609002?gh_jid=8493609002",
+    "postedAt": "2026-06-29T17:54:55-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8550018002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Mechanical Engineer (Starship) ",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8550018002?gh_jid=8550018002",
     "postedAt": "2026-06-29T17:54:55-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -40488,24 +40475,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8546317002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Partnerships Manager (Starlink Commercial Aviation)",
-    "location": "Woodinville, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8546317002?gh_jid=8546317002",
-    "postedAt": "2026-06-29T17:55:07-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8546375002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Partnerships Manager (Starlink Commercial Aviation)",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8546375002?gh_jid=8546375002",
+    "postedAt": "2026-06-29T17:55:07-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8546317002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Partnerships Manager (Starlink Commercial Aviation)",
+    "location": "Woodinville, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8546317002?gh_jid=8546317002",
     "postedAt": "2026-06-29T17:55:07-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -40680,18 +40667,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8434083002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Product Sales Manager (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8434083002?gh_jid=8434083002",
-    "postedAt": "2026-06-29T17:54:45-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8515364002",
     "company": "SpaceX",
     "sector": "aero",
@@ -40699,6 +40674,18 @@
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8515364002?gh_jid=8515364002",
     "postedAt": "2026-06-29T17:54:59-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8434083002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Product Sales Manager (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8434083002?gh_jid=8434083002",
+    "postedAt": "2026-06-29T17:54:45-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -40860,24 +40847,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8499101002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. RF Front-End Module Design Engineer (RFIC Engineering)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8499101002?gh_jid=8499101002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8562301002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. RF Front-End Module Design Engineer (RFIC Engineering)",
     "location": "Irvine, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8562301002?gh_jid=8562301002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8499101002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. RF Front-End Module Design Engineer (RFIC Engineering)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8499101002?gh_jid=8499101002",
     "postedAt": "2026-06-29T17:54:56-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -40932,18 +40919,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8418848002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. RFIC Layout Designer (RFIC Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8418848002?gh_jid=8418848002",
-    "postedAt": "2026-06-29T17:54:44-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8472249002",
     "company": "SpaceX",
     "sector": "aero",
@@ -40951,6 +40926,18 @@
     "location": "Sunnyvale, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8472249002?gh_jid=8472249002",
     "postedAt": "2026-06-29T17:54:51-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8418848002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. RFIC Layout Designer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8418848002?gh_jid=8418848002",
+    "postedAt": "2026-06-29T17:54:44-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -41040,18 +41027,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8560224002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. RTL Design Engineer (Silicon Engineering)",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8560224002?gh_jid=8560224002",
-    "postedAt": "2026-06-29T17:54:50-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8461485002",
     "company": "SpaceX",
     "sector": "aero",
@@ -41088,6 +41063,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8560224002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. RTL Design Engineer (Silicon Engineering)",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8560224002?gh_jid=8560224002",
+    "postedAt": "2026-06-29T17:54:50-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8566905002",
     "company": "SpaceX",
     "sector": "aero",
@@ -41112,24 +41099,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8425575002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Satellite Policy Manager, APAC (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8425575002?gh_jid=8425575002",
-    "postedAt": "2026-06-29T17:54:45-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8426469002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Satellite Policy Manager, APAC (Starlink)",
     "location": "Washington, DC",
     "url": "https://boards.greenhouse.io/spacex/jobs/8426469002?gh_jid=8426469002",
+    "postedAt": "2026-06-29T17:54:45-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8425575002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Satellite Policy Manager, APAC (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8425575002?gh_jid=8425575002",
     "postedAt": "2026-06-29T17:54:45-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -41232,18 +41219,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8357937002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Signal and Power Integrity Engineer, Satellites (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8357937002?gh_jid=8357937002",
-    "postedAt": "2026-06-29T17:54:34-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8435646002",
     "company": "SpaceX",
     "sector": "aero",
@@ -41251,6 +41226,18 @@
     "location": "Sunnyvale, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8435646002?gh_jid=8435646002",
     "postedAt": "2026-06-29T17:54:46-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8357937002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Signal and Power Integrity Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8357937002?gh_jid=8357937002",
+    "postedAt": "2026-06-29T17:54:34-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -41328,24 +41315,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8597547002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Site Reliability Engineer (Starshield)",
-    "location": "Washington, DC",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8597547002?gh_jid=8597547002",
-    "postedAt": "2026-06-29T17:55:20-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8597536002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Site Reliability Engineer (Starshield)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8597536002?gh_jid=8597536002",
+    "postedAt": "2026-06-29T17:55:20-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8597547002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Site Reliability Engineer (Starshield)",
+    "location": "Washington, DC",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8597547002?gh_jid=8597547002",
     "postedAt": "2026-06-29T17:55:20-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -41364,12 +41351,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8564795002",
+    "id": "greenhouse:spacex:8564796002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)",
-    "location": "Irvine, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8564795002?gh_jid=8564795002",
+    "location": "Austin, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8564796002?gh_jid=8564796002",
     "postedAt": "2026-06-29T17:55:12-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -41388,12 +41375,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8564796002",
+    "id": "greenhouse:spacex:8564795002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8564796002?gh_jid=8564796002",
+    "location": "Irvine, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8564795002?gh_jid=8564795002",
     "postedAt": "2026-06-29T17:55:12-04:00",
     "isSummer2027": false,
     "isEE": true,
@@ -41412,24 +41399,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8579125002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Software Engineer, Beam Planning (Starlink)   ",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8579125002?gh_jid=8579125002",
-    "postedAt": "2026-06-29T17:55:17-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8579130002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Software Engineer, Beam Planning (Starlink)   ",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8579130002?gh_jid=8579130002",
+    "postedAt": "2026-06-29T17:55:17-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8579125002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Software Engineer, Beam Planning (Starlink)   ",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8579125002?gh_jid=8579125002",
     "postedAt": "2026-06-29T17:55:17-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -41472,24 +41459,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8533836002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Software Engineer, Continuous Integration (Starship)",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8533836002?gh_jid=8533836002",
-    "postedAt": "2026-06-29T17:55:03-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8533833002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Software Engineer, Continuous Integration (Starship)",
     "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8533833002?gh_jid=8533833002",
+    "postedAt": "2026-06-29T17:55:03-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8533836002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Software Engineer, Continuous Integration (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8533836002?gh_jid=8533836002",
     "postedAt": "2026-06-29T17:55:03-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -41628,36 +41615,12 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8558870002",
+    "id": "greenhouse:spacex:8558869002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Software Engineer (Platform Team)",
-    "location": "Sunnyvale, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8558870002?gh_jid=8558870002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8495853002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Software Engineer (Platform Team)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8495853002?gh_jid=8495853002",
-    "postedAt": "2026-06-29T17:54:56-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
-    "id": "greenhouse:spacex:8560569002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Software Engineer (Platform Team)",
-    "location": "Starbase, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8560569002?gh_jid=8560569002",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8558869002?gh_jid=8558869002",
     "postedAt": "2026-06-29T17:54:56-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -41676,6 +41639,18 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
+    "id": "greenhouse:spacex:8560569002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Software Engineer (Platform Team)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8560569002?gh_jid=8560569002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
     "id": "greenhouse:spacex:8558871002",
     "company": "SpaceX",
     "sector": "aero",
@@ -41688,12 +41663,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8558869002",
+    "id": "greenhouse:spacex:8558870002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Software Engineer (Platform Team)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8558869002?gh_jid=8558869002",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8558870002?gh_jid=8558870002",
+    "postedAt": "2026-06-29T17:54:56-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8495853002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Software Engineer (Platform Team)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8495853002?gh_jid=8495853002",
     "postedAt": "2026-06-29T17:54:56-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -42084,24 +42071,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8444679002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Technical Operations Engineer, Customer Success (Starlink)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8444679002?gh_jid=8444679002",
-    "postedAt": "2026-06-29T17:54:47-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8439487002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Technical Operations Engineer, Customer Success (Starlink)",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8439487002?gh_jid=8439487002",
+    "postedAt": "2026-06-29T17:54:47-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8444679002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Technical Operations Engineer, Customer Success (Starlink)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8444679002?gh_jid=8444679002",
     "postedAt": "2026-06-29T17:54:47-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -42132,24 +42119,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8550162002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Terrestrial Services Sales Manager (Starlink Aviation)",
-    "location": "Woodinville, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8550162002?gh_jid=8550162002",
-    "postedAt": "2026-06-29T17:55:07-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8550231002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Sr. Terrestrial Services Sales Manager (Starlink Aviation)",
     "location": "Bastrop, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8550231002?gh_jid=8550231002",
+    "postedAt": "2026-06-29T17:55:07-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8550162002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Terrestrial Services Sales Manager (Starlink Aviation)",
+    "location": "Woodinville, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8550162002?gh_jid=8550162002",
     "postedAt": "2026-06-29T17:55:07-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -42192,18 +42179,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8584754002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Sr. Trajectory Analysis Engineer (Starship)",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8584754002?gh_jid=8584754002",
-    "postedAt": "2026-06-29T17:55:18-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8584829002",
     "company": "SpaceX",
     "sector": "aero",
@@ -42211,6 +42186,18 @@
     "location": "Starbase, TX",
     "url": "https://boards.greenhouse.io/spacex/jobs/8584829002?gh_jid=8584829002",
     "postedAt": "2026-06-29T17:55:19-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8584754002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Sr. Trajectory Analysis Engineer (Starship)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8584754002?gh_jid=8584754002",
+    "postedAt": "2026-06-29T17:55:18-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -42384,24 +42371,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8501179002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Starlink Enterprise Account Manager (Channel Partners) ",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8501179002?gh_jid=8501179002",
-    "postedAt": "2026-06-29T17:54:57-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8501183002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Starlink Enterprise Account Manager (Channel Partners) ",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8501183002?gh_jid=8501183002",
+    "postedAt": "2026-06-29T17:54:57-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8501179002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Starlink Enterprise Account Manager (Channel Partners) ",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8501179002?gh_jid=8501179002",
     "postedAt": "2026-06-29T17:54:57-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -43464,24 +43451,24 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8548119002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Technical Operations Engineer, Customer Success (Starlink)",
-    "location": "Bastrop, TX",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8548119002?gh_jid=8548119002",
-    "postedAt": "2026-06-29T17:55:07-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8548111002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Technical Operations Engineer, Customer Success (Starlink)",
     "location": "Redmond, WA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8548111002?gh_jid=8548111002",
+    "postedAt": "2026-06-29T17:55:07-04:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8548119002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Technical Operations Engineer, Customer Success (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8548119002?gh_jid=8548119002",
     "postedAt": "2026-06-29T17:55:07-04:00",
     "isSummer2027": false,
     "isEE": false,
@@ -43500,13 +43487,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8395015002",
+    "id": "greenhouse:spacex:8574385002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Technical Recruiter",
-    "location": "Hawthorne, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8395015002?gh_jid=8395015002",
-    "postedAt": "2026-06-29T17:54:39-04:00",
+    "location": "Palo Alto, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8574385002?gh_jid=8574385002",
+    "postedAt": "2026-06-29T17:55:16-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -43524,13 +43511,13 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8574385002",
+    "id": "greenhouse:spacex:8395015002",
     "company": "SpaceX",
     "sector": "aero",
     "title": "Technical Recruiter",
-    "location": "Palo Alto, CA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8574385002?gh_jid=8574385002",
-    "postedAt": "2026-06-29T17:55:16-04:00",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8395015002?gh_jid=8395015002",
+    "postedAt": "2026-06-29T17:54:39-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
@@ -44340,18 +44327,6 @@
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
   },
   {
-    "id": "greenhouse:spacex:8546722002",
-    "company": "SpaceX",
-    "sector": "aero",
-    "title": "Wireless Firmware Engineer (Starlink Mobile)",
-    "location": "Redmond, WA",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8546722002?gh_jid=8546722002",
-    "postedAt": "2026-07-06T17:16:43-04:00",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-06-17T23:04:06.670Z"
-  },
-  {
     "id": "greenhouse:spacex:8546713002",
     "company": "SpaceX",
     "sector": "aero",
@@ -44359,6 +44334,18 @@
     "location": "Sunnyvale, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8546713002?gh_jid=8546713002",
     "postedAt": "2026-07-06T17:16:28-04:00",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-06-17T23:04:06.670Z"
+  },
+  {
+    "id": "greenhouse:spacex:8546722002",
+    "company": "SpaceX",
+    "sector": "aero",
+    "title": "Wireless Firmware Engineer (Starlink Mobile)",
+    "location": "Redmond, WA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8546722002?gh_jid=8546722002",
+    "postedAt": "2026-07-06T17:16:43-04:00",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-06-17T23:04:06.670Z"
