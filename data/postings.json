@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:boeing:/job/USA---Everett-WA/Nurse-Practitioner_JR2026511710-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Nurse Practitioner",
+    "location": "USA - Everett, WA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Nurse-Practitioner_JR2026511710-1",
+    "postedAt": "Posted 24 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-12T22:09:25.312Z"
+  },
+  {
+    "id": "workday:boeing:/job/KOR---Seoul-South-Korea/AI-Application-Engineer_JR2026516390",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "AI Application Engineer",
+    "location": "KOR - Seoul, South Korea",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/KOR---Seoul-South-Korea/AI-Application-Engineer_JR2026516390",
+    "postedAt": "Posted 9 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-12T22:09:25.312Z"
+  },
+  {
+    "id": "workday:marvell:/job/Irvine-CA/Senior-Staff-Analog-and-Mixed-Signal-IC-Design-Engineer_2601605-1",
+    "company": "Marvell",
+    "sector": "chips",
+    "title": "Senior Staff Analog and Mixed-Signal IC Design Engineer",
+    "location": "Irvine, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Irvine-CA/Senior-Staff-Analog-and-Mixed-Signal-IC-Design-Engineer_2601605-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-12T22:09:24.041Z"
+  },
+  {
     "id": "workday:micron:/job/San-Jose-CA/Principal-Design-Engineer_JR105867",
     "company": "Micron",
     "sector": "chips",
@@ -4620,18 +4656,6 @@
     "firstSeenAt": "2026-07-11T09:00:28.504Z"
   },
   {
-    "id": "workday:boeing:/job/ITA---Viterbo-AB-Italy/Logistics-Representative--Logistics-Support-_JR2026496957-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Logistics Representative (Logistics Support)",
-    "location": "ITA - Viterbo AB, Italy",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/ITA---Viterbo-AB-Italy/Logistics-Representative--Logistics-Support-_JR2026496957-2",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.504Z"
-  },
-  {
     "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Software-Project-Manager_JR2026518363-2",
     "company": "Boeing",
     "sector": "aero",
@@ -5347,18 +5371,6 @@
     "location": "USA - Tukwila, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tukwila-WA/Systems-Logistics-Integrator--Mid-Level-or-Senior-_JR2026515891-1",
     "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.504Z"
-  },
-  {
-    "id": "workday:boeing:/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "General Repair Technician (General Repair)",
-    "location": "NLD - Hoogerheide, Netherlands",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/NLD---Hoogerheide-Netherlands/General-Repair-Technician--General-Repair-_JR2026509951-1",
-    "postedAt": "Posted 6 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-11T09:00:28.504Z"
@@ -8983,18 +8995,6 @@
     "location": "Ho Chi Minh",
     "url": "https://marvell.wd1.myworkdayjobs.com/job/Ho-Chi-Minh/Engineer--Hardware-Design_2602730-1",
     "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-11T09:00:27.147Z"
-  },
-  {
-    "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Staff-Verification-Engineer_2602279",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Senior Staff Verification Engineer",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Senior-Staff-Verification-Engineer_2602279",
-    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-07-11T09:00:27.147Z"
