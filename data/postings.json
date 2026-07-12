@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:nvidia:/job/Israel-Yokneam/Firmware-Student_JR2015920",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Firmware Student",
+    "location": "Israel, Yokneam",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Yokneam/Firmware-Student_JR2015920",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-12T06:47:34.475Z"
+  },
+  {
+    "id": "workday:nvidia:/job/Israel-Yokneam/Firmware-Student_JR2020809",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Firmware Student",
+    "location": "Israel, Yokneam",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Yokneam/Firmware-Student_JR2020809",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-12T06:47:34.475Z"
+  },
+  {
     "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Engineering-Manager--Production-_JR2026514071-1",
     "company": "Boeing",
     "sector": "aero",
@@ -4032,30 +4056,6 @@
     "firstSeenAt": "2026-07-11T09:00:28.640Z"
   },
   {
-    "id": "workday:nvidia:/job/Vietnam-Ho-Chi-Minh-City/SWQA-Test-Developer--SDET_JR2020683",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "SWQA Test Developer, SDET",
-    "location": "Vietnam, Ho Chi Minh City",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Vietnam-Ho-Chi-Minh-City/SWQA-Test-Developer--SDET_JR2020683",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.640Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Software-Architect--AI-Networking_JR1998466-1",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Software Architect, AI Networking",
-    "location": "Israel, Tel Aviv",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Tel-Aviv/Senior-Software-Architect--AI-Networking_JR1998466-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.640Z"
-  },
-  {
     "id": "workday:boeing:/job/POL---Gdansk-Poland/International-Accountant_JR2026516693-1",
     "company": "Boeing",
     "sector": "aero",
@@ -4473,18 +4473,6 @@
     "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.504Z"
-  },
-  {
-    "id": "workday:boeing:/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Electrical Design and Certification Engineer (Part 21J)",
-    "location": "IRL - Dublin, Ireland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-07-11T09:00:28.504Z"
   },
   {
@@ -4920,6 +4908,54 @@
     "firstSeenAt": "2026-07-11T09:00:28.504Z"
   },
   {
+    "id": "workday:boeing:/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Electrical Design and Certification Engineer (Part 21J)",
+    "location": "IRL - Dublin, Ireland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Electrical-Design-and-Certification-Engineer--Part-21J-_JR2025486197-1",
+    "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-11T09:00:28.504Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Associate Help Desk Technician",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-11T09:00:28.504Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "IT Service Desk Analyst-5",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
+    "postedAt": "Posted 29 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-11T09:00:28.504Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst_JR2026515061-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "IT Service Desk Analyst - 1st Line Support",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst_JR2026515061-1",
+    "postedAt": "Posted 22 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-11T09:00:28.504Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Chicago-IL/Executive-Assistant---Elected-Officer_JR2026501460-1",
     "company": "Boeing",
     "sector": "aero",
@@ -4975,42 +5011,6 @@
     "location": "2 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Structures-and-Payload-Design-Engineers--Associate---Payload-Systems-Design-_JR2026513987-1",
     "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.504Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Help Desk Technician",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.504Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "IT Service Desk Analyst-5",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
-    "postedAt": "Posted 29 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-11T09:00:28.504Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst_JR2026515061-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "IT Service Desk Analyst - 1st Line Support",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst_JR2026515061-1",
-    "postedAt": "Posted 22 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-11T09:00:28.504Z"
