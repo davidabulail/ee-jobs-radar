@@ -1,5 +1,89 @@
 [
   {
+    "id": "workday:amat:/job/HoofddorpNLD/Direct-Tax-Specialist_R2616057",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Direct Tax Specialist",
+    "location": "Hoofddorp,NLD",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/HoofddorpNLD/Direct-Tax-Specialist_R2616057",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:14.515Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10A-Singapore/HBM-Principal-Component-Validation-Engineer_JR94254",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "HBM Staff Component Validation Engineer",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/HBM-Principal-Component-Validation-Engineer_JR94254",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:11.430Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10NX-Singapore/Lead-Staff-Engineer---Lead-Principal-Engineer-PD-SG-Diffusion-Implant_JR106068",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Lead Staff Engineer / Lead Principal Engineer PD SG Diffusion/Implant",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/Lead-Staff-Engineer---Lead-Principal-Engineer-PD-SG-Diffusion-Implant_JR106068",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:11.430Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10NX-Singapore/SR-ENGINEER---PD-SG-regE_JR106125",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "SR. ENGINEER - PD SG regE",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/SR-ENGINEER---PD-SG-regE_JR106125",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:11.430Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Layout-engineer_JR102255-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Senior Engineer, IP Dev Layout",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Layout-engineer_JR102255-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:11.430Z"
+  },
+  {
+    "id": "northrop:1340072792047",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Manager Supply Chain Programs 1",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072792047?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:09.465Z"
+  },
+  {
+    "id": "northrop:1340072924586",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Supply Chain Procurement Specialist",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072924586?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-16T11:55:09.465Z"
+  },
+  {
     "id": "workday:amat:/job/RehovotISR/Mechanical-Engineering---Student_R2621433-1",
     "company": "Applied Materials",
     "sector": "chips",
@@ -274,30 +358,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-16T09:30:35.102Z"
-  },
-  {
-    "id": "northrop:1340071319521",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Staff Supply Chain Subcontract Specialist",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071319521?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-16T09:30:33.304Z"
-  },
-  {
-    "id": "northrop:1340071402970",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sentinel - Principal Program Cost and Schedule Control Analyst (15486-1)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071402970?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-16T09:30:33.304Z"
   },
   {
     "id": "workday:boeing:/job/NLD---Amsterdam-Netherlands/Accountant_JR2026517204-1",
@@ -2124,18 +2184,6 @@
     "firstSeenAt": "2026-07-15T14:12:55.621Z"
   },
   {
-    "id": "workday:amat:/job/KalispellMT/AGS-Training-Services-PPC-New-Product--NPI--Instructor-III----E3-_R2618368",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "AGS Training Services PPC New Product (NPI) Instructor III - (E3)",
-    "location": "Kalispell,MT",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/KalispellMT/AGS-Training-Services-PPC-New-Product--NPI--Instructor-III----E3-_R2618368",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-15T11:51:05.969Z"
-  },
-  {
     "id": "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Software-Engineer--Chip-Simulation_JR2017187",
     "company": "NVIDIA",
     "sector": "chips",
@@ -3000,42 +3048,6 @@
     "firstSeenAt": "2026-07-14T23:12:53.422Z"
   },
   {
-    "id": "workday:micron:/job/San-Jose-CA/Principal-Design-Engineer_JR105867",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal Design Engineer",
-    "location": "San Jose, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Principal-Design-Engineer_JR105867",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-14T23:12:52.337Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---Metals-Films-Process-Development-Engineer_JR94556",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Metals/Films Process Development Engineer",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---Metals-Films-Process-Development-Engineer_JR94556",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-14T23:12:52.337Z"
-  },
-  {
-    "id": "workday:micron:/job/San-Jose-CA/Layout-Designer_JR103905",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Layout Designer",
-    "location": "San Jose, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Layout-Designer_JR103905",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-14T23:12:52.337Z"
-  },
-  {
     "id": "workday:marvell:/job/Irvine-CA/ASIC-Design-Engineer_2600835",
     "company": "Marvell",
     "sector": "chips",
@@ -3154,18 +3166,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-14T21:16:27.666Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/Principal-Hardware-Engineer--SSD_JR106016",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal Hardware Engineer, SSD",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Principal-Hardware-Engineer--SSD_JR106016",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-14T21:16:27.337Z"
   },
   {
     "id": "ashby:saronic:e38b7530-81e6-4d81-8c98-b83ba66a66d0",
