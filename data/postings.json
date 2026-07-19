@@ -1,5 +1,28 @@
 [
   {
+    "id": "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Software-Engineer--Chip-Simulation_JR2017187",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Software Engineer, Chip Simulation",
+    "location": "Israel, Tel Aviv",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Tel-Aviv/Senior-Software-Engineer--Chip-Simulation_JR2017187",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-19T11:32:17.302Z"
+  },
+  {
+    "id": "workday:intel:/job/Haifa-Lab-technician---Student_JR0285553",
+    "company": "Intel",
+    "sector": "chips",
+    "location": "",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Haifa-Lab-technician---Student_JR0285553",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-19T11:32:16.716Z"
+  },
+  {
     "id": "workday:nvidia:/job/Taiwan-Hsinchu/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2011716",
     "company": "NVIDIA",
     "sector": "chips",
@@ -156,24 +179,12 @@
     "firstSeenAt": "2026-07-18T21:07:37.765Z"
   },
   {
-    "id": "northrop:1340072920116",
+    "id": "northrop:1340072868575",
     "company": "Northrop Grumman",
     "sector": "defense",
-    "title": "Principal Computer Aided Design and Modeling Engineer",
+    "title": "Manager Software Engineering 2",
     "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072920116?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T19:33:56.146Z"
-  },
-  {
-    "id": "northrop:1340072920851",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Computer Aided Design and Modeling Engineer - Level 2",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072920851?keywords=intern&num=50",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072868575?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -192,6 +203,18 @@
     "firstSeenAt": "2026-07-18T19:33:56.146Z"
   },
   {
+    "id": "northrop:1340072920851",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Computer Aided Design and Modeling Engineer - Level 2",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072920851?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-18T19:33:56.146Z"
+  },
+  {
     "id": "northrop:1340072962013",
     "company": "Northrop Grumman",
     "sector": "defense",
@@ -204,12 +227,12 @@
     "firstSeenAt": "2026-07-18T19:33:56.146Z"
   },
   {
-    "id": "northrop:1340072868575",
+    "id": "northrop:1340072920116",
     "company": "Northrop Grumman",
     "sector": "defense",
-    "title": "Manager Software Engineering 2",
+    "title": "Principal Computer Aided Design and Modeling Engineer",
     "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072868575?keywords=intern&num=50",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340072920116?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -1699,18 +1722,6 @@
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Director--Internal-Audit---Financial-Controls-and-SOX-Compliance_JR2017836",
     "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:17.369Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---Internal-AI-and-Employee-Productivity_JR2019570",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Product Manager - Internal AI and Employee Productivity",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Israel-Yokneam/Senior-Product-Manager---Internal-AI-and-Employee-Productivity_JR2019570",
-    "postedAt": "Posted 10 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:17.369Z"
@@ -5412,18 +5423,6 @@
     "firstSeenAt": "2026-07-18T10:42:16.307Z"
   },
   {
-    "id": "workday:intel:/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0285553",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Haifa Lab technician - Student",
-    "location": "Israel, Haifa",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0285553",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.307Z"
-  },
-  {
     "id": "workday:intel:/job/US-Arizona-Phoenix/Software-Engineer---Compute-Infrastructure-and-Security_JR0285006",
     "company": "Intel",
     "sector": "chips",
@@ -6780,18 +6779,6 @@
     "firstSeenAt": "2026-07-18T10:42:15.563Z"
   },
   {
-    "id": "workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Internship_R263671",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Internship",
-    "location": "Spain, Valencia, Cortes Valencianas",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Internship_R263671",
-    "postedAt": "Posted 25 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-18T10:42:15.563Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Thailand-Chon-Buri/Analog-Devices-Thailand-s-Internship-Program_R258682",
     "company": "Analog Devices",
     "sector": "chips",
@@ -6799,6 +6786,18 @@
     "location": "Thailand, Chon Buri",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Thailand-Chon-Buri/Analog-Devices-Thailand-s-Internship-Program_R258682",
     "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-18T10:42:15.563Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/Internship_R263671",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Internship",
+    "location": "Spain, Valencia, Cortes Valencianas",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Internship_R263671",
+    "postedAt": "Posted 25 Days Ago",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-07-18T10:42:15.563Z"
@@ -7284,6 +7283,18 @@
     "firstSeenAt": "2026-07-18T10:42:15.563Z"
   },
   {
+    "id": "workday:analogdevices:/job/Ireland-Limerick/Associate-Test-Development-Engineer_R256166",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Associate Test Development Engineer",
+    "location": "Ireland, Limerick",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Limerick/Associate-Test-Development-Engineer_R256166",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-18T10:42:15.563Z"
+  },
+  {
     "id": "workday:analogdevices:/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Facilities-Engineering_R261961",
     "company": "Analog Devices",
     "sector": "chips",
@@ -7303,18 +7314,6 @@
     "location": "US, MA, Wilmington",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Senior-Engineer--Quality-Engineering_R263862",
     "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:15.563Z"
-  },
-  {
-    "id": "workday:analogdevices:/job/Ireland-Limerick/Associate-Test-Development-Engineer_R256166",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Associate Test Development Engineer",
-    "location": "Ireland, Limerick",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Limerick/Associate-Test-Development-Engineer_R256166",
-    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:15.563Z"
