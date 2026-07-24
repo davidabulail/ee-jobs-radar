@@ -1,5 +1,254 @@
 [
   {
+    "id": "workday:kla:undefined",
+    "company": "KLA",
+    "sector": "chips",
+    "location": "",
+    "url": "https://kla.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:15.438Z"
+  },
+  {
+    "id": "workday:kla:undefined",
+    "company": "KLA",
+    "sector": "chips",
+    "location": "",
+    "url": "https://kla.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:15.438Z"
+  },
+  {
+    "id": "workday:boeing:/job/AUS---Brisbane-Australia/Gameplay-Developer_JR2026517017",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Gameplay Developer",
+    "location": "AUS - Brisbane, Australia",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/AUS---Brisbane-Australia/Gameplay-Developer_JR2026517017",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Associate Help Desk Technician",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/TUR---Istanbul-Turkey/Senior-Part21J--Cabin-Interiors--Design---Certification-Engineer_JR2026516639-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Part21J  Cabin Interiors, Design & Certification Engineer",
+    "location": "TUR - Istanbul, Turkey",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/TUR---Istanbul-Turkey/Senior-Part21J--Cabin-Interiors--Design---Certification-Engineer_JR2026516639-1",
+    "postedAt": "Posted 15 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026502195-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Systems Engineer - Digital Signal Processing (Associate or Mid-level)",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026502195-2",
+    "postedAt": "Posted 2 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Everett-WA/Supply-Chain-Management-Analyst_JR2026504524",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Supply Chain Management Analyst",
+    "location": "4 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Supply-Chain-Management-Analyst_JR2026504524",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Long-Beach-CA/Structural-Analysis-Engineers--Experienced--Lead-and-Senior---Sign-On-Bonus-Potential--_JR2026511610",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Structural Analysis Engineers (Experienced, Lead and Senior)**Sign-On Bonus Potential**",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/Structural-Analysis-Engineers--Experienced--Lead-and-Senior---Sign-On-Bonus-Potential--_JR2026511610",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "DSP Algorithms Engineer (Entry-Level)",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
+    "postedAt": "Posted 15 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Everett-WA/Calibration-Technician-A_JR2026514533-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Calibration Technician A",
+    "location": "USA - Everett, WA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Calibration-Technician-A_JR2026514533-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:14.765Z"
+  },
+  {
+    "id": "workday:marvell:undefined",
+    "company": "Marvell",
+    "sector": "chips",
+    "location": "",
+    "url": "https://marvell.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:13.454Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/AI-Workforce-Development-Specialist_JR106826",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "AI Workforce Development Specialist",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/AI-Workforce-Development-Specialist_JR106826",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:13.033Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Hangar/Corporate-Pilot---Gulfstream-G280_JR106822",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Corporate Pilot - Gulfstream G280",
+    "location": "Boise, ID - Hangar",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Hangar/Corporate-Pilot---Gulfstream-G280_JR106822",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:13.033Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/Principal--Global-Leadership---Organization-Capability_JR105950",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Principal, Global Leadership & Organization Capability",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Principal--Global-Leadership---Organization-Capability_JR105950",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:13.033Z"
+  },
+  {
+    "id": "workday:micron:/job/Bengaluru-India/STAFF--ASIC-TECHNICAL-PROGRAM-MANAGEMENT_JR105994",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "STAFF, ASIC TECHNICAL PROGRAM MANAGEMENT",
+    "location": "Bengaluru, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Bengaluru-India/STAFF--ASIC-TECHNICAL-PROGRAM-MANAGEMENT_JR105994",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-24T06:41:13.033Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10NX-Singapore/NTI-Physical-Failure-Analysis-Technician_JR100387",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "NTI Physical Failure Analysis Technician",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/NTI-Physical-Failure-Analysis-Technician_JR100387",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:13.033Z"
+  },
+  {
+    "id": "workday:micron:/job/Penang-Malaysia---Grande/Engineer-CE-PYE--Physical-Failure-Analysis-_JR104683",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Engineer CE PYE (Physical Failure Analysis)(12-hours Shift rotation)",
+    "location": "Penang, Malaysia - Grande",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Penang-Malaysia---Grande/Engineer-CE-PYE--Physical-Failure-Analysis-_JR104683",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:13.033Z"
+  },
+  {
+    "id": "northrop:1340073146085",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr Principal Linux Systems Administrator - Polygraph",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073146085?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:12.663Z"
+  },
+  {
+    "id": "northrop:1340073143974",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Principal Production Planner and Scheduler",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073143974?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:12.663Z"
+  },
+  {
+    "id": "northrop:1340069399382",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Entry Level Operator(Union)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340069399382?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:12.663Z"
+  },
+  {
+    "id": "workday:broadcom:/job/Singapore-Yishun/Package-Design-Engineer_R026611",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "Package Design Engineer",
+    "location": "Singapore-Yishun",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/Singapore-Yishun/Package-Design-Engineer_R026611",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-24T06:41:12.634Z"
+  },
+  {
     "id": "workday:amat:/job/Santa-ClaraCA/AGS-Training-Services-FEP-EPI-New-Product--NPI--Instructor-III----E3-_R2621197",
     "company": "Applied Materials",
     "sector": "chips",
@@ -234,42 +483,6 @@
     "title": "Supply Chain Procurement Specialist - Level 3",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340073145920?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-24T03:48:09.485Z"
-  },
-  {
-    "id": "northrop:1340071558271",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Supply Chain Procurement Specialist",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071558271?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-24T03:48:09.485Z"
-  },
-  {
-    "id": "northrop:1340072827156",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "U105 Sensors & Systems Technician",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072827156?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-24T03:48:09.485Z"
-  },
-  {
-    "id": "northrop:1340072999822",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Manager Manufacturing Engineering 2",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072999822?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -1836,24 +2049,24 @@
     "firstSeenAt": "2026-07-23T09:38:42.195Z"
   },
   {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Staff-Principal-Full-Stack-AI-Engineer--IPAI--SMAI_JR106600-1",
+    "id": "workday:micron:/job/Penang-Malaysia---Grande/Senior-Engineer-CE-PYE--Physical-Failure-Analysis-_JR98024",
     "company": "Micron",
     "sector": "chips",
-    "title": "Staff/Principal Full-Stack AI Engineer, IPAI, SMAI",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Staff-Principal-Full-Stack-AI-Engineer--IPAI--SMAI_JR106600-1",
+    "title": "Engineer CE PYE (Physical Failure Analysis)(Shift rotation)",
+    "location": "Penang, Malaysia - Grande",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Penang-Malaysia---Grande/Senior-Engineer-CE-PYE--Physical-Failure-Analysis-_JR98024",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-23T09:38:41.030Z"
   },
   {
-    "id": "workday:micron:/job/Penang-Malaysia---Grande/Senior-Engineer-CE-PYE--Physical-Failure-Analysis-_JR98024",
+    "id": "workday:micron:/job/Fab-10A-Singapore/Staff-Principal-Full-Stack-AI-Engineer--IPAI--SMAI_JR106600-1",
     "company": "Micron",
     "sector": "chips",
-    "title": "Senior/Engineer CE PYE (Physical Failure Analysis)(Shift rotation)",
-    "location": "Penang, Malaysia - Grande",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Penang-Malaysia---Grande/Senior-Engineer-CE-PYE--Physical-Failure-Analysis-_JR98024",
+    "title": "Staff/Principal Full-Stack AI Engineer, IPAI, SMAI",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Staff-Principal-Full-Stack-AI-Engineer--IPAI--SMAI_JR106600-1",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
@@ -3300,18 +3513,6 @@
     "firstSeenAt": "2026-07-22T16:49:42.403Z"
   },
   {
-    "id": "workday:broadcom:/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Engineer_R025237",
-    "company": "Broadcom",
-    "sector": "chips",
-    "title": "Design Engineer",
-    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Engineer_R025237",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-22T16:49:41.928Z"
-  },
-  {
     "id": "greenhouse:spacex:8645130002",
     "company": "SpaceX",
     "sector": "aero",
@@ -3654,78 +3855,6 @@
     "title": "MTS - Machine Learning",
     "location": "Fab 10A, Singapore",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/MTS---Machine-Learning_JR106714-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-22T09:39:58.721Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Member-of-Technical-Staff--MTS---Machine-Learning--SMAI_JR106716",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Member of Technical Staff (MTS), Machine Learning, SMAI",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Member-of-Technical-Staff--MTS---Machine-Learning--SMAI_JR106716",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-22T09:39:58.721Z"
-  },
-  {
-    "id": "workday:micron:/job/Penang-Malaysia---Grande/ENGINEER--NVM-QRA_JR106604",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "ENGINEER, NVM QRA",
-    "location": "Penang, Malaysia - Grande",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Penang-Malaysia---Grande/ENGINEER--NVM-QRA_JR106604",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-22T09:39:58.721Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/MTS--AI-Engineering--SMAI_JR106743",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "MTS, AI Engineering, SMAI",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/MTS--AI-Engineering--SMAI_JR106743",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-22T09:39:58.721Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/I40-ANALYST---SMART-MFG---AI_JR106593",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Product Owner, SMAI, FE Cost",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/I40-ANALYST---SMART-MFG---AI_JR106593",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-22T09:39:58.721Z"
-  },
-  {
-    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Analog-Design_JR97430",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Senior Engineer , Analog Design",
-    "location": "Hyderabad - Phoenix Aquila, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Analog-Design_JR97430",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-22T09:39:58.721Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Director--Talent-Solutions-Delivery---Regional-Acceleration_JR103188",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Director, Talent Solutions Delivery & Regional Acceleration",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Director--Talent-Solutions-Delivery---Regional-Acceleration_JR103188",
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
@@ -5038,18 +5167,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-20T20:42:18.878Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Software-Engineer--Experienced--Senior-_JR2026510740-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Software Engineer (Experienced, Senior)",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Software-Engineer--Experienced--Senior-_JR2026510740-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-20T20:42:18.634Z"
   },
   {
     "id": "lever:zoox:b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
@@ -6594,7 +6711,7 @@
     "title": "Regional Physical Security Engineer - Singapore",
     "location": "Singapore,SGP",
     "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Regional-Physical-Security-Engineer---Singapore_R2618345",
-    "postedAt": "Posted 30+ Days Ago",
+    "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:17.849Z"
@@ -8160,18 +8277,6 @@
     "firstSeenAt": "2026-07-18T10:42:17.109Z"
   },
   {
-    "id": "workday:kla:/job/Hsinchu-Taiwan/Customer-Service-Manager_2635902",
-    "company": "KLA",
-    "sector": "chips",
-    "title": "Customer Service Manager (ICOS/SPTS)",
-    "location": "2 Locations",
-    "url": "https://kla.wd1.myworkdayjobs.com/job/Hsinchu-Taiwan/Customer-Service-Manager_2635902",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:17.109Z"
-  },
-  {
     "id": "workday:kla:/job/Hsinchu-Taiwan/Product-Development-Engineer_2636488",
     "company": "KLA",
     "sector": "chips",
@@ -8286,18 +8391,6 @@
     "title": "Product Marketing Manager",
     "location": "Hsinchu, Taiwan",
     "url": "https://kla.wd1.myworkdayjobs.com/job/Hsinchu-Taiwan/Product-Marketing-Manager_2636803",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:17.109Z"
-  },
-  {
-    "id": "workday:kla:/job/Tainan-City-Taiwan/Technical-Support-Engineer_2636674",
-    "company": "KLA",
-    "sector": "chips",
-    "title": "Technical Support Engineer",
-    "location": "Tainan City, Taiwan",
-    "url": "https://kla.wd1.myworkdayjobs.com/job/Tainan-City-Taiwan/Technical-Support-Engineer_2636674",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -9012,18 +9105,6 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Oklahoma-City-OK/AWACS-Field-Service-Representative-Mid-Level-System-Administrator---Defense---Saudi-Arabia_JR2026516273-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "AWACS Field Service Representative/Mid-Level System Administrator – Defense – Saudi Arabia",
-    "location": "USA - Oklahoma City, OK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Oklahoma-City-OK/AWACS-Field-Service-Representative-Mid-Level-System-Administrator---Defense---Saudi-Arabia_JR2026516273-2",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia_JR2026513883-2",
     "company": "Boeing",
     "sector": "aero",
@@ -9043,18 +9124,6 @@
     "location": "USA - Hazelwood, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15SA-Modifications-Tool-Room-Coordinator---Saudi-Arabia_JR2026513908-2",
     "postedAt": "Posted 8 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Jacksonville-FL/P-8A-Support-Equipment-Tech-Keflavik--Iceland_JR2026511470-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "P-8A Support Equipment Tech Keflavik, Iceland",
-    "location": "USA - Jacksonville, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Jacksonville-FL/P-8A-Support-Equipment-Tech-Keflavik--Iceland_JR2026511470-1",
-    "postedAt": "Posted 15 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
@@ -9120,18 +9189,6 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Wright-Patterson-AFB-OH/C-17-Field-Service-Representative_JR2026512709-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C-17 Field Service Representative",
-    "location": "USA - Wright Patterson AFB, OH",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Wright-Patterson-AFB-OH/C-17-Field-Service-Representative_JR2026512709-3",
-    "postedAt": "Posted 16 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Des-Moines-WA/Experienced-Transportation-Analyst--Traffic-Management-_JR2026518193-1",
     "company": "Boeing",
     "sector": "aero",
@@ -9163,18 +9220,6 @@
     "location": "POL - Gdansk, Poland",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Software-Project-Manager_JR2026518363-2",
     "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Memphis-TN/C-17-Field-Service-Rep_JR2026517654-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C-17 Field Service Rep",
-    "location": "USA - Memphis, TN",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Memphis-TN/C-17-Field-Service-Rep_JR2026517654-2",
-    "postedAt": "Posted 16 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
@@ -9360,6 +9405,18 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/Chief-Programme-Engineer---Fixed-Wing_JR2026518865-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Chief Programme Engineer – Fixed Wing",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Chief-Programme-Engineer---Fixed-Wing_JR2026518865-2",
+    "postedAt": "Posted 9 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-18T10:42:16.687Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Industrial-Security-Specialist--Mid-Level-or-Senior-_JR2026511060-1",
     "company": "Boeing",
     "sector": "aero",
@@ -9396,18 +9453,6 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Associate-Real-Time-Software-Engineer--Phantom-Works_JR2026518308-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Real Time Software Engineer, Phantom Works",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Associate-Real-Time-Software-Engineer--Phantom-Works_JR2026518308-1",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Embedded-Software-Engineer--Associate--Experienced--or-Senior-_JR2026518298-1",
     "company": "Boeing",
     "sector": "aero",
@@ -9432,13 +9477,13 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Chief-Programme-Engineer---Fixed-Wing_JR2026518865-2",
+    "id": "workday:boeing:/job/POL---Gdansk-Poland/Systems-Engineer_JR2026518280",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Chief Programme Engineer – Fixed Wing",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Chief-Programme-Engineer---Fixed-Wing_JR2026518865-2",
-    "postedAt": "Posted 9 Days Ago",
+    "title": "Systems Engineer",
+    "location": "POL - Gdansk, Poland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Systems-Engineer_JR2026518280",
+    "postedAt": "Posted 14 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
@@ -9511,30 +9556,6 @@
     "location": "USA - Hazelwood, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026516042-1",
     "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Real-Time-Software-Engineer--Vehicle-Management-Systems--Experienced-or-Senior-_JR2026518355-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Real Time Software Engineer, Vehicle Management Systems (Experienced or Senior)",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Real-Time-Software-Engineer--Vehicle-Management-Systems--Experienced-or-Senior-_JR2026518355-1",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/Procurement-Analyst_JR2026518557-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Procurement Analyst",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/Procurement-Analyst_JR2026518557-1",
-    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
@@ -9636,18 +9657,6 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Systems-Engineer_JR2026518280",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Systems Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Systems-Engineer_JR2026518280",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Long-Beach-CA/Project-Engineer--Lead--and-Senior----Sign-On-Bonus-Potential--_JR2026511747",
     "company": "Boeing",
     "sector": "aero",
@@ -9708,18 +9717,6 @@
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "IT Service Desk Analyst-5",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:16.687Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Tukwila-WA/Systems-Logistics-Integrator--Mid-Level-or-Senior-_JR2026515891-1",
     "company": "Boeing",
     "sector": "aero",
@@ -9727,6 +9724,18 @@
     "location": "USA - Tukwila, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tukwila-WA/Systems-Logistics-Integrator--Mid-Level-or-Senior-_JR2026515891-1",
     "postedAt": "Posted 13 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-18T10:42:16.687Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "IT Service Desk Analyst-5",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/IT-Service-Desk-Analyst-5_JR2026513631-3",
+    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-18T10:42:16.687Z"
@@ -12417,18 +12426,6 @@
     "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-07-18T10:42:15.463Z"
-  },
-  {
-    "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Staff-Software-Firmware-Engineer-RISC-V-validation-backbone---spanning-MCU-integration--firmware--and-automation_2601556-1",
-    "company": "Marvell",
-    "sector": "chips",
-    "title": "Sr. Staff Software/Firmware Engineer - MCU development",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Senior-Staff-Software-Firmware-Engineer-RISC-V-validation-backbone---spanning-MCU-integration--firmware--and-automation_2601556-1",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-07-18T10:42:15.463Z"
   },
   {
