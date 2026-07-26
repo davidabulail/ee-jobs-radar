@@ -1,27 +1,63 @@
 [
   {
-    "id": "northrop:1340073309697",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "EMI/EMC Test Engineer Level 3",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073309697?keywords=intern&num=50",
-    "postedAt": "",
+    "id": "workday:amat:/job/HsinchuTWN/Operations-Management_R2624448",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Operations Management",
+    "location": "Hsinchu,TWN",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/HsinchuTWN/Operations-Management_R2624448",
+    "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-07-26T15:31:32.870Z"
+    "firstSeenAt": "2026-07-26T17:17:59.912Z"
   },
   {
-    "id": "northrop:1340073309793",
+    "id": "workday:micron:/job/Fab-10A-Singapore/Full-Stack-AI-Engineer--IPAI--SMAI_JR106599",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Full-Stack AI Engineer, IPAI, SMAI",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Full-Stack-AI-Engineer--IPAI--SMAI_JR106599",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-26T17:17:56.452Z"
+  },
+  {
+    "id": "northrop:1340073185284",
     "company": "Northrop Grumman",
     "sector": "defense",
-    "title": "EMI/EMC Test Engineer Level 4",
+    "title": "Senior Principal Oxygen System Analyst",
     "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073309793?keywords=intern&num=50",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073185284?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-07-26T15:31:32.870Z"
+    "firstSeenAt": "2026-07-26T17:17:54.838Z"
+  },
+  {
+    "id": "northrop:1340073310466",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sr Principal Electrical Power System Design Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073310466?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-26T17:17:54.838Z"
+  },
+  {
+    "id": "northrop:1340073310520",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Staff Electrical Power System Design Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073310520?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-26T17:17:54.838Z"
   },
   {
     "id": "northrop:1340073297758",
@@ -54,6 +90,30 @@
     "title": "Environmental Test Engineer Level 4",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340073309355?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-26T15:31:32.870Z"
+  },
+  {
+    "id": "northrop:1340073309697",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "EMI/EMC Test Engineer Level 3",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073309697?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-26T15:31:32.870Z"
+  },
+  {
+    "id": "northrop:1340073309793",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "EMI/EMC Test Engineer Level 4",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073309793?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -106,18 +166,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-26T09:25:52.788Z"
-  },
-  {
-    "id": "workday:amat:/job/Santa-ClaraCA/Process-Engineer---Die-to-Wafer-Hybrid-Bonding--Silicon-Photonics---CPO--R-D-_R2616518",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Process Engineer – Die to Wafer Hybrid Bonding",
-    "location": "Santa Clara,CA",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Process-Engineer---Die-to-Wafer-Hybrid-Bonding--Silicon-Photonics---CPO--R-D-_R2616518",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-26T07:05:59.959Z"
   },
   {
     "id": "workday:boeing:/job/USA---Everett-WA/Maintenance-Plumber_JR2026518719-1",
@@ -178,42 +226,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-25T21:10:32.822Z"
-  },
-  {
-    "id": "northrop:1340073187905",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr Principal Engineer Systems",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073187905?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-25T21:10:29.393Z"
-  },
-  {
-    "id": "northrop:1340073194037",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Electronics Engineer – Hardware/Software Integration",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073194037?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-25T21:10:29.393Z"
-  },
-  {
-    "id": "northrop:1340072655146",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Engineer Electrical/Principal Engineer Electrical (Level 2/3)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072655146?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-25T21:10:29.393Z"
   },
   {
     "id": "workday:boeing:/job/SAU---Dhahran-Saudi-Arabia/Modification-Mechanic---Electrical---F-15SA-Modifications---Saudi-Arabia_JR2026514461",
@@ -9702,18 +9714,6 @@
     "title": "Metalization Equipment (Shift) Engineer",
     "location": "Tainan, Taiwan",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Tainan-Taiwan/OMT-PROCESS-ENGINEER_JR97818",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-25T09:13:59.158Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/SR-ENGINEER--OMT-PROD-OEE_JR100992",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "SR ENGINEER, OMT PROD. OEE",
-    "location": "2 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/SR-ENGINEER--OMT-PROD-OEE_JR100992",
     "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
