@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:kla:/job/Milpitas-CA/Algorithm-Engineer_2638218",
+    "company": "KLA",
+    "sector": "chips",
+    "title": "Algorithm Engineer",
+    "location": "Milpitas, CA",
+    "url": "https://kla.wd1.myworkdayjobs.com/job/Milpitas-CA/Algorithm-Engineer_2638218",
+    "postedAt": "Posted 19 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-26T09:25:52.788Z"
+  },
+  {
     "id": "workday:amat:/job/Santa-ClaraCA/Process-Engineer---Die-to-Wafer-Hybrid-Bonding--Silicon-Photonics---CPO--R-D-_R2616518",
     "company": "Applied Materials",
     "sector": "chips",
@@ -2022,18 +2034,6 @@
     "title": "Regional Development Applications Engineer (Capres)– Regional (Taiwan/Asia)",
     "location": "Hsinchu, Taiwan",
     "url": "https://kla.wd1.myworkdayjobs.com/job/Hsinchu-Taiwan/Regional-Development-Applications-Engineer--Capres---Regional--Taiwan-Asia-_2637603",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-25T09:14:01.634Z"
-  },
-  {
-    "id": "workday:kla:/job/Hsinchu-Taiwan/SWIFT-Technical-Support-Supervisor-Asia_2636790",
-    "company": "KLA",
-    "sector": "chips",
-    "title": "SWIFT Technical Support Manager",
-    "location": "3 Locations",
-    "url": "https://kla.wd1.myworkdayjobs.com/job/Hsinchu-Taiwan/SWIFT-Technical-Support-Supervisor-Asia_2636790",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -5640,30 +5640,6 @@
     "firstSeenAt": "2026-07-25T09:14:00.827Z"
   },
   {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/Electrical-Project-Engineer---Global-Construction-Engineering_JR0284998",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Electrical Project Engineer - Global Construction Engineering",
-    "location": "US, Oregon, Hillsboro",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Electrical-Project-Engineer---Global-Construction-Engineering_JR0284998",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-07-25T09:14:00.827Z"
-  },
-  {
-    "id": "workday:intel:/job/India-Bangalore/Engineering-Compute-Operations-Engineer_JR0285534",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Engineering Compute Operations Engineer",
-    "location": "India, Bangalore",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/India-Bangalore/Engineering-Compute-Operations-Engineer_JR0285534",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-25T09:14:00.827Z"
-  },
-  {
     "id": "workday:intel:/job/Malaysia-Kulim/Manufacturing-Systems-Software-Development-Engineer_JR0285557",
     "company": "Intel",
     "sector": "chips",
@@ -5683,6 +5659,30 @@
     "location": "Malaysia, Kulim",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Kulim/Manufacturing-Systems-Software-Development-Engineer_JR0285598",
     "postedAt": "Posted 11 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-07-25T09:14:00.827Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/Electrical-Project-Engineer---Global-Construction-Engineering_JR0284998",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Electrical Project Engineer - Global Construction Engineering",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Electrical-Project-Engineer---Global-Construction-Engineering_JR0284998",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-07-25T09:14:00.827Z"
+  },
+  {
+    "id": "workday:intel:/job/India-Bangalore/Engineering-Compute-Operations-Engineer_JR0285534",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Engineering Compute Operations Engineer",
+    "location": "India, Bangalore",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/India-Bangalore/Engineering-Compute-Operations-Engineer_JR0285534",
+    "postedAt": "Posted 10 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-07-25T09:14:00.827Z"
