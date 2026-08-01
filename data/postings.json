@@ -1,5 +1,65 @@
 [
   {
+    "id": "northrop:1340073423260",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Staff Systems Engineer – Systems Analyst (26-348)",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073423260?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-01T13:57:39.066Z"
+  },
+  {
+    "id": "northrop:1340073424211",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Senior Principal Test Conductor",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073424211?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-01T13:57:39.066Z"
+  },
+  {
+    "id": "lockheed:96206197456",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Flight Test Discipline Engineer Mgr -- Level 5",
+    "location": "Henderson, Nevada",
+    "url": "https://www.lockheedmartinjobs.com/job/henderson/flight-test-discipline-engineer-mgr-level-5/694/96206197456",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-01T13:57:39.047Z"
+  },
+  {
+    "id": "lockheed:96206197424",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Flight Test Discipline Engineer, Sr -- Level 3",
+    "location": "Henderson, Nevada",
+    "url": "https://www.lockheedmartinjobs.com/job/henderson/flight-test-discipline-engineer-sr-level-3/694/96206197424",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-01T13:57:39.047Z"
+  },
+  {
+    "id": "lockheed:97193333648",
+    "company": "Lockheed Martin",
+    "sector": "defense",
+    "title": "Staff Cyber Security Software Engineer",
+    "location": "Fort Worth, Texas",
+    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/staff-cyber-security-software-engineer/694/97193333648",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-01T13:57:39.047Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
     "company": "Boeing",
     "sector": "aero",
@@ -10834,18 +10894,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-01T06:42:07.853Z"
-  },
-  {
-    "id": "lockheed:97099432032",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "FPGA Designer",
-    "location": "Owego, New York",
-    "url": "https://www.lockheedmartinjobs.com/job/owego/fpga-designer/694/97099432032",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-01T03:52:53.641Z"
   },
   {
     "id": "northrop:1340073191545",
@@ -38916,18 +38964,6 @@
     "firstSeenAt": "2026-07-31T19:54:44.644Z"
   },
   {
-    "id": "northrop:1340072656874",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2026 Associate Aeronautical Engineer / Aeronautical Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072656874?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-31T19:54:41.526Z"
-  },
-  {
     "id": "northrop:1340073387208",
     "company": "Northrop Grumman",
     "sector": "defense",
@@ -42564,18 +42600,6 @@
     "firstSeenAt": "2026-07-31T13:07:35.019Z"
   },
   {
-    "id": "northrop:1340072599580",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Engineer / Principal Engineer Systems Architect",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072599580?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-31T13:07:29.674Z"
-  },
-  {
     "id": "northrop:1340073108128",
     "company": "Northrop Grumman",
     "sector": "defense",
@@ -42718,30 +42742,6 @@
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-07-30T20:36:34.653Z"
-  },
-  {
-    "id": "lockheed:94827635440",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Software Engineer Sr Staff",
-    "location": "Fort Worth, Texas",
-    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/software-engineer-sr-staff/694/94827635440",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-30T20:36:34.653Z"
-  },
-  {
-    "id": "lockheed:95272920160",
-    "company": "Lockheed Martin",
-    "sector": "defense",
-    "title": "Cyber Architect Sr Staff",
-    "location": "Fort Worth, Texas",
-    "url": "https://www.lockheedmartinjobs.com/job/fort-worth/cyber-architect-sr-staff/694/95272920160",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-07-30T18:48:37.340Z"
   },
   {
     "id": "ashby:saronic:05c92ce4-4c7f-4bc8-a9ac-5675e76e4479",
