@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:boeing:/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Product-Repair---Modifications-Technician_JR2026515665-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "C-17 Product Repair & Modifications Technician",
+    "location": "KWT - Al-Mubarak AB, Kuwait",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Product-Repair---Modifications-Technician_JR2026515665-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-10T10:37:36.392Z"
+  },
+  {
+    "id": "workday:intel:/job/Israel-Kiryat-Gat/IT-Network-Student_JR0286334",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "IT Network Student",
+    "location": "Israel, Kiryat-Gat",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Kiryat-Gat/IT-Network-Student_JR0286334",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-10T10:37:36.158Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Staff-DRAM-RTL-design-engineer_JR98890",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Senior DRAM RTL design engineer",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Staff-DRAM-RTL-design-engineer_JR98890",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-10T10:37:34.463Z"
+  },
+  {
     "id": "workday:amat:/job/HangzhouCHN/Algorithm-Developer-III-Senior_R2616709",
     "company": "Applied Materials",
     "sector": "chips",
@@ -48,18 +84,6 @@
     "firstSeenAt": "2026-08-10T08:52:17.602Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026512392-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Systems Engineer - Digital Signal Processing (Associate or Mid-level)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026512392-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-10T08:52:17.331Z"
-  },
-  {
     "id": "workday:intel:/job/Israel-Haifa/AI-Product-Analyst-student-for-AI-Solutions-Group_JR0284923",
     "company": "Intel",
     "sector": "chips",
@@ -67,18 +91,6 @@
     "location": "Israel, Haifa",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Haifa/AI-Product-Analyst-student-for-AI-Solutions-Group_JR0284923",
     "postedAt": "Posted Today",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-10T08:52:16.717Z"
-  },
-  {
-    "id": "workday:intel:/job/US-Arizona-Phoenix/On-Shift--IOS--Technology-Development-Engineer---Night-Shift-6_JR0286100",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "On Shift (IOS) Technology Development Engineer – Night Shift 6",
-    "location": "US, Arizona, Phoenix",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/On-Shift--IOS--Technology-Development-Engineer---Night-Shift-6_JR0286100",
-    "postedAt": "Posted 7 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-10T08:52:16.717Z"
@@ -2280,6 +2292,18 @@
     "firstSeenAt": "2026-08-08T09:02:52.346Z"
   },
   {
+    "id": "workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines",
+    "location": "Vietnam, Ho_Chi_Minh_City",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
+    "postedAt": "Posted 5 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-08T09:02:52.346Z"
+  },
+  {
     "id": "workday:intel:/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0283662",
     "company": "Intel",
     "sector": "chips",
@@ -2301,18 +2325,6 @@
     "postedAt": "Posted 19 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-08-08T09:02:52.346Z"
-  },
-  {
-    "id": "workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines",
-    "location": "Vietnam, Ho_Chi_Minh_City",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-08-08T09:02:52.346Z"
   },
   {
@@ -9762,18 +9774,6 @@
     "title": "Principal/Staff Engineer, FE OCT Materials Cost",
     "location": "Fab 10A, Singapore",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Principal-Staff-Engineer--FE-OCT-Materials-Cost_JR108409",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-08T09:02:49.154Z"
-  },
-  {
-    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Principal-Staff-Engineer--Frontend-Operations-Central-Team-Materials-Cost_JR108408",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal/Staff Engineer, Frontend Operations Central Team Materials Cost",
-    "location": "Hiroshima - Fab 15, Japan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/Principal-Staff-Engineer--Frontend-Operations-Central-Team-Materials-Cost_JR108408",
     "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
