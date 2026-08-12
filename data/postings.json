@@ -1,5 +1,65 @@
 [
   {
+    "id": "workday:amat:/job/ShanghaiCHN/-Customer-Engineer-Intern-_R2625965",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "客户服务工程师实习岗（Customer Engineer Intern）",
+    "location": "3 Locations",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/ShanghaiCHN/-Customer-Engineer-Intern-_R2625965",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-12T10:28:21.199Z"
+  },
+  {
+    "id": "workday:boeing:/job/ARE---Dubai-United-Arab-Emirates/Government--Industry---Partnerships-Specialist_JR2026521863-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Government, Industry & Partnerships Specialist",
+    "location": "ARE - Dubai, United Arab Emirates",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/ARE---Dubai-United-Arab-Emirates/Government--Industry---Partnerships-Specialist_JR2026521863-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-12T10:28:20.599Z"
+  },
+  {
+    "id": "workday:intel:/job/Israel-Kiryat-Gat/Engineering-student-for-Intel-Kiryat-Gat_JR0286363",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Engineering student for Intel Kiryat Gat",
+    "location": "Israel, Kiryat-Gat",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Kiryat-Gat/Engineering-student-for-Intel-Kiryat-Gat_JR0286363",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-12T10:28:20.373Z"
+  },
+  {
+    "id": "workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Product-Quality-Engineer_JR0285657",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Product Quality Engineer",
+    "location": "Vietnam, Ho_Chi_Minh_City",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Vietnam-Ho_Chi_Minh_City/Product-Quality-Engineer_JR0285657",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-12T10:28:20.373Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Staff-DRAM-RTL-design-engineer_JR98890",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Senior DRAM RTL design engineer",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Staff-DRAM-RTL-design-engineer_JR98890",
+    "postedAt": "Posted 2 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-12T10:28:19.252Z"
+  },
+  {
     "id": "workday:kla:/job/Shanghai-China/Product-Install-Engineer_2636272",
     "company": "KLA",
     "sector": "chips",
@@ -34,30 +94,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-12T08:41:16.495Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Seattle-WA/Power-Plant-Operator-A_JR2026516442-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Power Plant Operator A",
-    "location": "6 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Power-Plant-Operator-A_JR2026516442-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-12T08:41:16.495Z"
-  },
-  {
-    "id": "workday:intel:/job/Malaysia-Penang/Module-Engineer_JR0285814",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Module Engineer",
-    "location": "Malaysia, Penang",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Module-Engineer_JR0285814",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-12T08:41:15.720Z"
   },
   {
     "id": "workday:marvell:/job/Bangalore/Director--Assistant-General-Counsel_2600199-1",
@@ -198,18 +234,6 @@
     "title": "Test Program Development Engineer",
     "location": "Penang, Malaysia - Grande",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Penang-Malaysia---Grande/Test-Program-Development-Engineer_JR107432",
-    "postedAt": "Posted Today",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-12T05:05:08.682Z"
-  },
-  {
-    "id": "workday:micron:/job/Taoyuan---Fab-11-Taiwan/EQUIPMENT-ENGINEER--F11-ME-DIR-DF_JR106965",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "EQUIPMENT ENGINEER, F11 ME DIR DF",
-    "location": "Taoyuan - Fab 11, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taoyuan---Fab-11-Taiwan/EQUIPMENT-ENGINEER--F11-ME-DIR-DF_JR106965",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
@@ -984,18 +1008,6 @@
     "firstSeenAt": "2026-08-11T21:06:01.436Z"
   },
   {
-    "id": "workday:intel:/job/India-Bangalore/Principal-Engineer--Physical-Design_JR0279627",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Principal Engineer, Physical Design",
-    "location": "India, Bangalore",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/India-Bangalore/Principal-Engineer--Physical-Design_JR0279627",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-11T21:06:01.226Z"
-  },
-  {
     "id": "workday:micron:/job/Boise-ID---ID1/Senior-Dry-Etch-Process-Engineer_JR101256",
     "company": "Micron",
     "sector": "chips",
@@ -1692,18 +1704,6 @@
     "firstSeenAt": "2026-08-11T18:10:48.541Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Fullstack Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-11T18:10:48.541Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Huntsville-AL/Lead-or-Senior-Responsible-Engineer---PAC-3-Seeker-IPT_JR2026508458-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1819,6 +1819,18 @@
     "location": "USA - Hazelwood, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Senior-F-A-18-Training-Systems-Project-Engineer_JR2026514096",
     "postedAt": "Posted 7 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-11T18:10:48.541Z"
+  },
+  {
+    "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Associate Fullstack Software Engineer",
+    "location": "POL - Gdansk, Poland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
+    "postedAt": "Posted 9 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-11T18:10:48.541Z"
@@ -27762,7 +27774,7 @@
     "title": "Technical Writer",
     "location": "Treviso,ITA",
     "url": "https://amat.wd1.myworkdayjobs.com/job/TrevisoITA/Technical-Writer_R2625541",
-    "postedAt": "Posted Yesterday",
+    "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-11T10:15:11.846Z"
@@ -29316,18 +29328,6 @@
     "firstSeenAt": "2026-08-08T09:02:52.613Z"
   },
   {
-    "id": "workday:amat:/job/DresdenDEU/Customer-Engineer----Graduate-Program_R2618286",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Customer Engineer  - Graduate Program",
-    "location": "Dresden,DEU",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/DresdenDEU/Customer-Engineer----Graduate-Program_R2618286",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-08T09:02:52.613Z"
-  },
-  {
     "id": "workday:amat:/job/DresdenDEU/Installation-Engineer_R2624007",
     "company": "Applied Materials",
     "sector": "chips",
@@ -30612,6 +30612,18 @@
     "firstSeenAt": "2026-08-08T09:02:52.346Z"
   },
   {
+    "id": "workday:intel:/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Software Engineer",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
+    "postedAt": "Posted Yesterday",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-08T09:02:52.346Z"
+  },
+  {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/HR-Director--Frontend-Technology_JR0285530",
     "company": "Intel",
     "sector": "chips",
@@ -30655,18 +30667,6 @@
     "location": "US, New Mexico, Albuquerque",
     "url": "https://intel.wd1.myworkdayjobs.com/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Senior-Yield-Analysis_JR0285901",
     "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-08T09:02:52.346Z"
-  },
-  {
-    "id": "workday:intel:/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Software Engineer",
-    "location": "Malaysia, Penang",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
-    "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-08T09:02:52.346Z"
