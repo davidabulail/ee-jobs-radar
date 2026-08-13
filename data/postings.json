@@ -1,5 +1,52 @@
 [
   {
+    "id": "workday:amat:undefined",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "location": "",
+    "url": "https://amat.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-13T06:47:20.395Z"
+  },
+  {
+    "id": "workday:amat:/job/AlbanyNY/Albany--NY-Global-Technical-Learning-Center-Technical-Trainer_R2626075",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Albany, NY Global Technical Learning Center Technical Trainer",
+    "location": "Albany,NY",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/AlbanyNY/Albany--NY-Global-Technical-Learning-Center-Technical-Trainer_R2626075",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-13T06:47:20.395Z"
+  },
+  {
+    "id": "workday:intel:/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer_JR0286406",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "AI Compiler and Library Engineer",
+    "location": "PRC, Shanghai",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer_JR0286406",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-13T06:47:19.096Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264528",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Technician Student Intern",
+    "location": "Philippines, Cavite, GTC",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264528",
+    "postedAt": "Posted 12 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-13T06:47:18.542Z"
+  },
+  {
     "id": "workday:kla:/job/TWN-Kaohsiung-Zuoying-KLA/Regional-Division-Applications-Engineer--RDC-_2639376-1",
     "company": "KLA",
     "sector": "chips",
@@ -715,18 +762,6 @@
     "location": "Kiryat Gat,ISR",
     "url": "https://amat.wd1.myworkdayjobs.com/job/Kiryat-GatISR/Customer-Support-Technician---Kiryat-Gat_R2610411",
     "postedAt": "Posted 20 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-12T22:05:05.700Z"
-  },
-  {
-    "id": "workday:amat:/job/Mig-HaemekISR/Customer-support-technician_R2519332",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Customer support technician Migdal Haemek",
-    "location": "Mig Ha'emek,ISR",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/Mig-HaemekISR/Customer-support-technician_R2519332",
-    "postedAt": "Posted 16 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-12T22:05:05.700Z"
@@ -1734,18 +1769,6 @@
     "title": "Supplier Engineer III",
     "location": "Santa Clara,CA",
     "url": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Supplier-Engineer-III_R2624678",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-12T22:05:05.700Z"
-  },
-  {
-    "id": "workday:amat:/job/AustinTX/Supplier-Engineer-E4_R2625398",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Supplier Engineer E4",
-    "location": "Austin,TX",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/Supplier-Engineer-E4_R2625398",
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
@@ -6516,18 +6539,6 @@
     "firstSeenAt": "2026-08-12T22:05:04.246Z"
   },
   {
-    "id": "workday:intel:/job/Malaysia-Penang/ASIC-FPGA-Design-Engineer_JR0280623",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "ASIC/FPGA Design Engineer",
-    "location": "Malaysia, Penang",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/ASIC-FPGA-Design-Engineer_JR0280623",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-12T22:05:04.246Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Thailand-Chon-Buri/Intern---Engineering_R256838",
     "company": "Analog Devices",
     "sector": "chips",
@@ -6702,18 +6713,6 @@
     "title": "Technician Student Intern",
     "location": "Philippines, Cavite, GTC",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-GTC/Technician-Student-Intern_R256499",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-12T22:05:04.120Z"
-  },
-  {
-    "id": "workday:analogdevices:/job/Philippines-Cavite-jp/Engineer-Student-Intern_R258590",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Engineer Student Intern",
-    "location": "Philippines, Cavite (jp)",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-jp/Engineer-Student-Intern_R258590",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": true,
@@ -7728,6 +7727,18 @@
     "firstSeenAt": "2026-08-12T22:05:02.901Z"
   },
   {
+    "id": "workday:micron:/job/Syracuse-NY---Downtown-Office/Sr-Construction-Category-Analyst-II--NY_JR108529",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Sr Construction Category Analyst II, Syracuse or Boise",
+    "location": "Syracuse, NY - Downtown Office",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Syracuse-NY---Downtown-Office/Sr-Construction-Category-Analyst-II--NY_JR108529",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-12T22:05:02.901Z"
+  },
+  {
     "id": "workday:micron:/job/Manassas-VA----Fab-6/OSINT-Analyst_JR108512",
     "company": "Micron",
     "sector": "chips",
@@ -7806,18 +7817,6 @@
     "title": "Process Technician",
     "location": "Manassas, VA -  Fab 6",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/Process-Technician_JR106737",
-    "postedAt": "Posted Today",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-12T22:05:02.901Z"
-  },
-  {
-    "id": "workday:micron:/job/Syracuse-NY---Downtown-Office/Sr-Construction-Category-Analyst-II--NY_JR108529",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Sr Construction Category Analyst II, Syracuse or Boise",
-    "location": "Syracuse, NY - Downtown Office",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Syracuse-NY---Downtown-Office/Sr-Construction-Category-Analyst-II--NY_JR108529",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
