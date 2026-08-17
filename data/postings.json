@@ -1,9 +1,81 @@
 [
   {
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Lead-or-Senior-_JR2026512406",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Systems Engineer - Digital Signal Processing (Lead or Senior)",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Lead-or-Senior-_JR2026512406",
+    "postedAt": "Posted 7 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-17T05:52:36.837Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026512392-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Systems Engineer - Digital Signal Processing (Associate or Mid-level)",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026512392-1",
+    "postedAt": "Posted 11 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-17T05:52:36.837Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Oklahoma-City-OK/Aerospace-Systems-Safety-Engineer--Associate--Experienced--or-Senior-_JR2026516670-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Aerospace Systems Safety Engineer (Associate, Experienced, or Senior)",
+    "location": "USA - Oklahoma City, OK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Oklahoma-City-OK/Aerospace-Systems-Safety-Engineer--Associate--Experienced--or-Senior-_JR2026516670-2",
+    "postedAt": "Posted 13 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-17T05:52:36.837Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10NX-Singapore/F10-MFG-Equipment-Technician_JR109115",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "F10 MFG Equipment Technician",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/F10-MFG-Equipment-Technician_JR109115",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-17T05:52:34.978Z"
+  },
+  {
+    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/YE-ENGINEER_JR107177",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "YE ENGINEER",
+    "location": "Taichung - Fab 16, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/YE-ENGINEER_JR107177",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-17T05:52:34.978Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/Semiconductor-Design-Engineer--DRAM--Senior--Staff--or-Principal_JR106563",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Semiconductor Design Engineer, DRAM: Senior, Staff, or Principal",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Semiconductor-Design-Engineer--DRAM--Senior--Staff--or-Principal_JR106563",
+    "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-17T05:52:34.978Z"
+  },
+  {
     "id": "workday:micron:/job/Richardson-TX/Sr-Engineer--HBM-Verification-Architecture_JR94968",
     "company": "Micron",
     "sector": "chips",
-    "title": "Sr Engineer, HBM Verification Architecture",
+    "title": "Sr Design Verification Engineer, HBM Verification Architecture",
     "location": "Richardson, TX",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Sr-Engineer--HBM-Verification-Architecture_JR94968",
     "postedAt": "Posted Today",
@@ -3108,18 +3180,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
-    "location": "66 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3150,6 +3210,18 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) – Quality Specialist",
     "location": "6 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Specialist_JR2026520392-1",
+    "postedAt": "Posted 13 Days Ago",
+    "isSummer2027": true,
+    "isEE": true,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
+    "location": "66 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
     "postedAt": "Posted 13 Days Ago",
     "isSummer2027": true,
     "isEE": true,
@@ -3408,18 +3480,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Fullstack Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Data-Platform-Architect---Millennium-Space-Systems_JR2026521329-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3427,18 +3487,6 @@
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Data-Platform-Architect---Millennium-Space-Systems_JR2026521329-1",
     "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026516477",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Engineer (Senior or Lead)",
-    "location": "USA - Saint Charles, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026516477",
-    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -3487,6 +3535,18 @@
     "location": "United States - Remote",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/United-States---Remote/Chief-Software-Engineer_JR2026521496-1",
     "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
+    "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Associate Fullstack Software Engineer",
+    "location": "POL - Gdansk, Poland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026516423-2",
+    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -3588,13 +3648,13 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
+    "id": "workday:boeing:/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026516477",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Front of House / Administrative Assistant (m/f/d)",
-    "location": "DEU - Berlin, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
-    "postedAt": "Posted 5 Days Ago",
+    "title": "Project Engineer (Senior or Lead)",
+    "location": "USA - Saint Charles, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026516477",
+    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -3607,18 +3667,6 @@
     "location": "USA - Huntsville, AL",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Huntsville-AL/Lead-or-Senior-Responsible-Engineer---PAC-3-Seeker-IPT_JR2026508458-1",
     "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Lead-Project-Engineer_JR2026512231-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Lead Project Engineer",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Lead-Project-Engineer_JR2026512231-1",
-    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -3655,18 +3703,6 @@
     "location": "USA - Huntsville, AL",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Huntsville-AL/Advanced-Programs-Technical-Integration-Lead-Engineer_JR2026515883-1",
     "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Lead-Project-Engineer_JR2026520373",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Lead Project Engineer",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Lead-Project-Engineer_JR2026520373",
-    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -3744,6 +3780,18 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
+    "id": "workday:boeing:/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Front of House / Administrative Assistant (m/f/d)",
+    "location": "DEU - Berlin, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
+    "postedAt": "Posted 5 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
     "id": "workday:boeing:/job/VNM---Hanoi-Viet-Nam/Managing-Director--Vietnam--Thailand--Cambodia---Laos-_JR2026521129-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3811,18 +3859,6 @@
     "location": "USA - Kent, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Kent-WA/Systems-Engr-Support-Analyst--Operational-Concept--Analysis-_JR2026518612-2",
     "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Chicago-IL/Executive-Assistant---Elected-Officer_JR2026501460-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Executive Assistant - Elected Officer",
-    "location": "USA - Chicago, IL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Chicago-IL/Executive-Assistant---Elected-Officer_JR2026501460-1",
-    "postedAt": "Posted 2 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -5712,6 +5748,18 @@
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
   },
   {
+    "id": "workday:intel:/job/US-California-Santa-Clara/Senior-Administrative-Assistant-Design-Technology-Platform_JR0285756-1",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Senior Administrative Assistant Design Technology Platform",
+    "location": "US, California, Santa Clara",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-California-Santa-Clara/Senior-Administrative-Assistant-Design-Technology-Platform_JR0285756-1",
+    "postedAt": "Posted 24 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
     "id": "workday:intel:/job/Malaysia-Penang/Accountant_JR0282625",
     "company": "Intel",
     "sector": "chips",
@@ -5803,18 +5851,6 @@
     "location": "2 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Accounting-Manager_JR0284963-1",
     "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
-    "id": "workday:intel:/job/US-California-Santa-Clara/Senior-Administrative-Assistant-Design-Technology-Platform_JR0285756-1",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Senior Administrative Assistant Design Technology Platform",
-    "location": "US, California, Santa Clara",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-California-Santa-Clara/Senior-Administrative-Assistant-Design-Technology-Platform_JR0285756-1",
-    "postedAt": "Posted 24 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
@@ -5928,6 +5964,30 @@
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
   },
   {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Senior Director - Supplier Quality and Reliability",
+    "location": "2 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
+    "id": "workday:intel:/job/Ireland-Leixlip/WPM-SORT-MODULE-PROCESS-ENGINEER_JR0286448",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "WPM SORT MODULE PROCESS ENGINEER",
+    "location": "Ireland, Leixlip",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/WPM-SORT-MODULE-PROCESS-ENGINEER_JR0286448",
+    "postedAt": "Posted 2 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
     "id": "workday:intel:/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285035-1",
     "company": "Intel",
     "sector": "chips",
@@ -5983,30 +6043,6 @@
     "location": "Malaysia, Kulim",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Kulim/Automation-Operations-Infrastructure-Engineer_JR0286352",
     "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Senior Director - Supplier Quality and Reliability",
-    "location": "2 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
-    "id": "workday:intel:/job/Ireland-Leixlip/WPM-SORT-MODULE-PROCESS-ENGINEER_JR0286448",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "WPM SORT MODULE PROCESS ENGINEER",
-    "location": "Ireland, Leixlip",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/WPM-SORT-MODULE-PROCESS-ENGINEER_JR0286448",
-    "postedAt": "Posted 2 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
@@ -10152,6 +10188,42 @@
     "firstSeenAt": "2026-08-15T07:46:02.942Z"
   },
   {
+    "id": "workday:micron:/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107752",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Sr Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107752",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:02.942Z"
+  },
+  {
+    "id": "workday:micron:/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107754",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Sr Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107754",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:02.942Z"
+  },
+  {
+    "id": "workday:micron:/job/Richardson-TX/Staff-Design-Engineer--HBM_JR107746",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Staff Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Staff-Design-Engineer--HBM_JR107746",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:02.942Z"
+  },
+  {
     "id": "workday:micron:/job/Boise-ID---Main-Site/SrvDigital-Design-Engineer_JR107902",
     "company": "Micron",
     "sector": "chips",
@@ -10173,42 +10245,6 @@
     "postedAt": "Posted 2 Days Ago",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-08-15T07:46:02.942Z"
-  },
-  {
-    "id": "workday:micron:/job/Richardson-TX/Staff-Design-Engineer--HBM_JR107746",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff Design Engineer, HBM",
-    "location": "Richardson, TX",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Staff-Design-Engineer--HBM_JR107746",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:02.942Z"
-  },
-  {
-    "id": "workday:micron:/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107752",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Sr Design Engineer, HBM",
-    "location": "Richardson, TX",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107752",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:02.942Z"
-  },
-  {
-    "id": "workday:micron:/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107754",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Sr Design Engineer, HBM",
-    "location": "Richardson, TX",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Sr-Design-Engineer--HBM_JR107754",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:02.942Z"
   },
   {
@@ -10569,42 +10605,6 @@
     "postedAt": "Posted 2 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:02.942Z"
-  },
-  {
-    "id": "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer-Mechanical_JR106794",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Senior Engineer-Mechanical",
-    "location": "Sanand - 303C - Facilities/Construction, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer-Mechanical_JR106794",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:02.942Z"
-  },
-  {
-    "id": "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer-Mechanical_JR106799",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Senior Engineer-Mechanical",
-    "location": "Sanand - 303C - Facilities/Construction, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer-Mechanical_JR106799",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:02.942Z"
-  },
-  {
-    "id": "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer-Electrical-Design_JR106798",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff Engineer Electrical Design",
-    "location": "Sanand - 303C - Facilities/Construction, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer-Electrical-Design_JR106798",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
     "firstSeenAt": "2026-08-15T07:46:02.942Z"
   },
   {
