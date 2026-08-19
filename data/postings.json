@@ -1,5 +1,113 @@
 [
   {
+    "id": "workday:nvidia:/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Artificial Intelligence Research Intern - Deep Learning",
+    "location": "Taiwan, Taipei",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-19T10:47:59.106Z"
+  },
+  {
+    "id": "workday:boeing:/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Intern - Software Engineering",
+    "location": "ESP - Madrid, Spain",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-19T10:47:58.660Z"
+  },
+  {
+    "id": "workday:boeing:/job/ESP---Madrid-Spain/Intern---Systems-Safety-Engineering_JR2026522575-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Intern - Systems Safety Engineering",
+    "location": "ESP - Madrid, Spain",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/ESP---Madrid-Spain/Intern---Systems-Safety-Engineering_JR2026522575-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-19T10:47:58.660Z"
+  },
+  {
+    "id": "workday:intel:/job/Israel-Haifa/Security-Software-development-student_JR0286007-1",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Security Software development student",
+    "location": "Israel, Haifa",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Haifa/Security-Software-development-student_JR0286007-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-19T10:47:58.399Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer--DDEG-Design-Methodology_JR109039-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Engineer, DDEG Design Methodology",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Engineer--DDEG-Design-Methodology_JR109039-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-19T10:47:56.934Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/SR-ENGINEER--DDEG-Design-Methodology_JR109038-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "SR ENGINEER, DDEG Design Methodology",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/SR-ENGINEER--DDEG-Design-Methodology_JR109038-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-19T10:47:56.934Z"
+  },
+  {
+    "id": "northrop:1340073718009",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sentinel - Principal/Sr. Principal Systems Engineer - 19628*",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073718009?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-19T10:47:55.565Z"
+  },
+  {
+    "id": "northrop:1340073718261",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sentinel - Principal/Sr. Principal Systems Engineer - 19627*",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073718261?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-19T10:47:55.565Z"
+  },
+  {
+    "id": "northrop:1340073719062",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Sentinel - Staff Systems Engineer - 19621*",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073719062?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-19T10:47:55.565Z"
+  },
+  {
     "id": "workday:boeing:/job/QAT---Al-Udeid-AB-Qatar/Quality-Production-Specialist_JR2026495962",
     "company": "Boeing",
     "sector": "aero",
@@ -10,17 +118,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-19T09:50:55.771Z"
-  },
-  {
-    "id": "workday:intel:/job/Security-Software-development-student_JR0286007-1",
-    "company": "Intel",
-    "sector": "chips",
-    "location": "",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Security-Software-development-student_JR0286007-1",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:54.806Z"
   },
   {
     "id": "workday:intel:/job/Israel-Kiryat-Gat/Software-Applications-Engineering-Student_JR0286503",
@@ -117,126 +214,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-19T09:50:54.478Z"
-  },
-  {
-    "id": "northrop:1340072607902",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072607902?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340073518712",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr Principal Contract Administrator - 18570",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073518712?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340072045456",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Contract Administrator - Level 3 (Hybrid)",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072045456?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340073566974",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073566974?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340073376051",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Contract Administrator 2",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073376051?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340071381419",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Contract Administrator 4",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340071381419?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340073669517",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr. Principal Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073669517?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340072784489",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072784489?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340072636118",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Sr Principal Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072636118?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
-  },
-  {
-    "id": "northrop:1340073610628",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Principal Contract Administrator",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073610628?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T09:50:53.130Z"
   },
   {
     "id": "workday:analogdevices:/job/US-MA-Wilmington/Counsel--Corporate-Attorney_R262337",
@@ -695,30 +672,6 @@
     "firstSeenAt": "2026-08-19T07:08:31.777Z"
   },
   {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Systems-Stress_JR2026514617-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Structural Analysis Engineer – Systems Stress",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Systems-Stress_JR2026514617-1",
-    "postedAt": "Posted 15 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T05:47:51.416Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Wing---Empennage_JR2026514616-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Structural Analysis Engineer – Wing & Empennage",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Wing---Empennage_JR2026514616-1",
-    "postedAt": "Posted 15 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T05:47:51.416Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261",
     "company": "Analog Devices",
     "sector": "chips",
@@ -1019,30 +972,6 @@
     "firstSeenAt": "2026-08-19T04:02:45.859Z"
   },
   {
-    "id": "northrop:1340072964350",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Network Communications",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340072964350?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T04:02:45.090Z"
-  },
-  {
-    "id": "northrop:1340073616172",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Engineering Technician 3",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073616172?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T04:02:45.090Z"
-  },
-  {
     "id": "workday:amat:/job/PhoenixAZ/Logistics-Operations-lll----B3-_R2622692",
     "company": "Applied Materials",
     "sector": "chips",
@@ -1325,18 +1254,6 @@
     "title": "Operations Project Management",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340073672152?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-19T02:08:08.917Z"
-  },
-  {
-    "id": "northrop:1340073693525",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2026 Program Cost and Schedule Control Analyst - Elkton MD",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073693525?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -28607,18 +28524,6 @@
     "firstSeenAt": "2026-08-17T18:59:59.870Z"
   },
   {
-    "id": "workday:micron:/job/Richardson-TX/Staff-Principal-Engineer---HBM-Design-for-Test--DFT-_JR103315-1",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff/Principal Engineer - HBM Design for Test (DFT)",
-    "location": "Richardson, TX",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Staff-Principal-Engineer---HBM-Design-for-Test--DFT-_JR103315-1",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-17T18:59:59.259Z"
-  },
-  {
     "id": "workday:amat:/job/Santa-ClaraCA/Treasury-III_R2625330-1",
     "company": "Applied Materials",
     "sector": "chips",
@@ -28653,18 +28558,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-17T17:47:05.057Z"
-  },
-  {
-    "id": "workday:micron:/job/Syracuse-NY---Downtown-Office/Wet-Mechanical-Operations-Engineer_JR100406",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff/Principal - Wet Mechanical Operations Engineer",
-    "location": "Syracuse, NY - Downtown Office",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Syracuse-NY---Downtown-Office/Wet-Mechanical-Operations-Engineer_JR100406",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-17T17:47:04.800Z"
   },
   {
     "id": "workday:boeing:/job/USA---Berkeley-MO/F-15-Mission-Systems-International-Software-OFP-Captain_JR2026516831-1",
@@ -30995,18 +30888,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) – Communications Intern",
-    "location": "7 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
-    "postedAt": "Posted 16 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Auburn-WA/Boeing-Summer-2027-Internship-Program--Paid----Environment--Health--and-Safety--EHS-_JR2026519561-1",
     "company": "Boeing",
     "sector": "aero",
@@ -31052,6 +30933,18 @@
     "postedAt": "Posted 14 Days Ago",
     "isSummer2027": true,
     "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Boeing Summer 2027 Internship Program (Paid) – Communications Intern",
+    "location": "7 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
+    "postedAt": "Posted 16 Days Ago",
+    "isSummer2027": true,
+    "isEE": true,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
@@ -31319,18 +31212,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Systems-Engineering-Manager_JR2026511225",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Systems Engineering Manager",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Systems-Engineering-Manager_JR2026511225",
-    "postedAt": "Posted 19 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Chantilly-VA/Software-Engineer-Systems--Associate-Experienced-_JR2026511797-1",
     "company": "Boeing",
     "sector": "aero",
@@ -31415,18 +31296,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Fullstack-Software-Engineer_JR2026514577-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Fullstack Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Fullstack-Software-Engineer_JR2026514577-1",
-    "postedAt": "Posted 16 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Huntsville-AL/Lead-or-Senior-Responsible-Engineer---PAC-3-Seeker-IPT_JR2026508458-1",
     "company": "Boeing",
     "sector": "aero",
@@ -31499,6 +31368,18 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
+    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Systems-Engineering-Manager_JR2026511225",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Systems Engineering Manager",
+    "location": "UKR - Kyiv, Ukraine",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Systems-Engineering-Manager_JR2026511225",
+    "postedAt": "Posted 19 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
     "id": "workday:boeing:/job/GBR---Bristol-UK/XMLNAME-1st-Line-Support-Analyst_JR2026521641-3",
     "company": "Boeing",
     "sector": "aero",
@@ -31518,6 +31399,18 @@
     "location": "GBR - Bristol, UK",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/XMLNAME-1st-Line-Support-Analyst_JR2026521866",
     "postedAt": "Posted 7 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
+    "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Fullstack-Software-Engineer_JR2026514577-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced Fullstack Software Engineer",
+    "location": "POL - Gdansk, Poland",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Fullstack-Software-Engineer_JR2026514577-1",
+    "postedAt": "Posted 16 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -32471,6 +32364,18 @@
     "firstSeenAt": "2026-08-15T07:46:04.976Z"
   },
   {
+    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
+    "location": "Japan, Tokyo",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.976Z"
+  },
+  {
     "id": "workday:nvidia:/job/US-CA-Santa-Clara/Principal-PCBA-Engineer_JR2017727",
     "company": "NVIDIA",
     "sector": "chips",
@@ -32537,18 +32442,6 @@
     "title": "Global Connectivity Distinguished Engineer",
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Global-Connectivity-Distinguished-Engineer_JR2013689",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.976Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
-    "location": "Japan, Tokyo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -32753,18 +32646,6 @@
     "title": "Senior Research Scientist, Efficient Deep Learning",
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Research-Scientist--Efficient-Deep-Learning_JR2009709",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.976Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Korea-Seoul/Senior-System-Software-Engineer---Automotive_JR2015971-1",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior System Software Engineer - Automotive",
-    "location": "Korea, Seoul",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Korea-Seoul/Senior-System-Software-Engineer---Automotive_JR2015971-1",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
