@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:amat:/job/Yongin-NamsaKOR/Logistics-Operation_R2622953",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Logistics Operation",
+    "location": "Yongin-Namsa,KOR",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/Yongin-NamsaKOR/Logistics-Operation_R2622953",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:55:14.417Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Global-Facilities-Engineer_JR103096",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Global Facilities Engineer",
+    "location": "Hyderabad - Phoenix Aquila, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Global-Facilities-Engineer_JR103096",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:55:11.063Z"
+  },
+  {
+    "id": "northrop:1340073622556",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Mechanical Design Engineer - Level 2 / Level 3",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073622556?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:55:09.210Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Edwards-AFB-CA/Senior-Life-Support-Technician--Parachute-Rigger-_JR2026517710-2",
     "company": "Boeing",
     "sector": "aero",
@@ -42,18 +78,6 @@
     "title": "Staff Program Management Systems Integration Engineer - WorkforceOne",
     "location": "United States-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340073726520?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-20T04:01:38.050Z"
-  },
-  {
-    "id": "northrop:1340073736018",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "2026 Associate Software Engineer/Software Engineer",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073736018?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": false,
@@ -28848,18 +28872,6 @@
     "firstSeenAt": "2026-08-18T07:55:50.155Z"
   },
   {
-    "id": "workday:micron:/job/Manassas-VA----Fab-6/Senior-DRAM-Product-Engineer_JR98590",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Senior DRAM Product Engineer",
-    "location": "Manassas, VA -  Fab 6",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/Senior-DRAM-Product-Engineer_JR98590",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-18T07:55:50.155Z"
-  },
-  {
     "id": "workday:amat:/job/HsinchuTWN/Sr-Director--TSMC-Customer-Quality-Head_R2624872",
     "company": "Applied Materials",
     "sector": "chips",
@@ -31332,18 +31344,6 @@
     "firstSeenAt": "2026-08-15T07:46:06.600Z"
   },
   {
-    "id": "workday:amat:/job/HillsboroOR/Technical-Director--Key-Logic-Account---Global-Field-Group--GFG-_R2625598",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Technical Director, Key Logic Account — Global Field Group (GFG)",
-    "location": "Hillsboro,OR",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/HillsboroOR/Technical-Director--Key-Logic-Account---Global-Field-Group--GFG-_R2625598",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:06.600Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
     "company": "Boeing",
     "sector": "aero",
@@ -32604,6 +32604,18 @@
     "firstSeenAt": "2026-08-15T07:46:04.976Z"
   },
   {
+    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
+    "location": "Japan, Tokyo",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.976Z"
+  },
+  {
     "id": "workday:nvidia:/job/Israel-Tel-Aviv/Firmware-Engineer---Ethernet-Switching_JR2013842",
     "company": "NVIDIA",
     "sector": "chips",
@@ -32646,18 +32658,6 @@
     "title": "Research Scientist - AI",
     "location": "Singapore, Pasir Panjang",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Singapore-Pasir-Panjang/Research-Scientist---AI_JR2020802",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.976Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
-    "location": "Japan, Tokyo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -33456,18 +33456,6 @@
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
   },
   {
-    "id": "workday:intel:/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Software Engineer",
-    "location": "Malaysia, Penang",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
-    "postedAt": "Posted 8 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346",
     "company": "Intel",
     "sector": "chips",
@@ -33487,6 +33475,18 @@
     "location": "Ireland, Leixlip",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/WPM-SORT-MODULE-PROCESS-ENGINEER_JR0286448",
     "postedAt": "Posted 5 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
+    "id": "workday:intel:/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Software Engineer",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Software-Engineer_JR0285927-1",
+    "postedAt": "Posted 8 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
