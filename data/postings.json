@@ -1,15 +1,38 @@
 [
   {
-    "id": "workday:amat:/job/Yongin-NamsaKOR/Logistics-Operation_R2622953",
+    "id": "workday:amat:undefined",
     "company": "Applied Materials",
     "sector": "chips",
-    "title": "Logistics Operation",
-    "location": "Yongin-Namsa,KOR",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/Yongin-NamsaKOR/Logistics-Operation_R2622953",
+    "location": "",
+    "url": "https://amat.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T05:48:12.237Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer_JR107841",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Associate Engineer",
+    "location": "2 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer_JR107841",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-08-20T04:55:14.417Z"
+    "firstSeenAt": "2026-08-20T05:48:07.936Z"
+  },
+  {
+    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Intern",
+    "location": "2 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-20T05:48:07.936Z"
   },
   {
     "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Global-Facilities-Engineer_JR103096",
@@ -28860,18 +28883,6 @@
     "firstSeenAt": "2026-08-18T07:55:51.262Z"
   },
   {
-    "id": "workday:micron:/job/Manassas-VA----Fab-6/FAB-Engineer--Wet-Process-_JR104727",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "FAB Engineer (Wet Process)",
-    "location": "Manassas, VA -  Fab 6",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/FAB-Engineer--Wet-Process-_JR104727",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-18T07:55:50.155Z"
-  },
-  {
     "id": "workday:amat:/job/HsinchuTWN/Sr-Director--TSMC-Customer-Quality-Head_R2624872",
     "company": "Applied Materials",
     "sector": "chips",
@@ -28954,18 +28965,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-18T03:10:19.520Z"
-  },
-  {
-    "id": "workday:micron:/job/MSB-Singapore/Staff-Global-Business-Partner_JR109046",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Staff Global Business Partner",
-    "location": "MSB, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Staff-Global-Business-Partner_JR109046",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-18T03:10:19.424Z"
   },
   {
     "id": "workday:boeing:/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
@@ -33492,6 +33491,42 @@
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
   },
   {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/HR-Director--Frontend-Technology_JR0285530",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "HR Director, Frontend Technology",
+    "location": "3 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/HR-Director--Frontend-Technology_JR0285530",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
+    "id": "workday:intel:/job/Ireland-Leixlip/Employment-Counsel_JR0285469",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Employment Counsel",
+    "location": "Ireland, Leixlip",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Employment-Counsel_JR0285469",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
+    "id": "workday:intel:/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Senior-Yield-Analysis_JR0285901",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Advanced Packaging Senior Yield Analysis",
+    "location": "US, New Mexico, Albuquerque",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Senior-Yield-Analysis_JR0285901",
+    "postedAt": "Posted 16 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.938Z"
+  },
+  {
     "id": "workday:intel:/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285035-1",
     "company": "Intel",
     "sector": "chips",
@@ -33547,42 +33582,6 @@
     "location": "Malaysia, Kulim",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Kulim/Automation-Operations-Infrastructure-Engineer_JR0286352",
     "postedAt": "Posted 7 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/HR-Director--Frontend-Technology_JR0285530",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "HR Director, Frontend Technology",
-    "location": "3 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/HR-Director--Frontend-Technology_JR0285530",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
-    "id": "workday:intel:/job/Ireland-Leixlip/Employment-Counsel_JR0285469",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Employment Counsel",
-    "location": "Ireland, Leixlip",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Employment-Counsel_JR0285469",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.938Z"
-  },
-  {
-    "id": "workday:intel:/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Senior-Yield-Analysis_JR0285901",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Advanced Packaging Senior Yield Analysis",
-    "location": "US, New Mexico, Albuquerque",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Senior-Yield-Analysis_JR0285901",
-    "postedAt": "Posted 16 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:04.938Z"
