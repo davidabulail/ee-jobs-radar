@@ -1,5 +1,65 @@
 [
   {
+    "id": "workday:boeing:/job/USA---Edwards-AFB-CA/Senior-Life-Support-Technician--Parachute-Rigger-_JR2026517710-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Life Support Technician (Parachute Rigger)",
+    "location": "USA - Edwards AFB, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Edwards-AFB-CA/Senior-Life-Support-Technician--Parachute-Rigger-_JR2026517710-2",
+    "postedAt": "Posted 8 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:01:40.817Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Experienced-Galley---Galley-Insert-Design-Engineer--m-f-d-_JR2026492409",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced Galley & Galley Insert Design Engineer (m/f/d)",
+    "location": "DEU - Hamburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Experienced-Galley---Galley-Insert-Design-Engineer--m-f-d-_JR2026492409",
+    "postedAt": "Posted 15 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:01:40.817Z"
+  },
+  {
+    "id": "workday:micron:/job/Tainan-Taiwan/Production-Operator--Tainan-_JR105150",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Production Operator (Tainan)",
+    "location": "Tainan, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Tainan-Taiwan/Production-Operator--Tainan-_JR105150",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:01:39.068Z"
+  },
+  {
+    "id": "northrop:1340073726520",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "Staff Program Management Systems Integration Engineer - WorkforceOne",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073726520?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:01:38.050Z"
+  },
+  {
+    "id": "northrop:1340073736018",
+    "company": "Northrop Grumman",
+    "sector": "defense",
+    "title": "2026 Associate Software Engineer/Software Engineer",
+    "location": "United States-",
+    "url": "https://jobs.northropgrumman.com/careers/job/1340073736018?keywords=intern&num=50",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T04:01:38.050Z"
+  },
+  {
     "id": "workday:amat:/job/XianCHN/Technical-Trainer-ETCH-Xi-an_R2626182",
     "company": "Applied Materials",
     "sector": "chips",
@@ -66,30 +126,6 @@
     "title": "Engineer Avionics Systems",
     "location": "Australia-",
     "url": "https://jobs.northropgrumman.com/careers/job/1340073644157?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-20T03:11:29.870Z"
-  },
-  {
-    "id": "northrop:1340073409023",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Supply Chain Technical Coordinator 1 or 2",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073409023?keywords=intern&num=50",
-    "postedAt": "",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-20T03:11:29.870Z"
-  },
-  {
-    "id": "northrop:1340073611269",
-    "company": "Northrop Grumman",
-    "sector": "defense",
-    "title": "Embedded Software Engineer - Level 1 and 2",
-    "location": "United States-",
-    "url": "https://jobs.northropgrumman.com/careers/job/1340073611269?keywords=intern&num=50",
     "postedAt": "",
     "isSummer2027": false,
     "isEE": true,
@@ -28824,18 +28860,6 @@
     "firstSeenAt": "2026-08-18T07:55:50.155Z"
   },
   {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Engineering-Project-Manager---APTD-Operations_JR95564-1",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Senior Engineer, APTD Operations",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Engineering-Project-Manager---APTD-Operations_JR95564-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-18T07:55:50.155Z"
-  },
-  {
     "id": "workday:amat:/job/HsinchuTWN/Sr-Director--TSMC-Customer-Quality-Head_R2624872",
     "company": "Applied Materials",
     "sector": "chips",
@@ -31704,30 +31728,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/United-States---Remote/Chief-Software-Engineer_JR2026521496-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Chief Software Engineer",
-    "location": "United States - Remote",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/United-States---Remote/Chief-Software-Engineer_JR2026521496-1",
-    "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Chantilly-VA/Software-Engineer-Systems--Associate-Experienced-_JR2026511797-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Software Engineer–Systems (Associate/Experienced)",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Chantilly-VA/Software-Engineer-Systems--Associate-Experienced-_JR2026511797-1",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Senior-Industrial-Security-Specialist_JR2026510182",
     "company": "Boeing",
     "sector": "aero",
@@ -32628,18 +32628,6 @@
     "firstSeenAt": "2026-08-15T07:46:04.976Z"
   },
   {
-    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
-    "location": "Japan, Tokyo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.976Z"
-  },
-  {
     "id": "workday:nvidia:/job/Singapore-Singapore-Suntec-Tower/Research-Scientist_JR2017529",
     "company": "NVIDIA",
     "sector": "chips",
@@ -32658,6 +32646,18 @@
     "title": "Research Scientist - AI",
     "location": "Singapore, Pasir Panjang",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Singapore-Pasir-Panjang/Research-Scientist---AI_JR2020802",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.976Z"
+  },
+  {
+    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
+    "location": "Japan, Tokyo",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
