@@ -1,5 +1,64 @@
 [
   {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/Marketing---Sales-Rep---Vertical-Lift-Sales-Lead_JR2026521517-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Marketing & Sales Rep - Vertical Lift Sales Lead",
+    "location": "GBR - Bristol, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Marketing---Sales-Rep---Vertical-Lift-Sales-Lead_JR2026521517-2",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T08:58:07.768Z"
+  },
+  {
+    "id": "workday:analogdevices:undefined",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "location": "",
+    "url": "https://analogdevices.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T08:58:06.939Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/Principal-Wet-Process-Engineer--Advanced-Packaging_JR109310",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Principal Wet Process Engineer, Advanced Packaging",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Principal-Wet-Process-Engineer--Advanced-Packaging_JR109310",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T08:58:05.978Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Equipment-Maintenance-Technician_JR107903",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Equipment Maintenance Technician",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Equipment-Maintenance-Technician_JR107903",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T08:58:05.978Z"
+  },
+  {
+    "id": "lever:palantir:a114f925-b5cb-4076-bf68-c77310754aec",
+    "company": "Palantir",
+    "sector": "defense",
+    "title": "Talent Coordinator",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/a114f925-b5cb-4076-bf68-c77310754aec",
+    "postedAt": "2024-12-18T01:41:21.949Z",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-20T08:58:04.806Z"
+  },
+  {
     "id": "workday:nvidia:/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
     "company": "NVIDIA",
     "sector": "chips",
@@ -78,18 +137,6 @@
     "title": "TECHNOLOGIST - PIE METROLOGY",
     "location": "Fab 10N/X, Singapore",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/TECHNOLOGIST---PIE-METROLOGY_JR108650",
-    "postedAt": "Posted Today",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-20T07:58:15.743Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10NX-Singapore/TECHNOLOGIST---PIE-RAM_JR94850",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "TECHNOLOGIST - PIE RAM",
-    "location": "Fab 10N/X, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/TECHNOLOGIST---PIE-RAM_JR94850",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
@@ -189,18 +236,6 @@
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-08-20T07:08:20.098Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Interiors-Stress_JR2026514618-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Structural Analysis Engineer – Interiors Stress",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Interiors-Stress_JR2026514618-1",
-    "postedAt": "Posted 16 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-08-20T07:08:20.098Z"
   },
   {
@@ -27636,18 +27671,6 @@
     "firstSeenAt": "2026-08-19T05:47:49.600Z"
   },
   {
-    "id": "workday:analogdevices:/job/Italy-Milan-Assago/Intern--Test-Systems-Development_R257393",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Intern, Test Systems Development",
-    "location": "Italy, Milan, Assago",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/Intern--Test-Systems-Development_R257393",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-19T04:54:08.427Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Ireland-Limerick/Mechanical-and-Robotics-Intern_R258854",
     "company": "Analog Devices",
     "sector": "chips",
@@ -28944,18 +28967,6 @@
     "firstSeenAt": "2026-08-18T11:43:18.909Z"
   },
   {
-    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Principal-Layout-Engineer-DPG-LPDDR_JR108773",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal Layout Engineer-DPG-LPDDR",
-    "location": "Hyderabad - Phoenix Aquila, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Principal-Layout-Engineer-DPG-LPDDR_JR108773",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-18T11:43:17.903Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264538",
     "company": "Analog Devices",
     "sector": "chips",
@@ -29316,24 +29327,24 @@
     "firstSeenAt": "2026-08-17T15:42:42.918Z"
   },
   {
-    "id": "workday:boeing:/job/USA---SeaTac-WA/Shipping-and-Distribution-Facilitator-B_JR2026492376-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Shipping and Distribution Facilitator B",
-    "location": "USA - SeaTac, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---SeaTac-WA/Shipping-and-Distribution-Facilitator-B_JR2026492376-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-17T14:46:32.313Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/Lead-Project-Engineer_JR2026520373",
     "company": "Boeing",
     "sector": "aero",
     "title": "Lead Project Engineer",
     "location": "USA - Hazelwood, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Lead-Project-Engineer_JR2026520373",
+    "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-17T14:46:32.313Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---SeaTac-WA/Shipping-and-Distribution-Facilitator-B_JR2026492376-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Shipping and Distribution Facilitator B",
+    "location": "USA - SeaTac, WA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---SeaTac-WA/Shipping-and-Distribution-Facilitator-B_JR2026492376-1",
     "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -30618,7 +30629,7 @@
     "title": "Logistics Sourcing Manager (Asia)",
     "location": "Singapore,SGP",
     "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Logistics-Sourcing-Manager--Asia-_R2621932-1",
-    "postedAt": "Posted 30+ Days Ago",
+    "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:06.600Z"
@@ -31908,30 +31919,6 @@
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Programme-Manager-Aircraft-Design-Organisation-Services--E-7-_JR2026513397",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Programme Manager-Aircraft Design Organisation Services (E-7)",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Programme-Manager-Aircraft-Design-Organisation-Services--E-7-_JR2026513397",
-    "postedAt": "Posted 29 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Kent-WA/Systems-Engr-Support-Analyst--Operational-Concept--Analysis-_JR2026518612-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Systems Engr Support Analyst (Operational Concept  Analysis)",
-    "location": "USA - Kent, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Kent-WA/Systems-Engr-Support-Analyst--Operational-Concept--Analysis-_JR2026518612-2",
-    "postedAt": "Posted 22 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:05.297Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Huntsville-AL/Lead-or-Senior-Responsible-Engineer---PAC-3-Seeker-IPT_JR2026508458-1",
     "company": "Boeing",
     "sector": "aero",
@@ -31987,6 +31974,30 @@
     "location": "USA - Oklahoma City, OK",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Oklahoma-City-OK/Lead-Project-Engineer--Project-Engineer-_JR2026515634-1",
     "postedAt": "Posted 8 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/Programme-Manager-Aircraft-Design-Organisation-Services--E-7-_JR2026513397",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Programme Manager-Aircraft Design Organisation Services (E-7)",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Programme-Manager-Aircraft-Design-Organisation-Services--E-7-_JR2026513397",
+    "postedAt": "Posted 29 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:05.297Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Kent-WA/Systems-Engr-Support-Analyst--Operational-Concept--Analysis-_JR2026518612-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Systems Engr Support Analyst (Operational Concept  Analysis)",
+    "location": "USA - Kent, WA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Kent-WA/Systems-Engr-Support-Analyst--Operational-Concept--Analysis-_JR2026518612-2",
+    "postedAt": "Posted 22 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-15T07:46:05.297Z"
@@ -32712,6 +32723,18 @@
     "firstSeenAt": "2026-08-15T07:46:04.976Z"
   },
   {
+    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
+    "location": "Japan, Tokyo",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-15T07:46:04.976Z"
+  },
+  {
     "id": "workday:nvidia:/job/Singapore-Singapore-Suntec-Tower/Research-Scientist_JR2017529",
     "company": "NVIDIA",
     "sector": "chips",
@@ -32730,18 +32753,6 @@
     "title": "Research Scientist - AI",
     "location": "Singapore, Pasir Panjang",
     "url": "https://nvidia.wd5.myworkdayjobs.com/job/Singapore-Pasir-Panjang/Research-Scientist---AI_JR2020802",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-15T07:46:04.976Z"
-  },
-  {
-    "id": "workday:nvidia:/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Business Development Manager, NVIDIA Cloud Partners, AI Go-to-market",
-    "location": "Japan, Tokyo",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Senior-Business-Development-Manager--NCP---Consumer-Internet-Service_JR2008507",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
