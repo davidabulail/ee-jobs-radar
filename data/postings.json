@@ -1,5 +1,124 @@
 [
   {
+    "id": "workday:boeing:/job/GBR---Gosport-UK/Procurement-Agent--Procurement-Agent-General-_JR2026522791-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Procurement Agent (Procurement Agent-General)",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Gosport-UK/Procurement-Agent--Procurement-Agent-General-_JR2026522791-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T10:06:20.125Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineer-PhD-Intern_JR0286268",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Process Integration and Yield Engineer PhD Intern",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineer-PhD-Intern_JR0286268",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-24T10:06:19.750Z"
+  },
+  {
+    "id": "workday:analogdevices:undefined",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "location": "",
+    "url": "https://analogdevices.wd1.myworkdayjobs.comundefined",
+    "postedAt": "",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T10:06:19.149Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/Thailand-Chon-Buri/Analog-Devices-Thailand-s-Internship-Program_R258682",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Analog Devices Thailand’s Internship Program",
+    "location": "Thailand, Chon Buri",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Thailand-Chon-Buri/Analog-Devices-Thailand-s-Internship-Program_R258682",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-24T10:06:19.149Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Smart-Systems-Engineer_JR105147",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Smart Systems Engineer",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Smart-Systems-Engineer_JR105147",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T10:06:18.191Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Engineer--SSD-Validation_JR109279",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Engineer, SSD Validation",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Engineer--SSD-Validation_JR109279",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T10:06:18.191Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Principal-Engineer--SSD-Validation_JR108821",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Principal Engineer, SSD Validation",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Principal-Engineer--SSD-Validation_JR108821",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T10:06:18.191Z"
+  },
+  {
+    "id": "workday:micron:/job/Manassas-VA----Fab-6/Sr-Dry-Etch-Equipment-Engineer_JR93934",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Sr Dry Etch Equipment Engineer",
+    "location": "Manassas, VA -  Fab 6",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Manassas-VA----Fab-6/Sr-Dry-Etch-Equipment-Engineer_JR93934",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T10:06:18.191Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Senior--Staff-Engineer--Firmware-and-Product-Test--SSD-_JR108820",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Senior/ Staff Engineer, Firmware and Product Test (SSD)",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Senior--Staff-Engineer--Firmware-and-Product-Test--SSD-_JR108820",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-24T10:06:18.191Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Staff---Principal-Security-Engineer--Firmware-Test--SSD_JR108817",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Staff / Principal Security Engineer, Firmware Test, SSD",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Staff---Principal-Security-Engineer--Firmware-Test--SSD_JR108817",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-24T10:06:18.191Z"
+  },
+  {
     "id": "workday:analogdevices:/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301",
     "company": "Analog Devices",
     "sector": "chips",
@@ -300,18 +419,6 @@
     "firstSeenAt": "2026-08-24T05:03:40.343Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-    "postedAt": "Posted 20 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-24T05:03:31.462Z"
-  },
-  {
     "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Construction-Engineer--I-C-Instrumentation-and-Control-_JR105812-6",
     "company": "Micron",
     "sector": "chips",
@@ -550,18 +657,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-24T01:59:18.823Z"
-  },
-  {
-    "id": "workday:intel:/job/Malaysia-Penang/Module-Engineer_JR0285814",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Module Engineer",
-    "location": "Malaysia, Penang",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Module-Engineer_JR0285814",
-    "postedAt": "Posted 14 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T01:59:18.081Z"
   },
   {
     "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/Process-QE-Technician_JR108080",
@@ -3552,18 +3647,6 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Quality Systems Specialist",
-    "location": "USA - Hialeah, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Tukwila-WA/Mid-Level-Industrial-Security-Specialist_JR2026510166-2",
     "company": "Boeing",
     "sector": "aero",
@@ -3607,6 +3690,18 @@
     "location": "USA - San Antonio, TX",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Mid-Level-Industrial-Security-Specialist_JR2026522422-1",
     "postedAt": "Posted 6 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced Quality Systems Specialist",
+    "location": "USA - Hialeah, FL",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
+    "postedAt": "Posted 13 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
@@ -6000,18 +6095,6 @@
     "firstSeenAt": "2026-08-22T07:47:49.702Z"
   },
   {
-    "id": "workday:analogdevices:/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264497",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Technician Student Intern",
-    "location": "Philippines, Cavite, GTC",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264497",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:49.702Z"
-  },
-  {
     "id": "workday:analogdevices:/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264498",
     "company": "Analog Devices",
     "sector": "chips",
@@ -6019,18 +6102,6 @@
     "location": "Philippines, Cavite, GTC",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264498",
     "postedAt": "Posted 24 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:49.702Z"
-  },
-  {
-    "id": "workday:analogdevices:/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264505",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Technician Student Intern",
-    "location": "Philippines, Cavite, GTC",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264505",
-    "postedAt": "Posted 5 Days Ago",
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-08-22T07:47:49.702Z"
@@ -7164,18 +7235,6 @@
     "firstSeenAt": "2026-08-22T07:47:49.375Z"
   },
   {
-    "id": "workday:intel:/job/US-Arizona-Phoenix/Tool-Install-Manager_JR0286551",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Tool Install Manager",
-    "location": "US, Arizona, Phoenix",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/Tool-Install-Manager_JR0286551",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:49.375Z"
-  },
-  {
     "id": "workday:intel:/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285035-1",
     "company": "Intel",
     "sector": "chips",
@@ -7231,6 +7290,18 @@
     "location": "Malaysia, Kulim",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Kulim/Automation-Operations-Infrastructure-Engineer_JR0286352",
     "postedAt": "Posted 12 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:49.375Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Arizona-Phoenix/Tool-Install-Manager_JR0286551",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Tool Install Manager",
+    "location": "US, Arizona, Phoenix",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Arizona-Phoenix/Tool-Install-Manager_JR0286551",
+    "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:49.375Z"
@@ -7764,24 +7835,24 @@
     "firstSeenAt": "2026-08-22T07:47:49.375Z"
   },
   {
-    "id": "workday:broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Reliability-Enginner_R026940",
-    "company": "Broadcom",
-    "sector": "chips",
-    "title": "Reliability Enginner",
-    "location": "2 Locations",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Reliability-Enginner_R026940",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:48.461Z"
-  },
-  {
     "id": "workday:broadcom:/job/Germany-Regensburg/R-D-Materials-Procurement-Buyer-ICB2_R026854",
     "company": "Broadcom",
     "sector": "chips",
     "title": "R&D Materials/Procurement Buyer ICB2",
     "location": "Germany-Regensburg",
     "url": "https://broadcom.wd1.myworkdayjobs.com/job/Germany-Regensburg/R-D-Materials-Procurement-Buyer-ICB2_R026854",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:48.461Z"
+  },
+  {
+    "id": "workday:broadcom:/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Reliability-Enginner_R026940",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "Reliability Enginner",
+    "location": "2 Locations",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Reliability-Enginner_R026940",
     "postedAt": "Posted 3 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -10713,78 +10784,6 @@
     "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:47.722Z"
-  },
-  {
-    "id": "workday:micron:/job/Minneapolis-MN/Principal-Digital-Design-Engineer---Chip-Lead_JR108944",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal Digital Design Engineer / Chip Lead",
-    "location": "3 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Minneapolis-MN/Principal-Digital-Design-Engineer---Chip-Lead_JR108944",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:47.722Z"
-  },
-  {
-    "id": "workday:micron:/job/Longmont-CO/Engineer--FW---Product-Test-Engineering_JR108871-1",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Engineer, FW & Product Test Engineering",
-    "location": "Longmont, CO",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Longmont-CO/Engineer--FW---Product-Test-Engineering_JR108871-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:47.722Z"
-  },
-  {
-    "id": "workday:micron:/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Intern - HBM SoC RTL Design Engineer",
-    "location": "Folsom, CA",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:47.722Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---Wet-Process-Fab-4-EDE_JR108959",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Intern - Wet Process Fab 4 EDE",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Wet-Process-Fab-4-EDE_JR108959",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:47.722Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/Intern---Photomask-Wet-Process-Engineering_JR108464",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Intern - Photomask Wet Process Engineering",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Intern---Photomask-Wet-Process-Engineering_JR108464",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:47.722Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/Emergency-Services-Technician_JR109587",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Emergency Services Technician",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Emergency-Services-Technician_JR109587",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:47.722Z"
   },
   {
