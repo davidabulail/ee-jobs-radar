@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:amat:/job/KirkkonummiFIN/Technical-Project-Manager_R2626932",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Technical Project Manager",
+    "location": "Kirkkonummi,FIN",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/KirkkonummiFIN/Technical-Project-Manager_R2626932",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T11:45:41.939Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineer_JR0286229",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Process Integration and Yield Engineer",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineer_JR0286229",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-24T11:45:40.509Z"
+  },
+  {
+    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Electrical-Engineer--Global-Facilities---Construction-North-Asia_JR107829-5",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Electrical Engineer, Global Facilities & Construction North Asia",
+    "location": "Hiroshima - Fab 15, Japan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/Electrical-Engineer--Global-Facilities---Construction-North-Asia_JR107829-5",
+    "postedAt": "Posted 3 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-24T11:45:39.075Z"
+  },
+  {
     "id": "workday:analogdevices:/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309",
     "company": "Analog Devices",
     "sector": "chips",
@@ -318,18 +354,6 @@
     "title": "Customer Integration Engineer (HBM)",
     "location": "Fab 10A, Singapore",
     "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Customer-Integration-Engineer--HBM-_JR108962",
-    "postedAt": "Posted Today",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T07:30:19.429Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---MTB-Taiwan/HBM-PRODUCTION-OPERATOR_JR107584",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "HBM PRODUCTION OPERATOR",
-    "location": "Taichung - MTB, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---MTB-Taiwan/HBM-PRODUCTION-OPERATOR_JR107584",
     "postedAt": "Posted Today",
     "isSummer2027": false,
     "isEE": false,
@@ -744,18 +768,6 @@
     "firstSeenAt": "2026-08-24T01:59:14.510Z"
   },
   {
-    "id": "workday:intel:/job/India-Bangalore/Principal-Engineer--Physical-Design_JR0279627",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Principal Engineer, Physical Design",
-    "location": "India, Bangalore",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/India-Bangalore/Principal-Engineer--Physical-Design_JR0279627",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-23T21:37:39.600Z"
-  },
-  {
     "id": "greenhouse:spacex:8571902002",
     "company": "SpaceX",
     "sector": "aero",
@@ -826,18 +838,6 @@
     "isSummer2027": true,
     "isEE": true,
     "firstSeenAt": "2026-08-23T16:45:05.121Z"
-  },
-  {
-    "id": "workday:amat:/job/Home--MobileAZ-001/Supplier-Engineer-IV_R2624989",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "Supplier Engineer IV",
-    "location": "Home / Mobile,AZ-001",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/Home--MobileAZ-001/Supplier-Engineer-IV_R2624989",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-23T07:03:11.906Z"
   },
   {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/Experienced-Systems-Engineer---Product-Owner_JR2026512628-1",
