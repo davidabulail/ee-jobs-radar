@@ -1,5 +1,161 @@
 [
   {
+    "id": "workday:boeing:/job/GBR---Wattisham-Airfield-UK/Aircraft-Maintenance-Apprentice--Lakenheath-Wattisham-_JR2026522412",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Aircraft Maintenance Apprentice (Lakenheath/Wattisham)",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Wattisham-Airfield-UK/Aircraft-Maintenance-Apprentice--Lakenheath-Wattisham-_JR2026522412",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:14.011Z"
+  },
+  {
+    "id": "workday:nvidia:/job/UK-Remote/Strategy-Analyst---UK_JR2024076",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Strategy Analyst - UK",
+    "location": "UK, Remote",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Strategy-Analyst---UK_JR2024076",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:13.352Z"
+  },
+  {
+    "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/MGR--F16N-DF-SINGLE-ME_JR109735",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, F16N DF SINGLE ME",
+    "location": "Miaoli - Tongluo, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Miaoli---Tongluo-Taiwan/MGR--F16N-DF-SINGLE-ME_JR109735",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/MGR--F16N-Diffusion-IMP-PEE_JR109731",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, F16N Diffusion_IMP PEE",
+    "location": "Miaoli - Tongluo, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Miaoli---Tongluo-Taiwan/MGR--F16N-Diffusion-IMP-PEE_JR109731",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/MGR--F16N-CVD-ME_JR109732",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, F16N CVD ME",
+    "location": "Miaoli - Tongluo, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Miaoli---Tongluo-Taiwan/MGR--F16N-CVD-ME_JR109732",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/MGR--F16-PVD-ME_JR109734",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, F16 PVD ME",
+    "location": "Miaoli - Tongluo, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Miaoli---Tongluo-Taiwan/MGR--F16-PVD-ME_JR109734",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Miaoli---Tongluo-Taiwan/MGR--F16N-TF-PVD-PEE_JR109730-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "MGR, F16N TF_PVD PEE",
+    "location": "Miaoli - Tongluo, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Miaoli---Tongluo-Taiwan/MGR--F16N-TF-PVD-PEE_JR109730-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/OMT-RAM-RDA-Process-Optimization-Engineer_JR94361",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "OMT RAM RDA Process Optimization Engineer",
+    "location": "Taichung - Fab 16, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/OMT-RAM-RDA-Process-Optimization-Engineer_JR94361",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10A-Singapore/FE-CPIE-BEOL-CPI-Senior-Engineer-Engineer_JR108983-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "SENIOR ENGINEER FRONT END(FE) CENTRAL PROCESS INTEGRATION ENGINEERING (CPIE)  PI",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/FE-CPIE-BEOL-CPI-Senior-Engineer-Engineer_JR108983-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10A-Singapore/Intern---FE-Materials-Procurement-Operations_JR108446",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Intern - FE Materials Procurement Operations",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Intern---FE-Materials-Procurement-Operations_JR108446",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Electrical-Shift-Technician---Facilities-Operations_JR107954",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Electrical Shift Technician – Facilities Operations",
+    "location": "Sanand - 303A - AT/SSD/MOD, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303A---ATSSDMOD-India/Electrical-Shift-Technician---Facilities-Operations_JR107954",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Electrical-Shift-Technician---Facilities-Operations_JR107958-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Electrical Shift Technician – Facilities Operations",
+    "location": "Sanand - 303A - AT/SSD/MOD, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Sanand---303A---ATSSDMOD-India/Electrical-Shift-Technician---Facilities-Operations_JR107958-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-25T09:02:11.256Z"
+  },
+  {
+    "id": "workday:broadcom:/job/USA-California--San-Jose---1730-Fox-Drive/hardware-engineer-3_R024940",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "hardware engineer 3",
+    "location": "USA-California- San Jose - 1730 Fox Drive",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-California--San-Jose---1730-Fox-Drive/hardware-engineer-3_R024940",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-25T09:02:10.788Z"
+  },
+  {
     "id": "workday:micron:/job/Taoyuan---Fab-11-Taiwan/Operation-Portfolio-Management-Office-Project-Manager_JR109526",
     "company": "Micron",
     "sector": "chips",
@@ -130,18 +286,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-25T08:00:22.749Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Lead-or-Senior-_JR2026512234-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "DSP Algorithms Engineer (Lead or Senior)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Lead-or-Senior-_JR2026512234-1",
-    "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-25T07:10:21.595Z"
   },
   {
     "id": "workday:analogdevices:/job/Philippines-Cavite-GTC/Technician-1--Product-Engineering--Mfg-_R265115",
@@ -814,18 +958,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-25T01:54:12.807Z"
-  },
-  {
-    "id": "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Events-Manager--Flagship-Events_JR2024031",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Senior Events Manager, Flagship Events",
-    "location": "US, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Senior-Events-Manager--Flagship-Events_JR2024031",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-25T01:54:11.204Z"
   },
   {
     "id": "workday:intel:/job/Malaysia-Penang/Module-Engineer_JR0285814",
@@ -30816,78 +30948,6 @@
     "firstSeenAt": "2026-08-24T05:55:13.393Z"
   },
   {
-    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Construction-Engineer--I-C-Instrumentation-and-Control-_JR105812-6",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Construction Engineer, I&C(Instrumentation and Control)",
-    "location": "Hiroshima - Fab 15, Japan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/Construction-Engineer--I-C-Instrumentation-and-Control-_JR105812-6",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T05:03:30.371Z"
-  },
-  {
-    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Construction-Electrical-Engineer_JR105809-24",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Construction Electrical Engineer",
-    "location": "Hiroshima - Fab 15, Japan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/Construction-Electrical-Engineer_JR105809-24",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-24T05:03:30.371Z"
-  },
-  {
-    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Construction-Mechanical-Engineer_JR107595-6",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Construction Mechanical Engineer",
-    "location": "Hiroshima - Fab 15, Japan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/Construction-Mechanical-Engineer_JR107595-6",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T05:03:30.371Z"
-  },
-  {
-    "id": "workday:micron:/job/Hiroshima---Fab-15-Japan/Construction-Chemical-Engineer_JR105592-6",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Construction Chemical Engineer",
-    "location": "Hiroshima - Fab 15, Japan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hiroshima---Fab-15-Japan/Construction-Chemical-Engineer_JR105592-6",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T05:03:30.371Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10A-Singapore/Director-Smart-Manufacturing---Artificial-Intelligent-SMAI--F10-Data-Science-DS-_JR109419",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Director Smart Manufacturing & Artificial Intelligent(SMAI) F10 Data Science(DS)",
-    "location": "Fab 10A, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/Director-Smart-Manufacturing---Artificial-Intelligent-SMAI--F10-Data-Science-DS-_JR109419",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T05:03:30.371Z"
-  },
-  {
-    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer--SSD-Validation_JR109158",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Engineer, SSD Validation",
-    "location": "Hyderabad - Phoenix Aquila, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Engineer--SSD-Validation_JR109158",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T05:03:30.371Z"
-  },
-  {
     "id": "workday:marvell:/job/US-TX---Austin/Senior-Staff-Physical-Verification-CAD-engineer_2603088",
     "company": "Marvell",
     "sector": "chips",
@@ -30910,54 +30970,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-24T03:18:32.604Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/Procurement-Svc-Delivery-Sr-Specialist_JR108814",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Procurement Svc Delivery Sr Specialist",
-    "location": "Taichung - Fab 16, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/Procurement-Svc-Delivery-Sr-Specialist_JR108814",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T03:18:29.944Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/Heteregenous-Integration-IE-Engineer_JR109403",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Heteregenous Integration IE Engineer",
-    "location": "Taichung - Fab 16, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/Heteregenous-Integration-IE-Engineer_JR109403",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T03:18:29.944Z"
-  },
-  {
-    "id": "workday:micron:/job/Kaohsiung-Taiwan/ASIC-Test-Engineer_JR109104",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "ASIC Test Engineer",
-    "location": "Kaohsiung, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Kaohsiung-Taiwan/ASIC-Test-Engineer_JR109104",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-24T03:18:29.944Z"
-  },
-  {
-    "id": "workday:micron:/job/Taichung---MTB-Taiwan/Shift-Engineer--MTB-PWF-THINNING_JR105484",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Shift Engineer, MTB PWF THINNING",
-    "location": "Taichung - MTB, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---MTB-Taiwan/Shift-Engineer--MTB-PWF-THINNING_JR105484",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-24T03:18:29.944Z"
   },
   {
     "id": "workday:kla:/job/Taichung-City-Taiwan/Customer-Engagement-Applications-Engineer_2639327",
@@ -33516,6 +33528,30 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
+    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-A-18-Airframe-Field-Service-Representative---Defense---Kuwait_JR2026503117-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "F/A-18 Airframe Field Service Representative - Defense - Kuwait",
+    "location": "USA - Hazelwood, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-A-18-Airframe-Field-Service-Representative---Defense---Kuwait_JR2026503117-2",
+    "postedAt": "Posted 7 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Project Management Specialist (General Project Mgmt)",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
+    "postedAt": "Posted 22 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Tukwila-WA/Mid-Level-Industrial-Security-Specialist_JR2026510166-2",
     "company": "Boeing",
     "sector": "aero",
@@ -33624,6 +33660,18 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
+    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "F-15SA Modifications Mechanic - Electrical - Saudi Arabia **Sign-On Bonus Potential**",
+    "location": "USA - Hazelwood, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
+    "postedAt": "Posted 25 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Seal-Beach-CA/XMLNAME-777-9-Deputy-Fleet-Chief--Senior-or-Principal-_JR2026512181-1",
     "company": "Boeing",
     "sector": "aero",
@@ -33708,13 +33756,13 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-A-18-Airframe-Field-Service-Representative---Defense---Kuwait_JR2026503117-2",
+    "id": "workday:boeing:/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
     "company": "Boeing",
     "sector": "aero",
-    "title": "F/A-18 Airframe Field Service Representative - Defense - Kuwait",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-A-18-Airframe-Field-Service-Representative---Defense---Kuwait_JR2026503117-2",
-    "postedAt": "Posted 7 Days Ago",
+    "title": "C++/Linux Software Engineer (Associate or Experienced Level)",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
+    "postedAt": "Posted 22 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
@@ -33751,42 +33799,6 @@
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/IT-Help-Desk-Technician---Millennium-Space-Systems_JR2026515233-1",
     "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Management Specialist (General Project Mgmt)",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
-    "postedAt": "Posted 22 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "F-15SA Modifications Mechanic - Electrical - Saudi Arabia **Sign-On Bonus Potential**",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
-    "postedAt": "Posted 25 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C++/Linux Software Engineer (Associate or Experienced Level)",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
-    "postedAt": "Posted 22 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
@@ -36744,6 +36756,18 @@
     "firstSeenAt": "2026-08-22T07:47:49.375Z"
   },
   {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/Accounting-Manager_JR0284963-1",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Accounting Manager",
+    "location": "2 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Accounting-Manager_JR0284963-1",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:49.375Z"
+  },
+  {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346",
     "company": "Intel",
     "sector": "chips",
@@ -36763,18 +36787,6 @@
     "location": "Ireland, Leixlip",
     "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/WPM-SORT-MODULE-PROCESS-ENGINEER_JR0286448",
     "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:49.375Z"
-  },
-  {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/Accounting-Manager_JR0284963-1",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Accounting Manager",
-    "location": "2 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Accounting-Manager_JR0284963-1",
-    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:49.375Z"
@@ -37893,18 +37905,6 @@
     "postedAt": "Posted 26 Days Ago",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:48.461Z"
-  },
-  {
-    "id": "workday:broadcom:/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-IC-Design_R026617-1",
-    "company": "Broadcom",
-    "sector": "chips",
-    "title": "R&D Engineer IC Design",
-    "location": "IND-Bangalore Electronic City - S1",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-IC-Design_R026617-1",
-    "postedAt": "Posted 27 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:48.461Z"
   },
   {
