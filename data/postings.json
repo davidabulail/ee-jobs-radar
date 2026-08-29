@@ -972,18 +972,6 @@
     "firstSeenAt": "2026-08-29T02:14:08.959Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Experienced-Quality-Specialist---Electrical-Test-Inspector_JR2026518773-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Quality Specialist – Electrical Test Inspector",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Experienced-Quality-Specialist---Electrical-Test-Inspector_JR2026518773-1",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-08-29T02:14:08.959Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Berkeley-MO/Agile---Release-Train-Engineer--RTE---Experienced-or-Senior-_JR2026522464-1",
     "company": "Boeing",
     "sector": "aero",
@@ -1005,6 +993,18 @@
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
+    "firstSeenAt": "2026-08-29T02:14:08.959Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Experienced-Quality-Specialist---Electrical-Test-Inspector_JR2026518773-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced Quality Specialist – Electrical Test Inspector",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Experienced-Quality-Specialist---Electrical-Test-Inspector_JR2026518773-1",
+    "postedAt": "Posted Yesterday",
+    "isSummer2027": false,
+    "isEE": true,
     "firstSeenAt": "2026-08-29T02:14:08.959Z"
   },
   {
@@ -35868,18 +35868,6 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) – Communications Intern",
-    "location": "7 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
-    "postedAt": "Posted 26 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
     "company": "Boeing",
     "sector": "aero",
@@ -35887,18 +35875,6 @@
     "location": "30 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
     "postedAt": "Posted 22 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
-    "location": "66 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
-    "postedAt": "Posted 26 Days Ago",
     "isSummer2027": true,
     "isEE": true,
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
@@ -35940,12 +35916,36 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
+    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
+    "location": "66 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
+    "postedAt": "Posted 26 Days Ago",
+    "isSummer2027": true,
+    "isEE": true,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992-1",
     "company": "Boeing",
     "sector": "aero",
     "title": "Boeing Summer 2027 Internship Program (Paid) - Global Real Estate and Facilities & Property Management",
     "location": "15 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Global-Real-Estate-and-Facilities---Property-Management_JR2026520992-1",
+    "postedAt": "Posted 26 Days Ago",
+    "isSummer2027": true,
+    "isEE": true,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Boeing Summer 2027 Internship Program (Paid) – Communications Intern",
+    "location": "7 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
     "postedAt": "Posted 26 Days Ago",
     "isSummer2027": true,
     "isEE": true,
@@ -36192,18 +36192,6 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Front of House / Administrative Assistant (m/f/d)",
-    "location": "DEU - Berlin, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
-    "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026516042-1",
     "company": "Boeing",
     "sector": "aero",
@@ -36288,18 +36276,6 @@
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Quality Systems Specialist",
-    "location": "USA - Hialeah, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
-    "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-08-22T07:47:50.572Z"
-  },
-  {
     "id": "workday:boeing:/job/GBR---Bristol-UK/XMLNAME-1st-Line-Support-Analyst_JR2026521641-3",
     "company": "Boeing",
     "sector": "aero",
@@ -36319,6 +36295,30 @@
     "location": "GBR - Bristol, UK",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/XMLNAME-1st-Line-Support-Analyst_JR2026521866",
     "postedAt": "Posted 17 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Front of House / Administrative Assistant (m/f/d)",
+    "location": "DEU - Berlin, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Berlin-Germany/Front-of-House---Administrative-Assistant--m-f-d-_JR2026521746-1",
+    "postedAt": "Posted 18 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-08-22T07:47:50.572Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced Quality Systems Specialist",
+    "location": "USA - Hialeah, FL",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1",
+    "postedAt": "Posted 18 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-08-22T07:47:50.572Z"
