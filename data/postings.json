@@ -3348,18 +3348,6 @@
     "firstSeenAt": "2026-10-02T18:27:35.708Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Renton-WA/Experienced-or-Senior-Airworthiness---Regulatory-Engineer_JR2026516979-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced or Senior Airworthiness & Regulatory Engineer",
-    "location": "USA - Renton, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Renton-WA/Experienced-or-Senior-Airworthiness---Regulatory-Engineer_JR2026516979-2",
-    "postedAt": "Posted Yesterday",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-02T18:27:35.708Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Flight-Software-Engineers--Associate---Experienced---Senior-_JR2026508868-1",
     "company": "Boeing",
     "sector": "aero",
@@ -3390,6 +3378,18 @@
     "title": "Project Engineer (Senior or Lead)",
     "location": "USA - Saint Charles, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026525893",
+    "postedAt": "Posted Yesterday",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-10-02T18:27:35.708Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Renton-WA/Experienced-or-Senior-Airworthiness---Regulatory-Engineer_JR2026516979-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced or Senior Airworthiness & Regulatory Engineer",
+    "location": "USA - Renton, WA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Renton-WA/Experienced-or-Senior-Airworthiness---Regulatory-Engineer_JR2026516979-2",
     "postedAt": "Posted Yesterday",
     "isSummer2027": false,
     "isEE": false,
@@ -41316,18 +41316,6 @@
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
-    "location": "66 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1",
     "company": "Boeing",
     "sector": "aero",
@@ -41346,6 +41334,18 @@
     "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
     "location": "30 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": true,
+    "isEE": true,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
+    "location": "66 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": true,
     "isEE": true,
@@ -41532,6 +41532,30 @@
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
+    "postedAt": "Posted 2 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
+    "location": "USA - North Charleston, SC",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
+    "postedAt": "Posted 2 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Facilities-Engineering_JR2026521015-1",
     "company": "Boeing",
     "sector": "aero",
@@ -41568,18 +41592,6 @@
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Engineering & Technology Innovation, Graduate Researcher Program – Advanced Materials & Structures Intern",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
     "company": "Boeing",
     "sector": "aero",
@@ -41598,18 +41610,6 @@
     "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Computational Fluid Dynamics (CFD) Intern",
     "location": "USA - Hazelwood, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
     "postedAt": "Posted 2 Days Ago",
     "isSummer2027": false,
     "isEE": true,
@@ -41688,54 +41688,6 @@
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Jacksonville-FL/P-8A-Field-Service-Rep---Defense---Canada--Mid-Level-and-Senior-_JR2026523530",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "P-8A Field Service Rep - Defense – Canada (Mid-Level and Senior)",
-    "location": "USA - Jacksonville, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Jacksonville-FL/P-8A-Field-Service-Rep---Defense---Canada--Mid-Level-and-Senior-_JR2026523530",
-    "postedAt": "Posted 16 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Management Specialist (General Project Mgmt)",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Experienced-Quality-Production-Specialist--Saudi-Arabia_JR2026515901-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Quality Production Specialist- Saudi Arabia",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Experienced-Quality-Production-Specialist--Saudi-Arabia_JR2026515901-1",
-    "postedAt": "Posted 19 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "F-15SA Modifications Mechanic - Electrical - Saudi Arabia **Sign-On Bonus Potential**",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026525236-2",
     "company": "Boeing",
     "sector": "aero",
@@ -41743,6 +41695,18 @@
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026525236-2",
     "postedAt": "Posted 10 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Jacksonville-FL/P-8A-Field-Service-Rep---Defense---Canada--Mid-Level-and-Senior-_JR2026523530",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "P-8A Field Service Rep - Defense – Canada (Mid-Level and Senior)",
+    "location": "USA - Jacksonville, FL",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Jacksonville-FL/P-8A-Field-Service-Rep---Defense---Canada--Mid-Level-and-Senior-_JR2026523530",
+    "postedAt": "Posted 16 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
@@ -41767,6 +41731,30 @@
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026524619-1",
     "postedAt": "Posted 18 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Project Management Specialist (General Project Mgmt)",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Hazelwood-MO/Experienced-Quality-Production-Specialist--Saudi-Arabia_JR2026515901-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced Quality Production Specialist- Saudi Arabia",
+    "location": "USA - Hazelwood, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Experienced-Quality-Production-Specialist--Saudi-Arabia_JR2026515901-1",
+    "postedAt": "Posted 19 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
@@ -41829,6 +41817,18 @@
     "postedAt": "Posted 9 Days Ago",
     "isSummer2027": false,
     "isEE": false,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "F-15SA Modifications Mechanic - Electrical - Saudi Arabia **Sign-On Bonus Potential**",
+    "location": "USA - Hazelwood, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
@@ -46404,18 +46404,6 @@
     "firstSeenAt": "2026-09-03T01:08:26.198Z"
   },
   {
-    "id": "greenhouse:epirus:5837114004",
-    "company": "Epirus",
-    "sector": "defense",
-    "title": "EEE Senior Procurement Agent (Contract)",
-    "location": "Torrance, California, United States",
-    "url": "https://www.epirusinc.com/open-roles?gh_jid=5837114004",
-    "postedAt": "2026-07-07T18:23:18-04:00",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-03T01:08:26.198Z"
-  },
-  {
     "id": "greenhouse:epirus:5979030004",
     "company": "Epirus",
     "sector": "defense",
@@ -46686,7 +46674,7 @@
     "title": "Senior Procurement Agent",
     "location": "Torrance, California, United States",
     "url": "https://www.epirusinc.com/open-roles?gh_jid=5995477004",
-    "postedAt": "2026-07-22T13:21:50-04:00",
+    "postedAt": "2026-10-03T09:18:11-04:00",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-09-03T01:08:26.198Z"
