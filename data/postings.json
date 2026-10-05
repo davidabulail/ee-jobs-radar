@@ -1,5 +1,77 @@
 [
   {
+    "id": "workday:nvidia:/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Data Processing Developer Technology Intern - 2027",
+    "location": "6 Locations",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+    "postedAt": "Posted Today",
+    "isSummer2027": true,
+    "isEE": true,
+    "firstSeenAt": "2026-10-05T00:58:37.825Z"
+  },
+  {
+    "id": "workday:intel:/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0287345",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Supply Chain Engineer",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0287345",
+    "postedAt": "Posted 12 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-10-05T00:58:37.378Z"
+  },
+  {
+    "id": "workday:micron:/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Intern - Memory Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-10-05T00:58:35.892Z"
+  },
+  {
+    "id": "workday:micron:/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Intern - Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-10-05T00:58:35.892Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-10-05T00:58:35.892Z"
+  },
+  {
+    "id": "workday:broadcom:/job/Singapore-Senoko/Senior-Epi---Fab-Process-Engineer_R027200-5",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "Senior Epi & Fab Process Engineer",
+    "location": "Singapore-Senoko",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/Singapore-Senoko/Senior-Epi---Fab-Process-Engineer_R027200-5",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-10-05T00:58:35.564Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Fort-Rucker-AL/Experienced-Logistics-Representative_JR2026525400-2",
     "company": "Boeing",
     "sector": "aero",
@@ -5124,42 +5196,6 @@
     "firstSeenAt": "2026-10-01T19:34:30.674Z"
   },
   {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/Change-Management-Engineer_JR83658",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Change Management Engineer",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Change-Management-Engineer_JR83658",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-01T19:34:30.674Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---RAM-RDA-Process-Engineer_JR110446",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "New College Grad - RAM RDA Process Engineer",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---RAM-RDA-Process-Engineer_JR110446",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-01T19:34:30.674Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---Main-Site/New-College-Grad---RAM-RDA-Process-Engineer_JR110445",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "New College Grad - RAM RDA Process Engineer",
-    "location": "Boise, ID - Main Site",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/New-College-Grad---RAM-RDA-Process-Engineer_JR110445",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-01T19:34:30.674Z"
-  },
-  {
     "id": "lever:palantir:26032bad-d713-429d-8b04-2de7db93b5c3",
     "company": "Palantir",
     "sector": "defense",
@@ -5422,18 +5458,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-01T13:22:46.076Z"
-  },
-  {
-    "id": "workday:nvidia:/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "Performance Software Intern, Deep Learning Libraries - 2027",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
-    "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-10-01T13:22:45.884Z"
   },
   {
     "id": "workday:marvell:/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253",
@@ -38748,18 +38772,6 @@
     "firstSeenAt": "2026-09-28T15:32:18.723Z"
   },
   {
-    "id": "workday:intel:/job/Ireland-Leixlip/Manufacturing-Technician-Traineeship_JR0287293",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Manufacturing Technician Traineeship",
-    "location": "Ireland, Leixlip",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/Ireland-Leixlip/Manufacturing-Technician-Traineeship_JR0287293",
-    "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-28T15:32:18.723Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Flight-Software-Engineer--Experienced-Senior-_JR2026521502-1",
     "company": "Boeing",
     "sector": "aero",
@@ -41472,6 +41484,30 @@
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
+    "id": "workday:boeing:/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Supply Chain Management Intern (Fixed Wing) - 12 Month Placement",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131",
+    "postedAt": "Posted 20 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
+    "id": "workday:boeing:/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Supply Chain Management Intern (Vertical Lift) - 12 Month Placement",
+    "location": "GBR - Gosport, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118",
+    "postedAt": "Posted 20 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-09-26T13:09:01.183Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1",
     "company": "Boeing",
     "sector": "aero",
@@ -41564,30 +41600,6 @@
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1",
     "postedAt": "Posted 9 Days Ago",
     "isSummer2027": true,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Supply Chain Management Intern (Fixed Wing) - 12 Month Placement",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131",
-    "postedAt": "Posted 20 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Supply Chain Management Intern (Vertical Lift) - 12 Month Placement",
-    "location": "GBR - Gosport, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118",
-    "postedAt": "Posted 20 Days Ago",
-    "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
