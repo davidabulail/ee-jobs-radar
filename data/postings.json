@@ -1,15 +1,27 @@
 [
   {
-    "id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Goods-Receiving-Inspector---Chemicals--f-m-d-_JR2026526506-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Goods Receiving Inspector – Chemicals (f/m/d)",
-    "location": "DEU - Henstedt-Ulzburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Henstedt-Ulzburg-Germany/Goods-Receiving-Inspector---Chemicals--f-m-d-_JR2026526506-1",
-    "postedAt": "Posted 9 Days Ago",
+    "id": "workday:amat:/job/SingaporeSGP/Executive-Assistant--Contract-Role-_R2630123",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Executive Assistant (Contract Role)",
+    "location": "Singapore,SGP",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/Executive-Assistant--Contract-Role-_R2630123",
+    "postedAt": "Posted 20 Days Ago",
     "isSummer2027": false,
     "isEE": false,
-    "firstSeenAt": "2026-10-24T23:18:11.824Z"
+    "firstSeenAt": "2026-10-25T14:24:53.896Z"
+  },
+  {
+    "id": "workday:amat:/job/TrevisoITA/Junior-System-Engineer--with-Software-skills-_R2610496",
+    "company": "Applied Materials",
+    "sector": "chips",
+    "title": "Junior System Engineer (with Software skills)",
+    "location": "Treviso,ITA",
+    "url": "https://amat.wd1.myworkdayjobs.com/job/TrevisoITA/Junior-System-Engineer--with-Software-skills-_R2610496",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-10-25T14:24:53.896Z"
   },
   {
     "id": "greenhouse:spacex:8906240002",
@@ -82,18 +94,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-24T11:07:06.462Z"
-  },
-  {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Structural-Analysis-Engineer_JR2026527488-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Structural Analysis Engineer",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Structural-Analysis-Engineer_JR2026527488-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-24T11:07:06.088Z"
   },
   {
     "id": "workday:marvell:/job/Santa-Clara-CA/Principal-Test-Development-Engineer_2604753",
@@ -250,30 +250,6 @@
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-10-23T22:14:09.636Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Technical-Lead-Engineer--PMPC-Software-Test-_JR2026522746-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Technical Lead Engineer (PMPC Software Test)",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Technical-Lead-Engineer--PMPC-Software-Test-_JR2026522746-2",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T22:14:08.940Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Wichita-KS/Experienced-Quality-Systems-Specialist_JR2026527733",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Quality Systems Specialist",
-    "location": "USA - Wichita, KS",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Wichita-KS/Experienced-Quality-Systems-Specialist_JR2026527733",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T22:14:08.940Z"
   },
   {
     "id": "workday:intel:/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
@@ -39024,42 +39000,6 @@
     "firstSeenAt": "2026-10-23T18:29:33.419Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Mission-Systems-Software-Test-Architect_JR2026520553-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mission Systems Software Test Architect",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Mission-Systems-Software-Test-Architect_JR2026520553-1",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T18:29:32.642Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Mission-Systems-Software-Test-and-Verification-Software-Lead_JR2026523443-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mission Systems Software Test and Verification Software Lead",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Mission-Systems-Software-Test-and-Verification-Software-Lead_JR2026523443-1",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-23T18:29:32.642Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---RAF-Lossiemouth-United-Kingdom/Software-Systems-Engineer_JR2026527726-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Software Systems Engineer",
-    "location": "GBR - RAF Lossiemouth, United Kingdom",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---RAF-Lossiemouth-United-Kingdom/Software-Systems-Engineer_JR2026527726-2",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T18:29:32.642Z"
-  },
-  {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230",
     "company": "Intel",
     "sector": "chips",
@@ -39180,270 +39120,6 @@
     "firstSeenAt": "2026-10-23T13:29:39.884Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Fullstack-Software-Engineer_JR2026524408-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Fullstack Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Fullstack-Software-Engineer_JR2026524408-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Software-Verification-Engineer_JR2026525159-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Software Verification Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Software-Verification-Engineer_JR2026525159-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---San-Antonio-TX/B-52-Field-Service-Rep---Defense_JR2026521257",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "B-52 Field Service Rep - Defense",
-    "location": "USA - San Antonio, TX",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/B-52-Field-Service-Rep---Defense_JR2026521257",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---JB-Andrews-MD/C-32A-and-C-40B-C-Experienced-Field-Service-Representative-Defense_JR2026522153-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C-32A and C-40B/C Experienced Field Service Representative-Defense",
-    "location": "USA - JB Andrews, MD",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---JB-Andrews-MD/C-32A-and-C-40B-C-Experienced-Field-Service-Representative-Defense_JR2026522153-2",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Holzdorf-AB-Germany/Helicopter-Maintenance-Technician--f-m-d-_JR2026521640-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Helicopter Maintenance Technician (f/m/d)",
-    "location": "DEU - Holzdorf AB, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Holzdorf-AB-Germany/Helicopter-Maintenance-Technician--f-m-d-_JR2026521640-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Engineering-Manager_JR2026525050-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Engineering Manager",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Engineering-Manager_JR2026525050-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Holzdorf-AB-Germany/Lead-Maintenance-Technician---Helicopters--f-m-d-_JR2026521638-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Lead Maintenance Technician - Helicopters (f/m/d)",
-    "location": "DEU - Holzdorf AB, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Holzdorf-AB-Germany/Lead-Maintenance-Technician---Helicopters--f-m-d-_JR2026521638-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---JB-Lewis-McChord-WA/Senior-C-17-General-Mechanic--Papa-AFB--Hungary-_JR2026521862-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior C-17 General Mechanic (Papa AFB, Hungary)",
-    "location": "USA - JB Lewis-McChord, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---JB-Lewis-McChord-WA/Senior-C-17-General-Mechanic--Papa-AFB--Hungary-_JR2026521862-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---JB-Lewis-McChord-WA/Experienced-C-17-General-Mechanic--Papa-AFB--Hungary-_JR2026523122-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced C-17 General Mechanic (Papa AFB, Hungary)",
-    "location": "USA - JB Lewis-McChord, WA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---JB-Lewis-McChord-WA/Experienced-C-17-General-Mechanic--Papa-AFB--Hungary-_JR2026523122-2",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Experienced-Frontend-Software-Engineer_JR2026524397-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Frontend Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Experienced-Frontend-Software-Engineer_JR2026524397-2",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Seat Structures Engineer (Mid-Level) (m/f/d) ",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Seat Structures Engineer / CVE (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mid-Level Structural Analysis Engineer – Wing & Empennage",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
-    "postedAt": "Posted 27 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/BDUK-Design-Lead_JR2026521367-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "BDUK Design Lead",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/BDUK-Design-Lead_JR2026521367-2",
-    "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Long-Beach-CA/Quality-Systems-Specialist--Quality-Multi-Function-_JR2026523448-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Quality Systems Specialist (Quality Multi-Function)",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/Quality-Systems-Specialist--Quality-Multi-Function-_JR2026523448-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/SGP---Singapore-Singapore/Customer-Support-Specialist_JR2026522404-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Customer Support Specialist",
-    "location": "SGP - Singapore, Singapore",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/SGP---Singapore-Singapore/Customer-Support-Specialist_JR2026522404-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/IDN---Jakarta-Indonesia/Customer-Support-Specialist--Customer-Support-Management-_JR2026524538-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Customer Support Specialist (Customer Support Management)",
-    "location": "IDN - Jakarta, Indonesia",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/IDN---Jakarta-Indonesia/Customer-Support-Specialist--Customer-Support-Management-_JR2026524538-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/QAT---Al-Udeid-AB-Qatar/Senior-NDT--Non-Destructive-Test--Quality-Test-Specialist_JR2026525807-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior NDT (Non-Destructive Test) Quality Test Specialist",
-    "location": "QAT - Al Udeid AB, Qatar",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/QAT---Al-Udeid-AB-Qatar/Senior-NDT--Non-Destructive-Test--Quality-Test-Specialist_JR2026525807-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Team-Lead---Product-Support--IPC-_JR2026526849-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Team Lead - Product Support (IPC)",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Team-Lead---Product-Support--IPC-_JR2026526849-1",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/JPN---Tokyo-Japan/Project-Management-Specialist---Tokyo--Japan_JR2026522247-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Management Specialist (Middle Level) - Tokyo, Japan",
-    "location": "JPN - Tokyo, Japan",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/JPN---Tokyo-Japan/Project-Management-Specialist---Tokyo--Japan_JR2026522247-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Vertical-Lift-Senior-Integration---Future-Programmes-Manager_JR2026524123-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Vertical Lift Senior Integration & Future Programmes Manager",
-    "location": "5 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Vertical-Lift-Senior-Integration---Future-Programmes-Manager_JR2026524123-2",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Systems-Engineer_JR2026527492-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Systems Engineer",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Systems-Engineer_JR2026527492-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T07:43:40.377Z"
-  },
-  {
     "id": "workday:intel:/job/Malaysia-Penang/Facilities-Engineering-Intern--Total-Gas-Chemical-Management-_JR0288473",
     "company": "Intel",
     "sector": "chips",
@@ -39468,18 +39144,6 @@
     "firstSeenAt": "2026-10-23T07:43:38.967Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026524316-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Software Systems Engineer",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026524316-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-23T01:33:27.246Z"
-  },
-  {
     "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Staff-CAD-Engineer_2604843-1",
     "company": "Marvell",
     "sector": "chips",
@@ -39502,18 +39166,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-23T01:33:25.506Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15-Flight-Line-APG-Technician---Qatar_JR2026520912-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "F-15 Flight Line APG Technician - Qatar",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15-Flight-Line-APG-Technician---Qatar_JR2026520912-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-22T22:22:12.440Z"
   },
   {
     "id": "lever:zoox:09924dfa-16b4-415a-828e-4ae7d903ecc2",
@@ -40848,30 +40500,6 @@
     "firstSeenAt": "2026-10-22T13:58:58.274Z"
   },
   {
-    "id": "workday:boeing:/job/ITA---Rome-Italy/EHS-Specialist--EHS-Program-Mgmt-_JR2026527602-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "EHS Specialist (EHS Program Mgmt)",
-    "location": "4 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/ITA---Rome-Italy/EHS-Specialist--EHS-Program-Mgmt-_JR2026527602-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-22T13:58:55.401Z"
-  },
-  {
-    "id": "workday:boeing:/job/ITA---Lonate-Pozzolo-Italy/Customer-Support-Specialist_JR2026524429-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Customer Support Specialist",
-    "location": "ITA - Lonate Pozzolo, Italy",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/ITA---Lonate-Pozzolo-Italy/Customer-Support-Specialist_JR2026524429-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-22T13:58:55.401Z"
-  },
-  {
     "id": "workday:intel:/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209",
     "company": "Intel",
     "sector": "chips",
@@ -40906,18 +40534,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-22T01:33:27.201Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Flight-Software-Engineers--Associate---Experienced---Senior-_JR2026508868-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Flight Software Engineers (Associate / Experienced / Senior)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Flight-Software-Engineers--Associate---Experienced---Senior-_JR2026508868-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-21T22:23:48.821Z"
   },
   {
     "id": "workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
@@ -43908,42 +43524,6 @@
     "firstSeenAt": "2026-10-21T13:51:01.252Z"
   },
   {
-    "id": "workday:boeing:/job/KWT---Al-Mubarak-AB-Kuwait/Product-Repair---Modification-Technician--Aerospace-Products-_JR2026527346-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Product Repair & Modification Technician (Aerospace Products)",
-    "location": "KWT - Al-Mubarak AB, Kuwait",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/KWT---Al-Mubarak-AB-Kuwait/Product-Repair---Modification-Technician--Aerospace-Products-_JR2026527346-1",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-21T13:50:59.678Z"
-  },
-  {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Software-DevOps-Engineer_JR2026526511-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Software DevOps Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Associate-Software-DevOps-Engineer_JR2026526511-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-21T13:50:59.678Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Kingsville-TX/Experienced-T-45-Field-Service-Rep---Defense_JR2026521386-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced T-45 Field Service Rep - Defense",
-    "location": "USA - Kingsville, TX",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Kingsville-TX/Experienced-T-45-Field-Service-Rep---Defense_JR2026521386-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-21T13:50:59.678Z"
-  },
-  {
     "id": "workday:intel:/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216",
     "company": "Intel",
     "sector": "chips",
@@ -44064,18 +43644,6 @@
     "firstSeenAt": "2026-10-21T07:42:57.502Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/XMLNAME-1st-Line-Support-Analyst_JR2026526166-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "1st Line Support Analyst",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/XMLNAME-1st-Line-Support-Analyst_JR2026526166-2",
-    "postedAt": "Posted 16 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-21T07:42:55.969Z"
-  },
-  {
     "id": "workday:marvell:/job/Taipei/Senior-Network-Administrator_2605111",
     "company": "Marvell",
     "sector": "chips",
@@ -44124,30 +43692,6 @@
     "firstSeenAt": "2026-10-21T01:38:29.083Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Sylmar-CA/Experienced-Executive-Assistant_JR2026527427-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Executive Assistant",
-    "location": "USA - Sylmar, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Sylmar-CA/Experienced-Executive-Assistant_JR2026527427-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T22:20:00.242Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Agile-Solutions-Manager_JR2026525039-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Agile Solutions Manager",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Agile-Solutions-Manager_JR2026525039-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T22:20:00.242Z"
-  },
-  {
     "id": "workday:intel:/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
     "company": "Intel",
     "sector": "chips",
@@ -44182,30 +43726,6 @@
     "isSummer2027": true,
     "isEE": true,
     "firstSeenAt": "2026-10-20T22:19:59.660Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Jacksonville-FL/P-8A-Support-Equipment-Tech-Keflavik--Iceland_JR2026511470-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "P-8A Support Equipment Tech Keflavik, Iceland",
-    "location": "USA - Jacksonville, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Jacksonville-FL/P-8A-Support-Equipment-Tech-Keflavik--Iceland_JR2026511470-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T18:29:17.820Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Embedded-Software-Engineer--Associate--Experienced--or-Senior-_JR2026518298-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Embedded Software Engineer (Associate, Experienced, or Senior)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Embedded-Software-Engineer--Associate--Experienced--or-Senior-_JR2026518298-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-20T18:29:17.820Z"
   },
   {
     "id": "workday:intel:/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213",
@@ -44304,18 +43824,6 @@
     "firstSeenAt": "2026-10-20T18:29:13.247Z"
   },
   {
-    "id": "workday:boeing:/job/QAT---Al-Udeid-AB-Qatar/Associate-Logistics-Services-Representative_JR2026517190-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Logistics Services Representative",
-    "location": "QAT - Al Udeid AB, Qatar",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/QAT---Al-Udeid-AB-Qatar/Associate-Logistics-Services-Representative_JR2026517190-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T13:35:01.305Z"
-  },
-  {
     "id": "workday:intel:/job/Malaysia-Penang/DFT-Design-Engineering-Intern_JR0288321",
     "company": "Intel",
     "sector": "chips",
@@ -44352,18 +43860,6 @@
     "firstSeenAt": "2026-10-20T07:38:14.976Z"
   },
   {
-    "id": "workday:kla:/job/Austin-TX/Regional-Applications-Development-Engineer_2639349",
-    "company": "KLA",
-    "sector": "chips",
-    "title": "Regional Applications Development Engineer",
-    "location": "Austin, TX",
-    "url": "https://kla.wd1.myworkdayjobs.com/job/Austin-TX/Regional-Applications-Development-Engineer_2639349",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T07:38:14.976Z"
-  },
-  {
     "id": "workday:kla:/job/Weilburg-Germany/Aushilfe-Lager--m-w-d-_2640493-1",
     "company": "KLA",
     "sector": "chips",
@@ -44388,6 +43884,18 @@
     "firstSeenAt": "2026-10-20T07:38:14.976Z"
   },
   {
+    "id": "workday:kla:/job/Austin-TX/Regional-Applications-Development-Engineer_2639349",
+    "company": "KLA",
+    "sector": "chips",
+    "title": "Regional Applications Development Engineer",
+    "location": "Austin, TX",
+    "url": "https://kla.wd1.myworkdayjobs.com/job/Austin-TX/Regional-Applications-Development-Engineer_2639349",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-10-20T07:38:14.976Z"
+  },
+  {
     "id": "workday:kla:/job/Phoenix-AZ/Buyer-Planner_2640247-1",
     "company": "KLA",
     "sector": "chips",
@@ -44398,18 +43906,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-20T07:38:14.976Z"
-  },
-  {
-    "id": "workday:boeing:/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Field-Services-Customer-Engineer_JR2026526168-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C-17 Field Services Customer Engineer",
-    "location": "KWT - Al-Mubarak AB, Kuwait",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Field-Services-Customer-Engineer_JR2026526168-1",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T07:38:14.274Z"
   },
   {
     "id": "workday:intel:/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261",
@@ -44458,18 +43954,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-20T07:38:11.745Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Lead-Project-Engineer--F-18-Programs-_JR2026514396-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Lead Project Engineer (F-18 Programs)",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Lead-Project-Engineer--F-18-Programs-_JR2026514396-1",
-    "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-20T01:51:50.887Z"
   },
   {
     "id": "workday:marvell:/job/Irvine-CA/Senior-Staff-Hardware-Design-Engineer_2603621",
@@ -44664,18 +44148,6 @@
     "firstSeenAt": "2026-10-19T04:46:07.674Z"
   },
   {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026524409-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Associate Fullstack Software Engineer",
-    "location": "POL - Gdansk, Poland",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/Associate-Fullstack-Software-Engineer_JR2026524409-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-17T04:32:30.363Z"
-  },
-  {
     "id": "workday:marvell:/job/Santa-Clara-CA/Principal-Product-Manager---Platforms_2604887",
     "company": "Marvell",
     "sector": "chips",
@@ -44710,18 +44182,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-16T23:40:29.171Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026518646-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Industrial Security Specialist – Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026518646-1",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T21:13:46.703Z"
   },
   {
     "id": "workday:marvell:/job/Santa-Clara-CA/Network-Engineer-AI-Fabrics-Architect--AI-Solutions-Lab_2604957",
@@ -44784,66 +44244,6 @@
     "firstSeenAt": "2026-10-16T17:27:44.250Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Nordholz-NAB-Germany/Internationa-Operations-Support-Specialist---P8--Poseidon-programme_JR2026525572-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "International Operations Support Specialist - P8  Poseidon programme",
-    "location": "DEU - Nordholz NAB, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Nordholz-NAB-Germany/Internationa-Operations-Support-Specialist---P8--Poseidon-programme_JR2026525572-2",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T17:27:41.743Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026525236-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Global Trade Controls Specialist – Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026525236-2",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T17:27:41.743Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026525893",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Engineer (Senior or Lead)",
-    "location": "USA - Saint Charles, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Saint-Charles-MO/Project-Engineer--Senior-or-Lead-_JR2026525893",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T17:27:41.743Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026524619-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Industrial Security Specialist – Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026524619-1",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T17:27:41.743Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Data-Fusion-Systems-Software-Engineer-Analyst--Associate--Experienced-or-Senior-_JR2026526826-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Data Fusion Systems Software Engineer/Analyst (Associate, Experienced or Senior)",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Data-Fusion-Systems-Software-Engineer-Analyst--Associate--Experienced-or-Senior-_JR2026526826-1",
-    "postedAt": "Posted 6 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T17:27:41.743Z"
-  },
-  {
     "id": "workday:intel:/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
     "company": "Intel",
     "sector": "chips",
@@ -44892,42 +44292,6 @@
     "firstSeenAt": "2026-10-16T12:31:41.624Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/IPT-Lead---Engineering-Project-Manager---Millennium-Space-Systems_JR2026524396-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "IPT Lead / Engineering Project Manager - Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/IPT-Lead---Engineering-Project-Manager---Millennium-Space-Systems_JR2026524396-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T07:14:18.061Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Satellite-Data-Systems-Full-Stack-Software-Engineer--Experienced-or-Senior-_JR2026522660-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Satellite Data Systems Full-Stack Software Engineer (Experienced or Senior)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Satellite-Data-Systems-Full-Stack-Software-Engineer--Experienced-or-Senior-_JR2026522660-1",
-    "postedAt": "Posted 19 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T07:14:18.061Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Test-Operations-Lead--Level-4-or-5-_JR2026526046",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Test Operations Lead (Level 4 or 5)",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Test-Operations-Lead--Level-4-or-5-_JR2026526046",
-    "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T07:14:18.061Z"
-  },
-  {
     "id": "workday:intel:/job/PRC-Shanghai/Software-Engineering-Intern_JR0288193",
     "company": "Intel",
     "sector": "chips",
@@ -44940,18 +44304,6 @@
     "firstSeenAt": "2026-10-16T07:14:17.127Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Ground-Software-Engineer--Senior----Millennium-Space-Systems_JR2026525681-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Ground Software Engineer (Senior) - Millennium Space Systems",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Ground-Software-Engineer--Senior----Millennium-Space-Systems_JR2026525681-1",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-16T01:24:27.815Z"
-  },
-  {
     "id": "ashby:saronic:846faa91-763f-4c16-aec5-2cd48830d3ff",
     "company": "Saronic",
     "sector": "marine",
@@ -44962,18 +44314,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-16T01:24:23.560Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Software Engineer | Vehicle Management Systems (Associate or Experienced)",
-    "location": "USA - Seal Beach, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1",
-    "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-15T22:22:42.505Z"
   },
   {
     "id": "workday:marvell:/job/Toronto-Canada/DSP---Systems-Architecture-Intern_2604806-1",
@@ -45240,30 +44580,6 @@
     "firstSeenAt": "2026-10-15T07:29:46.054Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Huntsville-AL/Lead-or-Senior-Responsible-Engineer---PAC-3-Seeker-IPT_JR2026508458-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Lead or Senior Responsible Engineer - PAC-3 Seeker IPT",
-    "location": "USA - Huntsville, AL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Huntsville-AL/Lead-or-Senior-Responsible-Engineer---PAC-3-Seeker-IPT_JR2026508458-1",
-    "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-15T07:29:44.959Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Senior-Seat-Systems-Software-Certification-Engineer_JR2026514690-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Seat Systems Software Certification Engineer",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Senior-Seat-Systems-Software-Certification-Engineer_JR2026514690-2",
-    "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-15T07:29:44.959Z"
-  },
-  {
     "id": "workday:intel:/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217",
     "company": "Intel",
     "sector": "chips",
@@ -45444,18 +44760,6 @@
     "firstSeenAt": "2026-10-14T18:40:10.904Z"
   },
   {
-    "id": "workday:boeing:/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced Software Engineer–Systems (Systems)",
-    "location": "USA - Tinker AFB, OK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740",
-    "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-14T18:40:08.566Z"
-  },
-  {
     "id": "workday:marvell:/job/Santa-Clara-CA/Senior-Principal-Switch-Architect_2604929",
     "company": "Marvell",
     "sector": "chips",
@@ -45538,18 +44842,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-14T18:40:03.237Z"
-  },
-  {
-    "id": "workday:boeing:/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C++/Linux Software Engineer (Associate or Experienced Level)",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
-    "postedAt": "Posted 25 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-14T13:46:09.233Z"
   },
   {
     "id": "workday:intel:/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897",
@@ -45670,30 +44962,6 @@
     "isSummer2027": true,
     "isEE": true,
     "firstSeenAt": "2026-10-13T22:48:32.016Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Colorado-Springs-CO/Senior-DevSecOps-Software-Engineer_JR2026525334-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior DevSecOps Software Engineer",
-    "location": "USA - Colorado Springs, CO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Colorado-Springs-CO/Senior-DevSecOps-Software-Engineer_JR2026525334-1",
-    "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-13T22:48:31.963Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Astrodynamics-Software-Engineer--Associate-Experienced-Senior-_JR2026518455-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Astrodynamics Software Engineer (Associate/Experienced/Senior)",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Astrodynamics-Software-Engineer--Associate-Experienced-Senior-_JR2026518455-1",
-    "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-13T22:48:31.963Z"
   },
   {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
@@ -46044,18 +45312,6 @@
     "firstSeenAt": "2026-10-13T09:28:30.051Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Yeovil-UK/Logistics-and-Supply-Coordinator_JR2026526606-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Logistics and Supply Coordinator",
-    "location": "GBR - Yeovil, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Yeovil-UK/Logistics-and-Supply-Coordinator_JR2026526606-1",
-    "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-13T09:28:28.985Z"
-  },
-  {
     "id": "workday:intel:/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647",
     "company": "Intel",
     "sector": "chips",
@@ -46140,42 +45396,6 @@
     "firstSeenAt": "2026-10-12T19:49:49.808Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Working-Student--m-f-d----SAP-S-4HANA-Stabilization---FPY-Improvement_JR2026519879-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Working Student (m/f/d) – SAP S/4HANA Stabilization & FPY Improvement",
-    "location": "DEU - Henstedt-Ulzburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Henstedt-Ulzburg-Germany/Working-Student--m-f-d----SAP-S-4HANA-Stabilization---FPY-Improvement_JR2026519879-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-12T19:49:48.248Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Yeovil-UK/System-Safety-and-Environmental-Engineering-Manager_JR2026525587-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "System Safety and Environmental Engineering Manager",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Yeovil-UK/System-Safety-and-Environmental-Engineering-Manager_JR2026525587-3",
-    "postedAt": "Posted 5 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-12T19:49:48.248Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Farnborough-UK/C-17-ITC-Maintenance-Instructor_JR2026525693-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C-17 ITC Maintenance Instructor",
-    "location": "GBR - Farnborough, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Farnborough-UK/C-17-ITC-Maintenance-Instructor_JR2026525693-2",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-12T19:49:48.248Z"
-  },
-  {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975",
     "company": "Intel",
     "sector": "chips",
@@ -46258,42 +45478,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-12T09:17:19.620Z"
-  },
-  {
-    "id": "workday:boeing:/job/KWT---Al-Mubarak-AB-Kuwait/Product-Repair---Modifications-Technician_JR2026523251-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Product Repair & Modifications Technician",
-    "location": "KWT - Al-Mubarak AB, Kuwait",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/KWT---Al-Mubarak-AB-Kuwait/Product-Repair---Modifications-Technician_JR2026523251-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-12T09:17:18.368Z"
-  },
-  {
-    "id": "workday:boeing:/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Lead-Coordinator_JR2026523250-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "C-17 Lead Coordinator",
-    "location": "KWT - Al-Mubarak AB, Kuwait",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Lead-Coordinator_JR2026523250-1",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-12T09:17:18.368Z"
-  },
-  {
-    "id": "workday:boeing:/job/KWT---Al-Mubarak-AB-Kuwait/Product-Repair---Modifications-Technician_JR2026524770",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Product Repair & Modifications Technician",
-    "location": "KWT - Al-Mubarak AB, Kuwait",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/KWT---Al-Mubarak-AB-Kuwait/Product-Repair---Modifications-Technician_JR2026524770",
-    "postedAt": "Posted 13 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-12T09:17:18.368Z"
   },
   {
     "id": "workday:kla:/job/Singapore-Singapore/Mechanical-Engineering-Intern_2635340",
@@ -46620,18 +45804,6 @@
     "firstSeenAt": "2026-10-10T01:46:31.391Z"
   },
   {
-    "id": "workday:amat:/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "College Intern - GT Indigo Inter-Die Gapfill Process and Integration for 3DIC",
-    "location": "Singapore,SGP",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern---GT-Indigo-Inter-Die-Gapfill-Process-and-Integration-for-3DIC_R2626651",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-10T01:46:31.391Z"
-  },
-  {
     "id": "workday:amat:/job/TrevisoITA/Supplier-Industrial-Engineer--Internship-_R2613391",
     "company": "Applied Materials",
     "sector": "chips",
@@ -46878,18 +46050,6 @@
     "title": "College Intern - Process & hardware development in PVD Al chambers for N3,N5 and more advanced nodes.",
     "location": "Singapore,SGP",
     "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-Al-chambers-for-N3-N5-and-more-advanced-nodes_R2626935",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-10T01:46:31.391Z"
-  },
-  {
-    "id": "workday:amat:/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-new-films--AlN-as-thermal-interface-material--TIM---SiN-as-photonic-waveguide-_R2626934",
-    "company": "Applied Materials",
-    "sector": "chips",
-    "title": "College Intern - Process & hardware development in PVD chambers for new films: AlN as thermal interface material (TIM), SiN as photonic waveguide .",
-    "location": "Singapore,SGP",
-    "url": "https://amat.wd1.myworkdayjobs.com/job/SingaporeSGP/College-Intern---Process---hardware-development-in-PVD-chambers-for-new-films--AlN-as-thermal-interface-material--TIM---SiN-as-photonic-waveguide-_R2626934",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": true,
@@ -47904,18 +47064,6 @@
     "firstSeenAt": "2026-10-07T22:01:14.866Z"
   },
   {
-    "id": "workday:boeing:/job/GBR---Middle-Wallop-UK/Aircraft-Maintenance-Technician--Pathway-Route-to-Aero-Programme-_JR2026526291-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Aircraft Maintenance Technician (Pathway Route to Aero Programme)",
-    "location": "GBR - Middle Wallop, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Middle-Wallop-UK/Aircraft-Maintenance-Technician--Pathway-Route-to-Aero-Programme-_JR2026526291-3",
-    "postedAt": "Posted 12 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-07T16:33:40.357Z"
-  },
-  {
     "id": "workday:intel:/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884",
     "company": "Intel",
     "sector": "chips",
@@ -48060,30 +47208,6 @@
     "firstSeenAt": "2026-10-06T21:42:36.857Z"
   },
   {
-    "id": "workday:boeing:/job/USA---NAS-Jacksonville-FL/Mid-Level-P-8-Maintenance-Technician---Canada_JR2026525886-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mid-Level P-8 Maintenance Technician - Canada",
-    "location": "USA - NAS Jacksonville, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---NAS-Jacksonville-FL/Mid-Level-P-8-Maintenance-Technician---Canada_JR2026525886-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-06T21:42:35.524Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---NAS-Jacksonville-FL/Mid-Level-P-8-Avionics-Technician---Canada_JR2026525897-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mid-Level P-8 Avionics Technician - Canada",
-    "location": "USA - NAS Jacksonville, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---NAS-Jacksonville-FL/Mid-Level-P-8-Avionics-Technician---Canada_JR2026525897-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-06T21:42:35.524Z"
-  },
-  {
     "id": "workday:intel:/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
     "company": "Intel",
     "sector": "chips",
@@ -48142,30 +47266,6 @@
     "isSummer2027": false,
     "isEE": true,
     "firstSeenAt": "2026-10-06T21:42:31.509Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Hounslow-UK/Facilities-Management-Intern---Summer-2027_JR2026525476",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Facilities Management Intern - Summer 2027",
-    "location": "GBR - Hounslow, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Hounslow-UK/Facilities-Management-Intern---Summer-2027_JR2026525476",
-    "postedAt": "Posted 19 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-10-06T17:13:58.490Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Sustainability Intern – Global Real Estate & Facilities - 12 Month Placement",
-    "location": "GBR - Hounslow, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Hounslow-UK/Sustainability-Intern---Global-Real-Estate---Facilities---12-Month-Placement_JR2026525481",
-    "postedAt": "Posted 19 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-10-06T17:13:58.490Z"
   },
   {
     "id": "workday:marvell:/job/Santa-Clara-CA/AVP--Supply-Chain-Program-Management_2604963",
@@ -48334,18 +47434,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-10-05T16:05:24.756Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Occupational--Health-and-Safety--EHS--Specialist--Mid-Level-or-Senior-_JR2026519936-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Occupational, Health and Safety (EHS) Specialist (Mid-Level or Senior)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Occupational--Health-and-Safety--EHS--Specialist--Mid-Level-or-Senior-_JR2026519936-1",
-    "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-10-05T16:05:03.250Z"
   },
   {
     "id": "workday:intel:/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675",
@@ -50626,294 +49714,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-09-26T13:09:01.954Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Gosport-UK/Commercial-Intern_JR2026522032-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Commercial Intern",
-    "location": "GBR - Gosport, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Gosport-UK/Commercial-Intern_JR2026522032-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Prestwick-UK/Engineering-Intern---Summer-2027_JR2026520518",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Engineering Intern - Summer 2027",
-    "location": "GBR - Prestwick, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Prestwick-UK/Engineering-Intern---Summer-2027_JR2026520518",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Prestwick-UK/Project-Management-Intern--Summer-2027_JR2026520348",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Management Intern- Summer 2027",
-    "location": "GBR - Prestwick, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Prestwick-UK/Project-Management-Intern--Summer-2027_JR2026520348",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Farnborough-UK/Aerodynamics-Engineering-Intern--Summer-2027_JR2026519329",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Aerodynamics Engineering Intern- Summer 2027",
-    "location": "GBR - Farnborough, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Farnborough-UK/Aerodynamics-Engineering-Intern--Summer-2027_JR2026519329",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Finance-Intern---12-Months-Placement_JR2026519348",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Finance Intern - 12 Months Placement",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Finance-Intern---12-Months-Placement_JR2026519348",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Commercial-Intern--12-Months-Placement_JR2026518684-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Commercial Intern- 12 Months Placement",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Commercial-Intern--12-Months-Placement_JR2026518684-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Crawley-UK/Simulator-Engineering-Intern---12-Month-Placement_JR2026521374",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Simulator Engineering Intern - 12 Month Placement",
-    "location": "GBR - Crawley, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Crawley-UK/Simulator-Engineering-Intern---12-Month-Placement_JR2026521374",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Frimley-UK/Program-Management-Intern--12-Month-Placement_JR2026519446",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Program Management Intern- 12 Month Placement",
-    "location": "GBR - Frimley, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Frimley-UK/Program-Management-Intern--12-Month-Placement_JR2026519446",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Finance-Intern--Accounting----12-Month-Placement_JR2026520252",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Finance Intern (Accounting) - 12 Month Placement",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Finance-Intern--Accounting----12-Month-Placement_JR2026520252",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Prestwick-UK/Research-and-Technology-Intern--Summer-2027_JR2026520512",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Research and Technology Intern- Summer 2027",
-    "location": "GBR - Prestwick, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Prestwick-UK/Research-and-Technology-Intern--Summer-2027_JR2026520512",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Frimley-UK/PMO-Analyst-Intern---12-Month-Placement_JR2026523028",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "PMO Analyst Intern - 12 Month Placement",
-    "location": "GBR - Frimley, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Frimley-UK/PMO-Analyst-Intern---12-Month-Placement_JR2026523028",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--Summer-2027_JR2026524227",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Support Engineering Data Intern- Summer 2027",
-    "location": "GBR - Welwyn Garden City, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--Summer-2027_JR2026524227",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Talent-Acquisition-Intern---12-Month-Placement_JR2026524412",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Talent Acquisition Intern - 12 Month Placement",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Talent-Acquisition-Intern---12-Month-Placement_JR2026524412",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--12-Month-Placement_JR2026520888",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Support Engineering Data Intern- 12 Month Placement",
-    "location": "GBR - Welwyn Garden City, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--12-Month-Placement_JR2026520888",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-    "location": "30 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
-    "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Human Resources Services Specialist Intern - 12 Months Placement",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Human-Resources-Services-Specialist-Intern---12-Months-Placement_JR2026523025",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) - Supply Chain",
-    "location": "33 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Methods-Process-Analyst_JR2026519532-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (Paid) - Methods Process Analyst",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Methods-Process-Analyst_JR2026519532-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Boeing Summer 2027 Internship Program (PAID) – Finance (Evergreen)",
-    "location": "16 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1",
-    "postedAt": "Posted 30 Days Ago",
-    "isSummer2027": true,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Supply Chain Management Intern (Fixed Wing) - 12 Month Placement",
-    "location": "3 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Bristol-UK/Supply-Chain-Management-Intern--Fixed-Wing----12-Month-Placement_JR2026522131",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Supply Chain Management Intern (Vertical Lift) - 12 Month Placement",
-    "location": "GBR - Gosport, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Gosport-UK/Supply-Chain-Management-Intern--Vertical-Lift----12-Month-Placement_JR2026522118",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/GBR---Sheffield-UK/Manufacturing-Engineering-Internship_JR2026524411",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Manufacturing Engineering Internship",
-    "location": "GBR - Sheffield, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/GBR---Sheffield-UK/Manufacturing-Engineering-Internship_JR2026524411",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Project Management Specialist (General Project Mgmt)",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "F-15SA Modifications Mechanic - Electrical - Saudi Arabia **Sign-On Bonus Potential**",
-    "location": "USA - Hazelwood, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3",
-    "postedAt": "Posted 18 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-09-26T13:09:01.183Z"
   },
   {
     "id": "workday:intel:/job/Malaysia-Penang/Finance-Intern_JR0287470",
