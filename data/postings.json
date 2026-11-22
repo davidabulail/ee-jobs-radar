@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:micron:/job/Tainan-Taiwan/TECHNICIAN--TCP-PROD_JR118233-1",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "TECHNICIAN, TCP PROD.",
+    "location": "Tainan, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Tainan-Taiwan/TECHNICIAN--TCP-PROD_JR118233-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-22T21:50:18.618Z"
+  },
+  {
     "id": "workday:amat:/job/LeixlipIRL/Field-Service---Early-Career-Engineers_R2617457",
     "company": "Applied Materials",
     "sector": "chips",
@@ -36636,18 +36648,6 @@
     "firstSeenAt": "2026-11-19T13:17:11.986Z"
   },
   {
-    "id": "workday:micron:/job/MSB-Singapore/Intern---STPG-Product-System_JR111189",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Intern - STPG Product System",
-    "location": "MSB, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Intern---STPG-Product-System_JR111189",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-11-19T13:17:11.986Z"
-  },
-  {
     "id": "lever:zoox:8356bb90-10cf-4c91-ba81-11acff1bdf60",
     "company": "Zoox",
     "sector": "auto",
@@ -40656,24 +40656,24 @@
     "firstSeenAt": "2026-11-18T22:00:20.870Z"
   },
   {
-    "id": "workday:boeing:/job/USA---El-Segundo-CA/Experienced-or-Senior-Procurement-Analyst_JR2026527568-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Experienced or Senior Procurement Analyst",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Experienced-or-Senior-Procurement-Analyst_JR2026527568-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-18T22:00:20.870Z"
-  },
-  {
     "id": "workday:boeing:/job/DEU---Munich-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026527442-2",
     "company": "Boeing",
     "sector": "aero",
     "title": "CVE / Senior Part 21J Structures Engineer (m/f/d)",
     "location": "2 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Munich-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026527442-2",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-18T22:00:20.870Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---El-Segundo-CA/Experienced-or-Senior-Procurement-Analyst_JR2026527568-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Experienced or Senior Procurement Analyst",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Experienced-or-Senior-Procurement-Analyst_JR2026527568-2",
     "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -45828,18 +45828,6 @@
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
-    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Engineering-Manager_JR2026525050-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Engineering Manager",
-    "location": "UKR - Kyiv, Ukraine",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Engineering-Manager_JR2026525050-2",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
     "id": "workday:boeing:/job/DEU---Holzdorf-AB-Germany/Helicopter-Maintenance-Technician--f-m-d-_JR2026521640-1",
     "company": "Boeing",
     "sector": "aero",
@@ -45847,6 +45835,18 @@
     "location": "DEU - Holzdorf AB, Germany",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Holzdorf-AB-Germany/Helicopter-Maintenance-Technician--f-m-d-_JR2026521640-1",
     "postedAt": "Posted 22 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
+    "id": "workday:boeing:/job/UKR---Kyiv-Ukraine/Engineering-Manager_JR2026525050-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Engineering Manager",
+    "location": "UKR - Kyiv, Ukraine",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/UKR---Kyiv-Ukraine/Engineering-Manager_JR2026525050-2",
+    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
@@ -45871,6 +45871,30 @@
     "location": "USA - SeaTac, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---SeaTac-WA/Experienced-Transportation-Analyst_JR2026526749-1",
     "postedAt": "Posted 9 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Seat Structures Engineer (Mid-Level) (m/f/d) ",
+    "location": "DEU - Hamburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
+    "postedAt": "Posted 21 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026527302-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Manager, Seat Integration Team (m/f/d)",
+    "location": "DEU - Hamburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026527302-1",
+    "postedAt": "Posted 23 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
@@ -45924,25 +45948,37 @@
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Seat Structures Engineer (Mid-Level) (m/f/d) ",
+    "title": "Senior Seat Structures Engineer / CVE (m/f/d)",
     "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
     "postedAt": "Posted 21 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026527302-1",
+    "id": "workday:boeing:/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
     "company": "Boeing",
     "sector": "aero",
-    "title": "Senior Manager, Seat Integration Team (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026527302-1",
-    "postedAt": "Posted 23 Days Ago",
+    "title": "Mid-Level Structural Analysis Engineer – Wing & Empennage",
+    "location": "USA - North Charleston, SC",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Project-Engineer--Connectivity---m-f-d-_JR2026527355",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Project Engineer (Connectivity) (m/f/d)",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Project-Engineer--Connectivity---m-f-d-_JR2026527355",
+    "postedAt": "Posted 20 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
@@ -46092,18 +46128,6 @@
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Project-Engineer--Connectivity---m-f-d-_JR2026527355",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Project Engineer (Connectivity) (m/f/d)",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Project-Engineer--Connectivity---m-f-d-_JR2026527355",
-    "postedAt": "Posted 20 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
     "id": "workday:boeing:/job/GBR---Yeovil-UK/Project-Engineer_JR2026526590-2",
     "company": "Boeing",
     "sector": "aero",
@@ -46171,30 +46195,6 @@
     "location": "USA - Kennedy Space Center, FL",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Kennedy-Space-Center-FL/X-37B-Senior-Project-Engineer_JR2026524007-1",
     "postedAt": "Posted 9 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Seat Structures Engineer / CVE (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "postedAt": "Posted 21 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mid-Level Structural Analysis Engineer – Wing & Empennage",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
-    "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
