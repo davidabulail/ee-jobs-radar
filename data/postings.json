@@ -1,5 +1,185 @@
 [
   {
+    "id": "workday:nvidia:/job/Germany-Munich/Software-Engineering-Intern_JR2029967",
+    "company": "NVIDIA",
+    "sector": "chips",
+    "title": "Software Engineering Intern",
+    "location": "Germany, Munich",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Software-Engineering-Intern_JR2029967",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-11-23T02:50:34.251Z"
+  },
+  {
+    "id": "workday:boeing:/job/AUS---Brisbane-Australia/IP-Strategy-and-Protection-Specialist_JR2026529599-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "IP Strategy and Protection Specialist",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/AUS---Brisbane-Australia/IP-Strategy-and-Protection-Specialist_JR2026529599-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:33.866Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Ridley-Park-PA/Mid-Level-H-47-Chinook-Systems-Engineer_JR2026527310-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Mid-Level H-47 Chinook Systems Engineer",
+    "location": "USA - Ridley Park, PA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Ridley-Park-PA/Mid-Level-H-47-Chinook-Systems-Engineer_JR2026527310-1",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:33.866Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---Sylmar-CA/Associate-Semiconductor-Assembler_JR2026527566-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Associate Semiconductor Assembler",
+    "location": "USA - Sylmar, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Sylmar-CA/Associate-Semiconductor-Assembler_JR2026527566-2",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": true,
+    "firstSeenAt": "2026-11-23T02:50:33.866Z"
+  },
+  {
+    "id": "workday:intel:/job/Malaysia-Penang/Systems-Software-Development--Engineer_JR0288923",
+    "company": "Intel",
+    "sector": "chips",
+    "title": "Systems Software Development  Engineer",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/Malaysia-Penang/Systems-Software-Development--Engineer_JR0288923",
+    "postedAt": "Posted 10 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:33.814Z"
+  },
+  {
+    "id": "workday:analogdevices:/job/US-OR-Beaverton/Facilities-Construction-Manager_R262894",
+    "company": "Analog Devices",
+    "sector": "chips",
+    "title": "Senior Facilities Project Manager",
+    "location": "US, OR, Beaverton",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-OR-Beaverton/Facilities-Construction-Manager_R262894",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:32.913Z"
+  },
+  {
+    "id": "workday:micron:/job/Taichung---Fab-16-Taiwan/STAFF-ENGINEER--APTD-MRDA_JR105791",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "STAFF ENGINEER, APTD MRDA",
+    "location": "Taichung - Fab 16, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/STAFF-ENGINEER--APTD-MRDA_JR105791",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.983Z"
+  },
+  {
+    "id": "workday:micron:/job/MSB-Singapore/Engineer--PDE-MODSSD-PIE_JR115057",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Engineer, PDE MODSSD PIE",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Engineer--PDE-MODSSD-PIE_JR115057",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.983Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10A-Singapore/SENIOR-PRODUCT-OWNER--SMAI_JR113072",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "SENIOR PRODUCT OWNER, SMAI",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/SENIOR-PRODUCT-OWNER--SMAI_JR113072",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.983Z"
+  },
+  {
+    "id": "workday:micron:/job/Fab-10NX-Singapore/TD-NAND-Failure-Analysis-Lead_JR116079",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "TD NAND Failure Analysis Lead",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/TD-NAND-Failure-Analysis-Lead_JR116079",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.983Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/Adversary-Disruption-Team---Senior-Operator_JR118542",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Adversary Disruption Team – Senior Operator",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Adversary-Disruption-Team---Senior-Operator_JR118542",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.983Z"
+  },
+  {
+    "id": "workday:micron:/job/Boise-ID---Main-Site/Engineer---Life-Safety-Systems---Telecommunications_JR115815",
+    "company": "Micron",
+    "sector": "chips",
+    "title": "Engineer - Life Safety Systems & Telecommunications",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---Main-Site/Engineer---Life-Safety-Systems---Telecommunications_JR115815",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.983Z"
+  },
+  {
+    "id": "workday:broadcom:/job/CHN-Beijing-InfoTech/Software-Applications-Engineer_R027826-1",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "Software Applications Engineer",
+    "location": "2 Locations",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/CHN-Beijing-InfoTech/Software-Applications-Engineer_R027826-1",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.502Z"
+  },
+  {
+    "id": "workday:broadcom:/job/IND-Bangalore-Electronic-City---S1/Staff-Engineer---Software-Development_R027965",
+    "company": "Broadcom",
+    "sector": "chips",
+    "title": "Staff Engineer – Software Development",
+    "location": "IND-Bangalore Electronic City - S1",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/job/IND-Bangalore-Electronic-City---S1/Staff-Engineer---Software-Development_R027965",
+    "postedAt": "Posted Today",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:31.502Z"
+  },
+  {
+    "id": "ashby:saronic:a3312344-2cb9-40c0-b9a7-724de2fa97ee",
+    "company": "Saronic",
+    "sector": "marine",
+    "title": "Director of Growth Innovation",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/saronic/a3312344-2cb9-40c0-b9a7-724de2fa97ee",
+    "postedAt": "2026-11-23T00:10:47.553+00:00",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-23T02:50:30.017Z"
+  },
+  {
     "id": "workday:micron:/job/Tainan-Taiwan/TECHNICIAN--TCP-PROD_JR118233-1",
     "company": "Micron",
     "sector": "chips",
@@ -35988,18 +36168,6 @@
     "firstSeenAt": "2026-11-19T22:11:27.792Z"
   },
   {
-    "id": "workday:nvidia:/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
-    "company": "NVIDIA",
-    "sector": "chips",
-    "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-11-19T22:11:27.792Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---Hazelwood-MO/F-15-Field-Service-Rep---Saudi-Arabia_JR2026530312-3",
     "company": "Boeing",
     "sector": "aero",
@@ -36360,42 +36528,6 @@
     "firstSeenAt": "2026-11-19T22:11:24.819Z"
   },
   {
-    "id": "workday:micron:/job/Fab-10NX-Singapore/Senior-Engineer--NTI-Yield-Analysis_JR117981",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Senior Engineer, NTI Yield Analysis",
-    "location": "Fab 10N/X, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/Senior-Engineer--NTI-Yield-Analysis_JR117981",
-    "postedAt": "Posted 2 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-19T22:11:24.819Z"
-  },
-  {
-    "id": "workday:micron:/job/San-Jose-CA/Sr-Director--ITP-Planning---Operations_JR118102",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Sr. Director, ITP Planning & Operations",
-    "location": "2 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/San-Jose-CA/Sr-Director--ITP-Planning---Operations_JR118102",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-19T22:11:24.819Z"
-  },
-  {
-    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Standard-Cell-Design_JR100652",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Engineer - Standard Cell Design",
-    "location": "Hyderabad - Phoenix Aquila, India",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Standard-Cell-Design_JR100652",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-19T22:11:24.819Z"
-  },
-  {
     "id": "workday:broadcom:/job/USA-CA-San-Jose-Innovation-Drive/Switch-SDK-Software-Engineer_R027875",
     "company": "Broadcom",
     "sector": "chips",
@@ -36610,42 +36742,6 @@
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-19T13:17:12.643Z"
-  },
-  {
-    "id": "workday:micron:/job/Boise-ID---ID1/HVAC-R-Operations-Technician-Job-Description_JR97961-1",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "HVAC/R Operations Technician Job Description",
-    "location": "2 Locations",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Boise-ID---ID1/HVAC-R-Operations-Technician-Job-Description_JR97961-1",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-19T13:17:11.986Z"
-  },
-  {
-    "id": "workday:micron:/job/Fab-10NX-Singapore/Intern---Facilities-Mechanical-Engineering_JR111468",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Intern - Facilities Mechanical Engineering",
-    "location": "Fab 10N/X, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10NX-Singapore/Intern---Facilities-Mechanical-Engineering_JR111468",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-11-19T13:17:11.986Z"
-  },
-  {
-    "id": "workday:micron:/job/MSB-Singapore/Principal-AT-Cost-Analyst_JR117554",
-    "company": "Micron",
-    "sector": "chips",
-    "title": "Principal AT Cost Analyst",
-    "location": "MSB, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/job/MSB-Singapore/Principal-AT-Cost-Analyst_JR117554",
-    "postedAt": "Posted 3 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-19T13:17:11.986Z"
   },
   {
     "id": "lever:zoox:8356bb90-10cf-4c91-ba81-11acff1bdf60",
@@ -40656,24 +40752,24 @@
     "firstSeenAt": "2026-11-18T22:00:20.870Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Munich-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026527442-2",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "CVE / Senior Part 21J Structures Engineer (m/f/d)",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Munich-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026527442-2",
-    "postedAt": "Posted 4 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-18T22:00:20.870Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Experienced-or-Senior-Procurement-Analyst_JR2026527568-2",
     "company": "Boeing",
     "sector": "aero",
     "title": "Experienced or Senior Procurement Analyst",
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Experienced-or-Senior-Procurement-Analyst_JR2026527568-2",
+    "postedAt": "Posted 4 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-18T22:00:20.870Z"
+  },
+  {
+    "id": "workday:boeing:/job/DEU---Munich-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026527442-2",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "CVE / Senior Part 21J Structures Engineer (m/f/d)",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Munich-Germany/CVE---Senior-Part-21J-Structures-Engineer--m-f-d-_JR2026527442-2",
     "postedAt": "Posted 4 Days Ago",
     "isSummer2027": false,
     "isEE": false,
@@ -45876,30 +45972,6 @@
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Seat Structures Engineer (Mid-Level) (m/f/d) ",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
-    "postedAt": "Posted 21 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026527302-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Manager, Seat Integration Team (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026527302-1",
-    "postedAt": "Posted 23 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Global-Trade-Controls-Specialist---Millennium-Space-Systems_JR2026525236-2",
     "company": "Boeing",
     "sector": "aero",
@@ -45924,6 +45996,18 @@
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Seat Structures Engineer (Mid-Level) (m/f/d) ",
+    "location": "DEU - Hamburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Seat-Structures-Engineer--Mid-Level---m-f-d--_JR2026502592-1",
+    "postedAt": "Posted 21 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---El-Segundo-CA/Embedded-Software-Engineer--Associate--Experienced--or-Senior-_JR2026518298-1",
     "company": "Boeing",
     "sector": "aero",
@@ -45943,42 +46027,6 @@
     "location": "USA - El Segundo, CA",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015-1",
     "postedAt": "Posted 10 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Seat Structures Engineer / CVE (m/f/d)",
-    "location": "DEU - Hamburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
-    "postedAt": "Posted 21 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Mid-Level Structural Analysis Engineer – Wing & Empennage",
-    "location": "USA - North Charleston, SC",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Project-Engineer--Connectivity---m-f-d-_JR2026527355",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Project Engineer (Connectivity) (m/f/d)",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Project-Engineer--Connectivity---m-f-d-_JR2026527355",
-    "postedAt": "Posted 20 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
@@ -46200,6 +46248,30 @@
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
   },
   {
+    "id": "workday:boeing:/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Senior Seat Structures Engineer / CVE (m/f/d)",
+    "location": "DEU - Hamburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/DEU---Hamburg-Germany/Senior-Seat-Structures-Engineer---CVE--m-f-d-_JR2026514472-1",
+    "postedAt": "Posted 21 Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
+    "id": "workday:boeing:/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
+    "company": "Boeing",
+    "sector": "aero",
+    "title": "Mid-Level Structural Analysis Engineer – Wing & Empennage",
+    "location": "USA - North Charleston, SC",
+    "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1",
+    "postedAt": "Posted 30+ Days Ago",
+    "isSummer2027": false,
+    "isEE": false,
+    "firstSeenAt": "2026-11-14T19:13:32.450Z"
+  },
+  {
     "id": "workday:boeing:/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1",
     "company": "Boeing",
     "sector": "aero",
@@ -46231,18 +46303,6 @@
     "location": "USA - Hazelwood, MO",
     "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Mid-Level-Systems-Engineer_JR2026527869-1",
     "postedAt": "Posted 11 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:32.450Z"
-  },
-  {
-    "id": "workday:boeing:/job/IRL---Dublin-Ireland/Senior-Manager-Engineering--Commercial-Modifications--m-f-d-_JR2026528684",
-    "company": "Boeing",
-    "sector": "aero",
-    "title": "Senior Manager Engineering, Commercial Modifications (m/f/d)",
-    "location": "4 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Senior-Manager-Engineering--Commercial-Modifications--m-f-d-_JR2026528684",
-    "postedAt": "Posted 16 Days Ago",
     "isSummer2027": false,
     "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:32.450Z"
@@ -46915,18 +46975,6 @@
     "location": "US, Oregon, Hillsboro",
     "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
     "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": true,
-    "isEE": true,
-    "firstSeenAt": "2026-11-14T19:13:32.283Z"
-  },
-  {
-    "id": "workday:intel:/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661",
-    "company": "Intel",
-    "sector": "chips",
-    "title": "Process Integration Development Engineer PhD Intern 2027",
-    "location": "US, Oregon, Hillsboro",
-    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661",
-    "postedAt": "Posted 25 Days Ago",
     "isSummer2027": true,
     "isEE": true,
     "firstSeenAt": "2026-11-14T19:13:32.283Z"
@@ -47757,18 +47805,6 @@
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": true,
-    "firstSeenAt": "2026-11-14T19:13:31.505Z"
-  },
-  {
-    "id": "workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
-    "company": "Analog Devices",
-    "sector": "chips",
-    "title": "Healthcare Mechanical Engineering Co-op (Spring)",
-    "location": "US, MA, Wilmington",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
     "firstSeenAt": "2026-11-14T19:13:31.505Z"
   },
   {
@@ -48732,18 +48768,6 @@
     "firstSeenAt": "2026-11-14T19:13:30.049Z"
   },
   {
-    "id": "workday:broadcom:/job/Malaysia-Penang-B-1--2/ChipFab-Process-Engineer_R027546-2",
-    "company": "Broadcom",
-    "sector": "chips",
-    "title": "ChipFab Product/Process Engineer",
-    "location": "Malaysia-Penang B 1 & 2",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/job/Malaysia-Penang-B-1--2/ChipFab-Process-Engineer_R027546-2",
-    "postedAt": "Posted 24 Days Ago",
-    "isSummer2027": false,
-    "isEE": false,
-    "firstSeenAt": "2026-11-14T19:13:30.049Z"
-  },
-  {
     "id": "workday:broadcom:/job/SGP-Robinson-Road-SO/Solution-Architect---Singapore_R027478",
     "company": "Broadcom",
     "sector": "chips",
@@ -49326,18 +49350,6 @@
     "title": "Senior Custom ASIC Engineering Lead",
     "location": "3 Locations",
     "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-CA-San-Jose-Innovation-Drive/Senior-Custom-ASIC-Engineering-Lead_R026319",
-    "postedAt": "Posted 30+ Days Ago",
-    "isSummer2027": false,
-    "isEE": true,
-    "firstSeenAt": "2026-11-14T19:13:30.049Z"
-  },
-  {
-    "id": "workday:broadcom:/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Lead-ASIC-Design-Engineer_R026296",
-    "company": "Broadcom",
-    "sector": "chips",
-    "title": "Lead ASIC Design Engineer",
-    "location": "USA-California-San Jose-1320 Ridder Park Drive",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Lead-ASIC-Design-Engineer_R026296",
     "postedAt": "Posted 30+ Days Ago",
     "isSummer2027": false,
     "isEE": true,
